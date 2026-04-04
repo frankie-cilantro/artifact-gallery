@@ -12,6 +12,7 @@ const artifactEntries = Object.fromEntries(
 );
 
 export default defineConfig({
+  base: "/artifact-gallery/",
   plugins: [react()],
   build: {
     rollupOptions: {
