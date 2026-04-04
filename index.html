@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Artifact Gallery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'DM Sans', system-ui, sans-serif;
+      background: #0f1117;
+      color: #c8cdd5;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .page {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 64px 24px 80px;
+    }
+
+    header { margin-bottom: 56px; }
+
+    h1 {
+      font-family: 'DM Mono', monospace;
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #6b7280;
+      margin-bottom: 12px;
+    }
+
+    .subtitle {
+      font-size: 15px;
+      color: #4b5563;
+      line-height: 1.6;
+      max-width: 520px;
+    }
+
+    .artifact-list {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .artifact-card {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      gap: 16px;
+      padding: 20px 24px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      border-radius: 8px;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.2s ease;
+    }
+
+    .artifact-card:hover {
+      background: rgba(255, 255, 255, 0.05);
+      border-color: rgba(255, 255, 255, 0.1);
+      transform: translateY(-1px);
+    }
+
+    .artifact-name {
+      font-size: 15px;
+      font-weight: 500;
+      color: #e5e7eb;
+      margin-bottom: 4px;
+    }
+
+    .artifact-meta {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: #4b5563;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .artifact-tag {
+      padding: 2px 8px;
+      border-radius: 3px;
+      font-size: 10px;
+      font-family: 'DM Mono', monospace;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      flex-shrink: 0;
+    }
+
+    .tag-react {
+      background: rgba(59, 130, 246, 0.1);
+      color: #60a5fa;
+    }
+
+    .artifact-links {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .link-btn {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      padding: 6px 14px;
+      border-radius: 4px;
+      text-decoration: none;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .link-live {
+      background: rgba(16, 185, 129, 0.12);
+      color: #34d399;
+      border: 1px solid rgba(16, 185, 129, 0.2);
+    }
+
+    .link-live:hover {
+      background: rgba(16, 185, 129, 0.2);
+    }
+
+    .link-source {
+      background: rgba(255, 255, 255, 0.04);
+      color: #6b7280;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .link-source:hover {
+      background: rgba(255, 255, 255, 0.08);
+      color: #9ca3af;
+    }
+
+    .count {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: #374151;
+      margin-top: 24px;
+      padding-top: 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.04);
+    }
+
+    @media (max-width: 600px) {
+      .artifact-card {
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+      .artifact-links { justify-content: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1>Artifact Gallery</h1>
+      <p class="subtitle">Interactive tools and visualizations built with Claude. Each artifact is a self-contained app you can open, share, or fork.</p>
+    </header>
+
+    <div class="artifact-list">
+
+      <!-- ═══════════════════════════════════════════════
+           ADD NEW ARTIFACTS HERE
+           Copy a card block and update:
+           - artifact-name text
+           - artifact-meta description
+           - href for Open link (artifacts/your-artifact-name/)
+           - href for JSX link (originals/your-artifact-name.jsx)
+           ═══════════════════════════════════════════════ -->
+
+      <div class="artifact-card">
+        <div>
+          <div class="artifact-name">Developer Toolkit Map</div>
+          <div class="artifact-meta">
+            <span class="artifact-tag tag-react">React</span>
+            <span>Interactive node map of dev tools, tiered by priority</span>
+          </div>
+        </div>
+        <div class="artifact-links">
+          <a href="artifacts/developer-toolkit-map/" class="link-btn link-live">Open</a>
+          <a href="originals/developer-toolkit-map.jsx" class="link-btn link-source">JSX</a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="count">1 artifact</div>
+  </div>
+</body>
+</html>
