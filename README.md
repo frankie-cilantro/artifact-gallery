@@ -5,13 +5,13 @@ Interactive tools and visualizations built with Claude. Vite-bundled, auto-deplo
 ## Live Gallery
 
 ```
-https://YOUR_USERNAME.github.io/artifact-gallery/
+https://frankie-cilantro.github.io/artifact-gallery/
 ```
 
 Each artifact has a direct shareable URL:
 
 ```
-https://YOUR_USERNAME.github.io/artifact-gallery/artifacts/developer-toolkit-map/
+https://frankie-cilantro.github.io/artifact-gallery/artifacts/developer-toolkit-map/
 ```
 
 ## Structure
