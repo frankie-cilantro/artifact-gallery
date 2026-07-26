@@ -1,0 +1,1009 @@
+cycle,nameplate,class,drivetrain,model_years,rate_overall,ci_lo,ci_hi,rate_mv,rate_sv,rate_sv_roll,exposure_rvy
+MY2020,Chevrolet Spark,mini cars,,2017-20,151,90,212,,,,250809
+MY2020,Hyundai Accent,mini cars,,2018-20,152,61,242,,,,120942
+MY2020,Mitsubishi Mirage G4,mini cars,,2017-20,205,107,303,,,,131270
+MY2020,Kia Rio sedan,mini cars,,2018-20,122,48,197,,,,111909
+MY2020,Mitsubishi Mirage hatchback,mini cars,,2017-20,183,93,273,,,,130507
+MY2020,Honda Civic hatchback,small cars,,2019-20,78,26,130,,,,155440
+MY2020,Subaru Impreza sedan,small cars,,2017-20,46,18,74,,,,232558
+MY2020,Subaru WRX,small cars,,2017-20,38,19,58,,,,327376
+MY2020,Toyota Prius,small cars,,2017-20,45,23,67,,,,494862
+MY2020,Chevrolet Sonic,small cars,,2017-20,107,50,164,,,,190207
+MY2020,Hyundai Elantra,small cars,,2020,103,48,157,,,,164258
+MY2020,Chevrolet Bolt,small cars,,2017-20,8,0,19,,,,200063
+MY2020,Toyota Corolla,small cars,,2020,58,31,86,,,,288995
+MY2020,Toyota Prius Prime,small cars,,2017-20,23,0,45,,,,225182
+MY2020,Kia Forte,small cars,,2019-20,111,62,160,,,,271501
+MY2020,Honda Civic,small cars,,2019-20,49,29,69,,,,645051
+MY2020,Honda Accord hybrid,midsize cars,,2018-20,45,1,90,,,,112221
+MY2020,Toyota Camry,midsize cars,,2018-20,48,38,59,,,,2014523
+MY2020,Ford Fusion hybrid,midsize cars,,2019-20,25,0,56,,,,143192
+MY2020,Kia Optima,midsize cars,,2019-20,80,45,115,,,,263774
+MY2020,Chevrolet Malibu,midsize cars,,2017-20,91,73,108,,,,1476351
+MY2020,Toyota Camry hybrid,midsize cars,,2018-20,19,0,38,,,,165546
+MY2020,Ford Fusion,midsize cars,,2019-20,67,30,104,,,,257689
+MY2020,Nissan Altima,midsize cars,,2019-20,113,75,151,,,,451700
+MY2020,Volkswagen Jetta,midsize cars,,2019-20,47,24,69,,,,410900
+MY2020,Honda Accord,midsize cars,,2018-20,46,34,57,,,,1546159
+MY2020,Dodge Charger HEMI,large cars,2WD,2017-20,118,72,164,,,,244988
+MY2020,Chrysler 300,large cars,4WD,2017-20,100,37,164,,,,117164
+MY2020,Chevrolet Impala,large cars,,2017-20,80,55,105,,,,622686
+MY2020,Dodge Charger,large cars,4WD,2017-20,32,0,67,,,,135703
+MY2020,Dodge Challenger,large cars,2WD,2017-20,154,116,192,,,,460205
+MY2020,Dodge Charger,large cars,2WD,2017-20,91,56,126,,,,372915
+MY2020,Chrysler 300,large cars,2WD,2017-20,61,30,92,,,,239210
+MY2020,Audi A4,midsize luxury cars,2WD,2017-20,7,0,21,,,,111353
+MY2020,Acura TLX,midsize luxury cars,2WD,2018-20,31,0,64,,,,140489
+MY2020,Lexus ES 350,midsize luxury cars,,2019-20,0,0,29,,,,128984
+MY2020,Audi A4,midsize luxury cars,4WD,2017-20,17,0,36,,,,253968
+MY2020,Tesla Model 3,midsize luxury cars,4WD,2019-20,52,9,96,,,,150131
+MY2020,Mercedes-Benz C-Class sedan,midsize luxury cars,2WD,2017-20,28,5,51,,,,239682
+MY2020,Mercedes-Benz C-Class sedan,midsize luxury cars,4WD,2017-20,9,0,21,,,,178256
+MY2020,Mercedes-Benz CLA-Class,midsize luxury cars,2WD,2017-20,64,11,117,,,,103631
+MY2020,Tesla Model 3,midsize luxury cars,2WD,2019-20,15,0,33,,,,155635
+MY2020,Genesis G80,large luxury cars,,2017-20,30,0,69,,,,115322
+MY2020,Mercedes-Benz E-Class sedan,large luxury cars,4WD,2017-20,0,0,22,,,,165231
+MY2020,Mercedes-Benz E-Class sedan,large luxury cars,2WD,2017-20,27,5,48,,,,177688
+MY2020,Tesla Model S,large luxury cars,4WD,2017-20,17,0,33,,,,188773
+MY2020,Ford Mustang GT coupe,midsize sports cars,,2017-20,77,45,109,,,,269419
+MY2020,Ford Mustang coupe,midsize sports cars,,2017-20,59,31,86,,,,287448
+MY2020,Ford Mustang convertible,midsize sports cars,,2017-20,97,41,153,,,,137742
+MY2020,Chevrolet Camaro coupe,large sports cars,,2017-20,110,76,145,,,,411837
+MY2020,Chevrolet Camaro convertible,large sports cars,,2017-20,113,34,191,,,,100610
+MY2020,Honda Fit,mini station wagons/minivans,,2017-20,53,25,81,,,,382953
+MY2020,Kia Niro hybrid,mini station wagons/minivans,,2017-20,43,15,71,,,,226239
+MY2020,Kia Soul,small station wagons/minivans,,2020,63,6,120,,,,111248
+MY2020,Subaru XV Crosstrek,small station wagons/minivans,,2018-20,24,11,37,,,,816413
+MY2020,Subaru Impreza wagon,small station wagons/minivans,,2017-20,23,8,39,,,,471154
+MY2020,Subaru Outback,midsize station wagons/minivans,,2020,5,0,15,,,,157098
+MY2020,Chrysler Pacifica,very large station wagons/minivans,2WD,2017-20,20,10,29,,,,1187665
+MY2020,Kia Sedona,very large station wagons/minivans,,2017-20,53,20,87,,,,221375
+MY2020,Toyota Sienna,very large station wagons/minivans,2WD,2018-20,5,0,13,,,,296469
+MY2020,Honda Odyssey,very large station wagons/minivans,,2018-20,6,0,13,,,,675226
+MY2020,Dodge Grand Caravan,very large station wagons/minivans,,2017-20,48,34,62,,,,1240412
+MY2020,Chevrolet Colorado Crew Cab,small pickups,4WD,2017-20,21,10,32,,,,534842
+MY2020,Toyota Tacoma Double Cab long bed,small pickups,4WD,2018-20,6,0,18,,,,130814
+MY2020,Toyota Tacoma Double Cab short bed,small pickups,4WD,2018-20,24,13,35,,,,620373
+MY2020,Chevrolet Colorado Crew Cab,small pickups,2WD,2017-20,36,10,62,,,,262403
+MY2020,GMC Canyon Crew Cab,small pickups,4WD,2017-20,5,0,14,,,,167686
+MY2020,Jeep Gladiator,small pickups,4WD,2020,15,0,37,,,,103047
+MY2020,Chevrolet Colorado Extended Cab,small pickups,2WD,2017-20,34,8,59,,,,162569
+MY2020,Nissan Frontier King Cab,small pickups,2WD,2017-20,40,12,68,,,,157845
+MY2020,Ford Ranger Crew Cab,small pickups,4WD,2019-20,14,0,31,,,,165078
+MY2020,Toyota Tacoma Double Cab short bed,small pickups,2WD,2018-20,27,8,46,,,,308613
+MY2020,Nissan Frontier Crew Cab short bed,small pickups,4WD,2017-20,56,28,85,,,,257137
+MY2020,Nissan Frontier Crew Cab short bed,small pickups,2WD,2017-20,58,27,88,,,,238690
+MY2020,Ford F-150 SuperCab,large pickups,4WD,2019-20,29,3,55,,,,136407
+MY2020,Ford F-150 SuperCrew,large pickups,2WD,2019-20,30,5,55,,,,219880
+MY2020,Toyota Tundra Double Cab short bed,large pickups,4WD,2018-20,12,0,28,,,,134250
+MY2020,Ram 1500 Classic Crew Cab short bed,large pickups,4WD,2019-20,51,1,100,,,,100537
+MY2020,Chevrolet Silverado 1500 Extended Cab,large pickups,4WD,2019-20,14,0,31,,,,163091
+MY2020,Ram 1500 Crew Cab short bed,large pickups,4WD,2019-20,35,20,51,,,,653913
+MY2020,Chevrolet Silverado 1500 Crew Cab,large pickups,2WD,2019-20,33,8,58,,,,166199
+MY2020,GMC Sierra 1500 Crew Cab,large pickups,4WD,2019-20,24,9,38,,,,334415
+MY2020,Ford F-150 SuperCrew,large pickups,4WD,2019-20,30,20,41,,,,1011699
+MY2020,Ram 1500 Quad Cab,large pickups,4WD,2019-20,31,0,62,,,,102175
+MY2020,Ram 1500 Classic Quad Cab,large pickups,4WD,2019-20,23,0,49,,,,102756
+MY2020,Ram 1500 Crew Cab short bed,large pickups,2WD,2019-20,28,0,63,,,,126116
+MY2020,Toyota Tundra Crew Max,large pickups,4WD,2018-20,34,15,52,,,,383730
+MY2020,Chevrolet Silverado 1500 Crew Cab,large pickups,4WD,2019-20,25,14,37,,,,621948
+MY2020,Ram 2500 Mega Cab,very large pickups,4WD,2017-20,65,22,108,,,,109656
+MY2020,Ford F-250 SuperCab,very large pickups,4WD,2017-20,22,2,41,,,,181166
+MY2020,Ford F-350 Crew Cab,very large pickups,4WD,2017-20,29,16,42,,,,630989
+MY2020,Ram 3500 Crew Cab long bed,very large pickups,4WD,2017-20,37,16,57,,,,278118
+MY2020,Ram 2500 Crew Cab long bed,very large pickups,4WD,2017-20,42,7,76,,,,160364
+MY2020,Ford F-250 Crew Cab,very large pickups,4WD,2017-20,32,22,42,,,,1257411
+MY2020,Ram 2500 Crew Cab short bed,very large pickups,4WD,2017-20,33,21,46,,,,775206
+MY2020,Jeep Renegade,small SUVs,2WD,2017-20,50,21,78,,,,329250
+MY2020,Honda CR-V,small SUVs,4WD,2020,14,0,36,,,,192967
+MY2020,Jeep Compass,small SUVs,4WD,2017-20,41,24,58,,,,766229
+MY2020,Nissan Rogue,small SUVs,4WD,2019-20,53,23,82,,,,356435
+MY2020,Chevrolet Equinox,small SUVs,4WD,2020,30,0,62,,,,145157
+MY2020,Nissan Rogue,small SUVs,2WD,2019-20,52,23,82,,,,291135
+MY2020,Chevrolet Trax,small SUVs,2WD,2017-20,89,57,121,,,,544469
+MY2020,Ford EcoSport,small SUVs,2WD,2018-20,84,35,132,,,,159334
+MY2020,Honda HR-V,small SUVs,2WD,2017-20,63,29,96,,,,342959
+MY2020,Jeep Compass,small SUVs,2WD,2017-20,27,6,48,,,,272762
+MY2020,Toyota RAV4,small SUVs,4WD,2019-20,56,30,83,,,,490630
+MY2020,Mitsubishi Outlander Sport,small SUVs,2WD,2017-20,39,13,64,,,,183247
+MY2020,Chevrolet Trax,small SUVs,4WD,2017-20,59,26,91,,,,331884
+MY2020,Subaru Forester,small SUVs,,2019-20,30,13,48,,,,542936
+MY2020,Honda HR-V,small SUVs,4WD,2017-20,31,14,48,,,,551991
+MY2020,Toyota RAV4 hybrid,small SUVs,4WD,2019-20,20,0,40,,,,250526
+MY2020,Ford EcoSport,small SUVs,4WD,2018-20,67,29,104,,,,210660
+MY2020,Hyundai Santa Fe,small SUVs,2WD,2019-20,17,0,39,,,,206616
+MY2020,Chevrolet Equinox,small SUVs,2WD,2020,49,17,80,,,,201295
+MY2020,Ford Escape,small SUVs,4WD,2020,43,1,85,,,,118845
+MY2020,Toyota C-HR,small SUVs,,2018-20,2,0,7,,,,335243
+MY2020,Hyundai Santa Fe,small SUVs,4WD,2019-20,19,0,37,,,,168181
+MY2020,Hyundai Tucson,small SUVs,4WD,2019-20,40,7,73,,,,197787
+MY2020,Hyundai Tucson,small SUVs,2WD,2019-20,60,16,105,,,,175072
+MY2020,Mitsubishi Outlander Sport,small SUVs,4WD,2017-20,28,3,53,,,,140265
+MY2020,Mitsubishi Outlander,small SUVs,2WD,2017-20,36,11,61,,,,174831
+MY2020,Jeep Renegade,small SUVs,4WD,2017-20,49,25,72,,,,584852
+MY2020,Toyota RAV4,small SUVs,2WD,2019-20,35,13,56,,,,395915
+MY2020,Mitsubishi Outlander,small SUVs,4WD,2017-20,53,12,95,,,,161301
+MY2020,Jeep Grand Cherokee,midsize SUVs,2WD,2017-20,40,18,62,,,,429423
+MY2020,Honda Pilot,midsize SUVs,4WD,2019-20,13,0,30,,,,270505
+MY2020,Chevrolet Traverse,midsize SUVs,4WD,2018-20,6,0,13,,,,391404
+MY2020,GMC Acadia,midsize SUVs,2WD,2017-20,10,2,19,,,,461774
+MY2020,Nissan Murano,midsize SUVs,2WD,2018-20,4,0,12,,,,202028
+MY2020,Subaru Ascent,midsize SUVs,,2019-20,6,0,16,,,,244807
+MY2020,Buick Enclave,midsize SUVs,2WD,2018-20,38,1,75,,,,135275
+MY2020,Nissan Murano,midsize SUVs,4WD,2018-20,22,0,43,,,,234770
+MY2020,Jeep Grand Cherokee,midsize SUVs,4WD,2017-20,12,6,17,,,,1811150
+MY2020,Honda Pilot,midsize SUVs,2WD,2019-20,7,0,20,,,,120555
+MY2020,Kia Sorento,midsize SUVs,2WD,2017-20,35,17,53,,,,593563
+MY2020,Nissan Pathfinder,midsize SUVs,2WD,2018-20,0,0,22,,,,168710
+MY2020,GMC Acadia,midsize SUVs,4WD,2017-20,11,3,20,,,,492071
+MY2020,Dodge Journey,midsize SUVs,2WD,2017-20,62,40,83,,,,712378
+MY2020,Ford Explorer,midsize SUVs,4WD,2020,22,0,47,,,,191990
+MY2020,Chevrolet Traverse,midsize SUVs,2WD,2018-20,30,9,50,,,,457661
+MY2020,Buick Enclave,midsize SUVs,4WD,2018-20,23,0,47,,,,133976
+MY2020,Jeep Cherokee,midsize SUVs,2WD,2017-20,55,34,77,,,,581300
+MY2020,Volkswagen Atlas,midsize SUVs,4WD,2019-20,20,0,52,,,,133586
+MY2020,Nissan Pathfinder,midsize SUVs,4WD,2018-20,25,0,53,,,,214539
+MY2020,Ford Edge,midsize SUVs,2WD,2019-20,49,2,96,,,,150376
+MY2020,Chevrolet Blazer,midsize SUVs,2WD,2019-20,23,0,49,,,,103337
+MY2020,Kia Sorento,midsize SUVs,4WD,2017-20,26,9,43,,,,473775
+MY2020,Jeep Cherokee,midsize SUVs,4WD,2017-20,34,22,46,,,,1127807
+MY2020,Jeep Wrangler 4-door,midsize SUVs,4WD,2018-20,39,25,54,,,,902729
+MY2020,Ford Edge,midsize SUVs,4WD,2019-20,6,0,15,,,,260827
+MY2020,Jeep Wrangler 2-door,midsize SUVs,4WD,2018-20,54,6,102,,,,108507
+MY2020,GMC Yukon,large SUVs,2WD,2017-20,24,0,55,,,,144410
+MY2020,GMC Yukon,large SUVs,4WD,2017-20,22,4,40,,,,299875
+MY2020,Dodge Durango,large SUVs,2WD,2017-20,40,5,76,,,,204631
+MY2020,Chevrolet Tahoe,large SUVs,4WD,2017-20,16,3,28,,,,549799
+MY2020,Dodge Durango,large SUVs,4WD,2017-20,24,8,39,,,,463933
+MY2020,Chevrolet Tahoe,large SUVs,2WD,2017-20,9,0,17,,,,369487
+MY2020,Chevrolet Suburban 1500,very large SUVs,2WD,2017-20,54,9,99,,,,165714
+MY2020,Chevrolet Suburban 1500,very large SUVs,4WD,2017-20,21,5,37,,,,352961
+MY2020,GMC Yukon XL 1500,very large SUVs,4WD,2017-20,11,0,28,,,,243543
+MY2020,Buick Encore,small luxury SUVs,4WD,2017-20,45,12,77,,,,236824
+MY2020,Mercedes-Benz GLA Class,small luxury SUVs,4WD,2017-20,20,0,42,,,,119781
+MY2020,Buick Encore,small luxury SUVs,2WD,2017-20,64,38,90,,,,584285
+MY2020,Volvo XC60,midsize luxury SUVs,4WD,2018-20,5,0,16,,,,147494
+MY2020,BMW X3,midsize luxury SUVs,4WD,2019-20,0,0,29,,,,128584
+MY2020,Lexus RX 350,midsize luxury SUVs,2WD,2017-20,10,1,19,,,,391225
+MY2020,Lexus RX 350,midsize luxury SUVs,4WD,2017-20,5,0,10,,,,510725
+MY2020,Acura MDX,midsize luxury SUVs,2WD,2017-20,11,0,27,,,,138978
+MY2020,Lexus NX 300,midsize luxury SUVs,4WD,2018-20,13,0,32,,,,119160
+MY2020,Volvo XC90,midsize luxury SUVs,4WD,2018-20,4,0,13,,,,185346
+MY2020,Acura RDX,midsize luxury SUVs,4WD,2019-20,6,0,18,,,,130075
+MY2020,Lexus RX 450h,midsize luxury SUVs,4WD,2017-20,7,0,22,,,,106809
+MY2020,Audi Q5,midsize luxury SUVs,4WD,2018-20,2,0,6,,,,423310
+MY2020,Buick Envision,midsize luxury SUVs,4WD,2017-20,36,10,61,,,,177242
+MY2020,BMW X5,midsize luxury SUVs,4WD,2019-20,6,0,19,,,,121031
+MY2020,Buick Envision,midsize luxury SUVs,2WD,2017-20,51,13,88,,,,185795
+MY2020,Porsche Macan,midsize luxury SUVs,,2017-20,6,0,14,,,,262964
+MY2020,Acura MDX,midsize luxury SUVs,4WD,2017-20,6,0,16,,,,425582
+MY2020,Lexus NX 300,midsize luxury SUVs,2WD,2018-20,6,0,17,,,,139035
+MY2020,Cadillac Escalade,large luxury SUVs,4WD,2017-20,26,3,48,,,,153998
+MY2020,Cadillac Escalade ESV,very large luxury SUVs,4WD,2017-20,27,0,67,,,,102948
+MY2017,Lincoln MKZ,midsize luxury cars,2WD,2014-17,55,5,106,32.0,25.0,6.0,126721
+MY2017,Acura TLX,midsize luxury cars,2WD,2015-17,21,0,42,13.0,10.0,0.0,240896
+MY2017,Mercedes-Benz C-Class sedan,midsize luxury cars,2WD,2015-17,28,0,56,10.0,17.0,9.0,179762
+MY2017,Lexus CT 200h,midsize luxury cars,,2014-17,6,0,19,6.0,0.0,0.0,118081
+MY2017,Infiniti Q50,midsize luxury cars,4WD,2014-17,39,8,70,0.0,39.0,11.0,218675
+MY2017,BMW 320i,midsize luxury cars,2WD,2014-17,42,4,80,17.0,29.0,0.0,137322
+MY2017,Infiniti Q50,midsize luxury cars,2WD,2014-17,60,31,90,18.0,44.0,19.0,213505
+MY2017,Mercedes-Benz C-Class sedan,midsize luxury cars,4WD,2015-17,0,0,15,0.0,0.0,0.0,254085
+MY2017,Cadillac ATS,midsize luxury cars,2WD,2014-17,31,6,56,21.0,11.0,6.0,146586
+MY2017,Audi A6,large luxury cars,4WD,2014-17,16,0,33,4.0,13.0,9.0,184986
+MY2017,Cadillac XTS,very large luxury cars,2WD,2014-17,21,0,41,21.0,0.0,0.0,147596
+MY2017,Chevrolet Corvette coupe,midsize sports cars,,2014-17,54,20,87,4.0,53.0,13.0,192396
+MY2017,Ford Mustang coupe,midsize sports cars,,2015-17,45,20,70,42.0,3.0,0.0,279661
+MY2017,Ford Mustang GT coupe,midsize sports cars,,2015-17,81,43,119,58.0,23.0,12.0,202978
+MY2017,Chevrolet Camaro coupe,large sports cars,,2016-17,39,10,69,6.0,35.0,18.0,134504
+MY2017,Hyundai Accent,mini station wagons/minivans,,2014-17,81,41,121,64.0,17.0,9.0,184081
+MY2017,Ford Fiesta,mini station wagons/minivans,,2014-17,65,33,97,58.0,5.0,0.0,289093
+MY2017,Honda Fit,mini station wagons/minivans,,2015-17,48,23,73,31.0,17.0,4.0,412993
+MY2017,Chevrolet Sonic,small station wagons/minivans,,2014-17,74,36,111,59.0,13.0,13.0,244549
+MY2017,Fiat 500L,small station wagons/minivans,,2014-17,24,0,62,24.0,0.0,0.0,112469
+MY2017,Kia Soul,small station wagons/minivans,,2014-17,70,52,87,50.0,19.0,10.0,1346860
+MY2017,Nissan Versa Note,small station wagons/minivans,,2014-17,96,65,127,80.0,12.0,7.0,600256
+MY2017,Ford C-Max hybrid,small station wagons/minivans,,2014-17,37,0,78,37.0,0.0,0.0,115963
+MY2017,Ford Focus,small station wagons/minivans,,2014-17,60,42,78,34.0,26.0,6.0,841734
+MY2017,Toyota Prius v,small station wagons/minivans,,2014-17,19,3,34,19.0,0.0,0.0,244190
+MY2017,Subaru XV Crosstrek,small station wagons/minivans,,2014-17,18,7,28,10.0,8.0,2.0,769213
+MY2017,Subaru Outback,midsize station wagons/minivans,,2015-17,3,0,6,2.0,1.0,0.0,796921
+MY2017,Chrysler Pacifica,very large station wagons/minivans,,2017,27,0,58,21.0,5.0,0.0,156682
+MY2017,Honda Odyssey,very large station wagons/minivans,,2014-17,8,2,14,4.0,5.0,2.0,1289578
+MY2017,Toyota Sienna,very large station wagons/minivans,2WD,2014-17,20,10,31,16.0,4.0,2.0,1067897
+MY2017,Dodge Grand Caravan,very large station wagons/minivans,,2014-17,41,28,54,26.0,15.0,5.0,1226909
+MY2017,Kia Sedona,very large station wagons/minivans,,2015-17,21,4,38,7.0,14.0,11.0,215030
+MY2017,Toyota Sienna,very large station wagons/minivans,4WD,2014-17,7,0,18,4.0,4.0,0.0,206725
+MY2017,Nissan Frontier King Cab,small pickups,2WD,2014-17,42,10,75,37.0,4.0,5.0,172775
+MY2017,Toyota Tacoma Double Cab short bed,small pickups,2WD,2016-17,29,0,61,17.0,11.0,0.0,147758
+MY2017,Chevrolet Colorado Crew Cab,small pickups,2WD,2015-17,16,0,35,5.0,11.0,6.0,141790
+MY2017,Chevrolet Colorado Crew Cab,small pickups,4WD,2015-17,32,5,59,21.0,10.0,7.0,240560
+MY2017,Toyota Tacoma Double Cab short bed,small pickups,4WD,2016-17,21,5,36,12.0,9.0,3.0,255258
+MY2017,Nissan Frontier Crew Cab short bed,small pickups,2WD,2014-17,58,30,87,49.0,11.0,7.0,220126
+MY2017,Chevrolet Colorado Extended Cab,small pickups,2WD,2015-17,15,0,36,0.0,15.0,8.0,101049
+MY2017,GMC Canyon Crew Cab,small pickups,4WD,2015-17,15,0,36,7.0,8.0,0.0,102690
+MY2017,Nissan Frontier Crew Cab short bed,small pickups,4WD,2014-17,21,4,39,7.0,15.0,0.0,212739
+MY2017,Ford F-150,large pickups,2WD,2015-17,42,8,77,36.0,7.0,8.0,107246
+MY2017,Chevrolet Silverado 1500 Extended Cab,large pickups,2WD,2014-17,37,18,56,24.0,13.0,6.0,432361
+MY2017,Chevrolet Silverado 1500 Crew Cab,large pickups,4WD,2014-17,26,19,33,15.0,11.0,4.0,1769896
+MY2017,Ford F-150 SuperCab,large pickups,4WD,2015-17,11,2,21,2.0,10.0,2.0,395598
+MY2017,Toyota Tundra Double Cab short bed,large pickups,2WD,2014-17,17,0,35,13.0,4.0,0.0,174791
+MY2017,Ram 1500 short bed,large pickups,2WD,2014-17,44,8,79,22.0,22.0,16.0,103962
+MY2017,Toyota Tundra Crew Max,large pickups,4WD,2014-17,7,1,14,0.0,7.0,2.0,510093
+MY2017,Chevrolet Silverado 1500 Extended Cab,large pickups,4WD,2014-17,24,16,32,13.0,11.0,3.0,1152425
+MY2017,GMC Sierra 1500 Extended Cab,large pickups,2WD,2014-17,27,0,54,27.0,0.0,0.0,112477
+MY2017,GMC Sierra 1500 Extended Cab,large pickups,4WD,2014-17,20,7,33,13.0,7.0,0.0,343354
+MY2017,Toyota Tundra Crew Max,large pickups,2WD,2014-17,34,10,59,22.0,13.0,0.0,176345
+MY2017,Ram 1500 Crew Cab short bed,large pickups,2WD,2014-17,37,19,56,21.0,17.0,10.0,416552
+MY2017,Chevrolet Silverado 1500 Crew Cab,large pickups,2WD,2014-17,54,35,74,30.0,25.0,3.0,713318
+MY2017,Chevrolet Silverado 1500,large pickups,4WD,2014-17,51,15,87,26.0,26.0,14.0,119212
+MY2017,Ram 1500 Crew Cab short bed,large pickups,4WD,2014-17,39,28,50,17.0,22.0,10.0,1209652
+MY2017,Ford F-150 Crew Cab,large pickups,4WD,2015-17,25,17,34,11.0,15.0,7.0,1552783
+MY2017,GMC Sierra 1500 Crew Cab,large pickups,2WD,2014-17,48,21,74,33.0,15.0,6.0,264813
+MY2017,Ford F-150 Supercab,large pickups,2WD,2015-17,23,4,43,12.0,12.0,0.0,193828
+MY2017,Ram 1500 Crew Cab long bed,large pickups,4WD,2014-17,16,0,32,8.0,8.0,9.0,188357
+MY2017,Toyota Tundra Double Cab short bed,large pickups,4WD,2014-17,13,1,25,5.0,8.0,0.0,287843
+MY2017,Chevrolet Silverado 1500,large pickups,2WD,2014-17,32,12,52,19.0,13.0,3.0,236798
+MY2017,Ford F-150 Crew Cab,large pickups,2WD,2015-17,30,15,45,20.0,9.0,3.0,498303
+MY2017,Ram 1500 Quad Cab,large pickups,2WD,2014-17,41,20,62,16.0,25.0,5.0,346230
+MY2017,Ram 1500 Quad Cab,large pickups,4WD,2014-17,30,15,45,24.0,6.0,5.0,605424
+MY2017,GMC Sierra 1500 Crew Cab,large pickups,4WD,2014-17,29,18,40,14.0,15.0,5.0,871192
+MY2017,Ford F250 Crew Cab,very large pickups,4WD,2017,30,6,55,15.0,15.0,0.0,150292
+MY2017,Chevrolet Silverado 3500 Crew Cab,very large pickups,4WD,2015-17,15,0,32,0.0,15.0,5.0,151813
+MY2017,Ram 2500 Mega Cab,very large pickups,4WD,2014-17,47,0,105,18.0,31.0,0.0,100187
+MY2017,Ram 2500 Crew Cab short bed,very large pickups,4WD,2014-17,30,18,43,13.0,17.0,6.0,580038
+MY2017,Chevrolet Silverado 2500 Extended Cab,very large pickups,4WD,2015-17,15,0,32,10.0,5.0,0.0,150684
+MY2017,Ram 3500 Crew Cab long bed,very large pickups,4WD,2014-17,32,12,52,19.0,13.0,3.0,239085
+MY2017,Ram 2500 Crew Cab long bed,very large pickups,4WD,2014-17,63,27,99,26.0,38.0,11.0,144323
+MY2017,GMC Sierra 2500 Crew Cab,very large pickups,4WD,2015-17,22,6,38,11.0,11.0,3.0,274346
+MY2017,Chevrolet Silverado 2500 Crew Cab,very large pickups,4WD,2015-17,17,7,27,13.0,4.0,2.0,526309
+MY2017,Hyundai Tucson,small SUVs,4WD,2016-17,18,0,47,12.0,5.0,0.0,148722
+MY2017,Mitsubishi Outlander Sport,small SUVs,2WD,2014-17,43,9,77,32.0,12.0,12.0,197002
+MY2017,Toyota RAV4,small SUVs,2WD,2017,28,0,59,28.0,0.0,0.0,153216
+MY2017,Toyota RAV4,small SUVs,4WD,2017,10,0,30,10.0,0.0,0.0,197926
+MY2017,Subaru Forester,small SUVs,4WD,2014-17,17,10,24,9.0,9.0,2.0,1477741
+MY2017,Jeep Renegade,small SUVs,2WD,2015-17,13,0,27,8.0,4.0,0.0,180718
+MY2017,Jeep Patriot,small SUVs,2WD,2014-17,60,35,85,49.0,8.0,5.0,618728
+MY2017,Mitsubishi Outlander,small SUVs,2WD,2014-17,55,5,104,31.0,22.0,15.0,105863
+MY2017,Nissan Rogue,small SUVs,4WD,2014-17,13,7,20,9.0,5.0,3.0,1202111
+MY2017,Jeep Compass,small SUVs,2WD,2014-17,55,25,85,40.0,15.0,0.0,321269
+MY2017,Hyundai Tucson,small SUVs,2WD,2016-17,61,18,103,37.0,21.0,9.0,185863
+MY2017,Jeep Renegade,small SUVs,4WD,2015-17,26,4,48,22.0,2.0,2.0,341425
+MY2017,Jeep Wrangler 2-door,small SUVs,4WD,2014-17,46,25,68,23.0,23.0,20.0,438061
+MY2017,Honda HR-V,small SUVs,4WD,2016-17,9,0,21,0.0,9.0,5.0,177447
+MY2017,Honda CR-V,small SUVs,2WD,2017,18,0,54,18.0,0.0,0.0,110439
+MY2017,Mitsubishi Outlander,small SUVs,4WD,2014-17,7,0,22,7.0,0.0,0.0,101350
+MY2017,Ford Escape,small SUVs,2WD,2014-17,29,20,38,22.0,6.0,2.0,1768510
+MY2017,Volkswagen Tiguan,small SUVs,2WD,2014-17,24,3,46,10.0,15.0,5.0,156404
+MY2017,Mitsubishi Outlander Sport,small SUVs,4WD,2014-17,67,12,122,45.0,21.0,5.0,152405
+MY2017,Chevrolet Trax,small SUVs,2WD,2015-17,73,32,114,40.0,37.0,20.0,233527
+MY2017,Nissan Rogue,small SUVs,2WD,2014-17,51,32,70,38.0,11.0,1.0,891138
+MY2017,Volkswagen Tiguan,small SUVs,4WD,2014-17,29,0,62,16.0,16.0,0.0,145607
+MY2017,Honda HR-V,small SUVs,2WD,2016-17,50,4,95,36.0,11.0,6.0,140934
+MY2017,Honda CR-V,small SUVs,4WD,2017,25,0,50,20.0,4.0,0.0,202094
+MY2017,Ford Escape,small SUVs,4WD,2014-17,24,15,33,16.0,7.0,4.0,1351272
+MY2017,Jeep Compass,small SUVs,4WD,2014-17,40,15,64,21.0,20.0,8.0,401789
+MY2017,Chevrolet Trax,small SUVs,4WD,2015-17,45,2,88,15.0,33.0,0.0,166173
+MY2017,Jeep Patriot,small SUVs,4WD,2014-17,36,18,54,24.0,12.0,2.0,503880
+MY2017,Jeep Cherokee,midsize SUVs,2WD,2014-17,26,12,41,19.0,8.0,1.0,601120
+MY2017,Jeep Cherokee,midsize SUVs,4WD,2014-17,20,10,30,12.0,7.0,2.0,1233091
+MY2017,Kia Sorento,midsize SUVs,2WD,2016-17,32,5,58,12.0,22.0,0.0,244783
+MY2017,Ford Explorer,midsize SUVs,2WD,2016-17,33,8,58,21.0,11.0,6.0,279681
+MY2017,GMC Terrain,midsize SUVs,2WD,2014-17,33,16,51,22.0,10.0,1.0,595721
+MY2017,Ford Explorer,midsize SUVs,4WD,2016-17,13,2,24,10.0,3.0,1.0,604755
+MY2017,Ford Edge,midsize SUVs,2WD,2015-17,21,2,41,11.0,12.0,0.0,269325
+MY2017,Ford Flex,midsize SUVs,2WD,2014-17,38,0,75,38.0,0.0,0.0,166244
+MY2017,Nissan Murano,midsize SUVs,4WD,2015-17,19,0,42,19.0,0.0,0.0,251049
+MY2017,Hyundai Santa Fe,midsize SUVs,4WD,2014-17,13,0,31,0.0,13.0,7.0,116678
+MY2017,Jeep Grand Cherokee,midsize SUVs,2WD,2014-17,17,3,31,11.0,5.0,0.0,465291
+MY2017,Hyundai Santa Fe Sport,midsize SUVs,4WD,2014-17,39,8,69,9.0,35.0,15.0,296306
+MY2017,Honda Pilot,midsize SUVs,2WD,2016-17,17,0,43,5.0,15.0,14.0,161750
+MY2017,Hyundai Santa Fe Sport,midsize SUVs,2WD,2014-17,51,24,78,26.0,26.0,15.0,421969
+MY2017,Hyundai Santa Fe,midsize SUVs,2WD,2014-17,16,0,47,0.0,16.0,0.0,126743
+MY2017,Jeep Grand Cherokee,midsize SUVs,4WD,2014-17,16,10,23,11.0,6.0,3.0,1901695
+MY2017,Dodge Journey,midsize SUVs,4WD,2014-17,23,2,44,20.0,3.0,0.0,247043
+MY2017,Chevrolet Equinox,midsize SUVs,4WD,2014-17,29,15,43,20.0,9.0,2.0,795787
+MY2017,Dodge Journey,midsize SUVs,2WD,2014-17,45,25,65,26.0,19.0,12.0,728704
+MY2017,Toyota 4Runner,midsize SUVs,4WD,2014-17,13,1,25,4.0,11.0,7.0,667774
+MY2017,Nissan Pathfinder,midsize SUVs,4WD,2014-17,20,3,37,7.0,14.0,12.0,450004
+MY2017,Toyota 4Runner,midsize SUVs,2WD,2014-17,34,0,67,23.0,10.0,0.0,235145
+MY2017,Nissan Pathfinder,midsize SUVs,2WD,2014-17,25,5,45,20.0,4.0,2.0,386988
+MY2017,Kia Sorento,midsize SUVs,4WD,2016-17,12,0,25,4.0,8.0,8.0,192211
+MY2017,Honda Pilot,midsize SUVs,4WD,2016-17,11,0,27,11.0,0.0,0.0,354126
+MY2017,Nissan Murano,midsize SUVs,2WD,2015-17,19,0,43,19.0,0.0,0.0,184170
+MY2017,Toyota Highlander,midsize SUVs,4WD,2017,13,0,30,0.0,13.0,0.0,120591
+MY2017,GMC Terrain,midsize SUVs,4WD,2014-17,18,6,31,12.0,6.0,4.0,369005
+MY2017,Ford Edge,midsize SUVs,4WD,2015-17,20,6,33,10.0,11.0,5.0,445718
+MY2017,Chevrolet Equinox,midsize SUVs,2WD,2014-17,45,33,57,32.0,12.0,6.0,1523947
+MY2017,Jeep Wrangler 4-door,midsize SUVs,4WD,2014-17,31,21,41,15.0,17.0,10.0,1480243
+MY2017,GMC Yukon,large SUVs,4WD,2015-17,27,0,53,14.0,14.0,13.0,232618
+MY2017,Chevrolet Traverse,large SUVs,2WD,2014-17,27,11,44,16.0,11.0,3.0,636416
+MY2017,Buick Enclave,large SUVs,4WD,2014-17,24,0,49,24.0,0.0,0.0,254700
+MY2017,Chevrolet Tahoe,large SUVs,4WD,2015-17,19,3,35,12.0,6.0,4.0,412450
+MY2017,Dodge Durango,large SUVs,4WD,2014-17,15,0,30,2.0,15.0,9.0,414697
+MY2017,GMC Yukon,large SUVs,2WD,2015-17,40,0,88,0.0,40.0,26.0,119156
+MY2017,Chevrolet Tahoe,large SUVs,2WD,2015-17,28,5,51,13.0,17.0,7.0,322663
+MY2017,Buick Enclave,large SUVs,2WD,2014-17,20,2,38,15.0,4.0,2.0,349535
+MY2017,Chevrolet Traverse,large SUVs,4WD,2014-17,29,9,49,19.0,9.0,2.0,435946
+MY2017,Dodge Durango,large SUVs,2WD,2014-17,11,0,28,7.0,3.0,3.0,248854
+MY2017,Ford Expedition,large SUVs,4WD,2014-17,17,0,36,6.0,11.0,6.0,137374
+MY2017,Ford Expedition,large SUVs,2WD,2014-17,55,5,104,24.0,29.0,15.0,105353
+MY2017,Ford Expedition EL,very large SUVs,4WD,2014-17,16,0,47,16.0,0.0,0.0,126577
+MY2017,GMC Yukon XL 1500,very large SUVs,4WD,2015-17,0,0,20,0.0,0.0,0.0,186403
+MY2017,Chevrolet Suburban 1500,very large SUVs,2WD,2015-17,25,0,57,0.0,25.0,0.0,141444
+MY2017,Chevrolet Suburban 1500,very large SUVs,4WD,2015-17,8,0,18,8.0,0.0,0.0,278088
+MY2017,Buick Encore,small luxury SUVs,2WD,2014-17,46,20,72,34.0,11.0,7.0,423729
+MY2017,Land Rover Range Rover Evoque,small luxury SUVs,4WD,2014-17,0,0,35,0.0,0.0,0.0,104037
+MY2017,Buick Encore,small luxury SUVs,4WD,2014-17,44,9,79,10.0,39.0,24.0,221553
+MY2017,Infiniti QX60,midsize luxury SUVs,4WD,2014-17,9,0,20,0.0,9.0,3.0,243080
+MY2017,Audi Q5,midsize luxury SUVs,4WD,2014-17,12,0,24,4.0,8.0,4.0,412963
+MY2017,Lexus NX 200t,midsize luxury SUVs,4WD,2015-17,0,0,28,0.0,0.0,0.0,133129
+MY2017,BMW X3,midsize luxury SUVs,4WD,2014-17,5,0,11,0.0,5.0,5.0,334302
+MY2017,Lexus NX 200t,midsize luxury SUVs,2WD,2015-17,15,0,46,0.0,15.0,0.0,130217
+MY2017,Infiniti QX60,midsize luxury SUVs,2WD,2014-17,0,0,26,0.0,0.0,0.0,144301
+MY2017,Acura RDX,midsize luxury SUVs,4WD,2014-17,12,0,27,12.0,0.0,0.0,293285
+MY2017,Acura RDX,midsize luxury SUVs,2WD,2014-17,4,0,12,4.0,0.0,0.0,189668
+MY2017,Volvo XC60,midsize luxury SUVs,4WD,2014-17,29,0,66,0.0,29.0,25.0,122100
+MY2017,BMW X5,midsize luxury SUVs,4WD,2014-17,4,0,11,2.0,2.0,0.0,348071
+MY2017,Land Rover Range Rover,large luxury SUVs,4WD,2014-17,15,0,45,0.0,15.0,18.0,130863
+MY2017,Porsche Cayenne,large luxury SUVs,4WD,2014-17,0,0,26,0.0,0.0,0.0,140637
+MY2017,Lexus GX 460,large luxury SUVs,4WD,2014-17,3,0,10,0.0,3.0,3.0,226966
+MY2017,Cadillac Escalade,large luxury SUVs,4WD,2015-17,6,0,19,0.0,6.0,0.0,120388
+MY2014,BMW 328i,midsize luxury cars,,2012-14,17,3,49,11.0,6.0,0.0,178276
+MY2014,Mercedes-Benz C-Class sedan,midsize luxury cars,4WD,2011-14,25,2,48,3.0,25.0,0.0,285137
+MY2014,Mercedes-Benz C-Class sedan,midsize luxury cars,2WD,2011-14,11,1,20,9.0,2.0,0.0,357417
+MY2014,Lexus ES 350,midsize luxury cars,,2013-14,31,3,59,18.0,12.0,4.0,188390
+MY2014,Audi A4,midsize luxury cars,4WD,2011-14,15,3,43,10.0,5.0,5.0,202470
+MY2014,Lexus CT 200h,midsize luxury cars,,2011-14,0,0,25,0.0,0.0,0.0,149224
+MY2014,Acura TL,midsize luxury cars,2WD,2011-14,21,0,45,17.0,4.0,0.0,202930
+MY2014,Volvo S60,midsize luxury cars,2WD,2012-14,16,2,56,0.0,16.0,0.0,128950
+MY2014,Mercedes-Benz E-Class sedan,large luxury cars,2WD,2011-14,4,0,22,0.0,4.0,4.0,255357
+MY2014,Hyundai Genesis sedan,large luxury cars,,2011-14,15,3,44,10.0,5.0,0.0,198610
+MY2014,Audi A6,large luxury cars,4WD,2012-14,0,0,36,0.0,0.0,0.0,101164
+MY2014,BMW 535xi,large luxury cars,4WD,2011-14,0,0,30,0.0,0.0,0.0,123121
+MY2014,BMW 535i/is,large luxury cars,2WD,2011-14,0,0,28,0.0,0.0,0.0,132902
+MY2014,BMW 528i,large luxury cars,2WD,2011-14,20,4,60,20.0,0.0,0.0,146689
+MY2014,Mercedes-Benz E-Class sedan,large luxury cars,4WD,2011-14,5,0,26,5.0,0.0,0.0,217563
+MY2014,Ford Mustang convertible,midsize sports cars,,2011-14,60,5,115,50.0,6.0,0.0,118810
+MY2014,Ford Mustang coupe,midsize sports cars,,2011-14,58,28,87,19.0,42.0,28.0,315790
+MY2014,Ford Mustang GT coupe,midsize sports cars,,2011-14,49,22,76,19.0,30.0,4.0,201892
+MY2014,Chevrolet Camaro coupe,large sports cars,,2011-14,55,36,74,26.0,28.0,11.0,682257
+MY2014,Chevrolet Camaro convertible,large sports cars,,2011-14,51,19,83,21.0,31.0,10.0,148566
+MY2014,Ford Fiesta,mini station wagons/minivans,,2011-14,63,31,95,36.0,30.0,10.0,289281
+MY2014,Hyundai Accent,mini station wagons/minivans,,2012-14,63,18,108,47.0,14.0,14.0,160157
+MY2014,Ford Focus,small station wagons/minivans,,2012-14,45,26,64,26.0,19.0,3.0,658354
+MY2014,Chevrolet Sonic,small station wagons/minivans,,2012-14,54,20,88,46.0,8.0,4.0,191015
+MY2014,Subaru XV Crosstrek,small station wagons/minivans,4WD,2013-14,17,4,51,6.0,12.0,0.0,173380
+MY2014,Kia Soul,small station wagons/minivans,,2014,82,24,140,58.0,26.0,17.0,123895
+MY2014,Scion xB,small station wagons/minivans,,2011-14,51,21,82,37.0,14.0,7.0,217535
+MY2014,Subaru Impreza,small station wagons/minivans,4WD,2012-14,12,3,36,8.0,4.0,0.0,245970
+MY2014,Mini Countryman,small station wagons/minivans,2WD,2011-14,10,0,53,10.0,0.0,0.0,104350
+MY2014,Toyota Prius v,midsize station wagons/minivans,,2012-14,29,2,56,29.0,0.0,0.0,245905
+MY2014,Mazda 5,midsize station wagons/minivans,,2012-14,23,5,66,15.0,8.0,8.0,132386
+MY2014,Subaru Outback,midsize station wagons/minivans,4WD,2011-14,12,5,20,8.0,3.0,1.0,1116891
+MY2014,Volkswagen Jetta,midsize station wagons/minivans,,2011-14,20,0,41,20.0,0.0,0.0,249277
+MY2014,Honda Odyssey,very large station wagons/minivans,,2011-14,8,1,15,6.0,2.0,2.0,1155445
+MY2014,Dodge Grand Caravan,very large station wagons/minivans,,2011-14,35,21,48,24.0,10.0,2.0,1014124
+MY2014,Chrysler Town & Country,very large station wagons/minivans,,2011-14,22,11,33,13.0,10.0,2.0,931363
+MY2014,Toyota Sienna,very large station wagons/minivans,2WD,2011-14,9,2,16,6.0,3.0,2.0,1175091
+MY2014,Toyota Sienna,very large station wagons/minivans,4WD,2011-14,10,1,37,10.0,0.0,0.0,194536
+MY2014,Nissan Quest,very large station wagons/minivans,,2011-14,53,4,101,44.0,6.0,0.0,134849
+MY2014,Toyota Tacoma Double Cab long bed,small pickups,4WD,2011-14,0,0,30,0.0,0.0,0.0,123290
+MY2014,Nissan Frontier Crew Cab short bed,small pickups,4WD,2011-14,16,0,31,0.0,16.0,0.0,192115
+MY2014,Nissan Frontier Crew Cab short bed,small pickups,2WD,2011-14,42,9,76,22.0,23.0,4.0,172697
+MY2014,Toyota Tacoma Double Cab short bed,small pickups,2WD,2011-14,13,1,24,5.0,8.0,3.0,297521
+MY2014,Toyota Tacoma Double Cab short bed,small pickups,4WD,2011-14,29,6,52,12.0,18.0,8.0,344811
+MY2014,Toyota Tacoma Access Cab,small pickups,2WD,2011-14,30,0,63,18.0,10.0,5.0,145880
+MY2014,Toyota Tacoma Access Cab,small pickups,4WD,2011-14,17,0,33,8.0,8.0,0.0,182034
+MY2014,Toyota Tundra Double Cab short bed,large pickups,2WD,2011-14,19,2,36,15.0,4.0,0.0,199742
+MY2014,Ram 1500 Quad Cab,large pickups,4WD,2013-14,39,6,72,20.0,18.0,4.0,168944
+MY2014,Ford F-150 SuperCab,large pickups,4WD,2011-14,28,17,39,18.0,10.0,3.0,680506
+MY2014,Toyota Tundra CrewMax,large pickups,4WD,2011-14,24,8,40,11.0,13.0,5.0,284798
+MY2014,Honda Ridgeline,large pickups,4WD,2011-14,26,3,49,16.0,10.0,0.0,145910
+MY2014,Ford F-150 Regular Cab,large pickups,2WD,2011-14,22,4,40,14.0,8.0,3.0,299709
+MY2014,Ford F-150 SuperCab,large pickups,2WD,2011-14,20,7,32,12.0,8.0,0.0,384618
+MY2014,Ram 1500 Crew Cab short bed,large pickups,4WD,2013-14,55,21,90,18.0,38.0,23.0,223776
+MY2014,Ram 1500 Quad Cab,large pickups,2WD,2013-14,29,0,57,7.0,22.0,7.0,105525
+MY2014,Chevrolet Silverado 1500 Double Cab,large pickups,4WD,2014,27,6,79,27.0,0.0,0.0,110928
+MY2014,Ford F-150 SuperCrew,large pickups,2WD,2011-14,22,10,34,13.0,9.0,5.0,752314
+MY2014,Toyota Tundra Double Cab short bed,large pickups,4WD,2011-14,17,4,30,10.0,7.0,0.0,309785
+MY2014,Nissan Titan Crew Cab short bed,large pickups,4WD,2011-14,73,16,130,15.0,62.0,30.0,100450
+MY2014,Ford F-150 SuperCrew,large pickups,4WD,2011-14,24,17,31,14.0,10.0,4.0,2062582
+MY2014,Toyota Tundra CrewMax,large pickups,2WD,2011-14,28,3,53,17.0,11.0,0.0,135943
+MY2014,Chevrolet Silverado 1500 Crew Cab,large pickups,4WD,2014,35,12,59,12.0,24.0,8.0,191713
+MY2014,Ford F250 SuperCab,very large pickups,4WD,2011-14,31,9,53,20.0,12.0,0.0,196337
+MY2014,GMC Sierra 2500 Crew Cab,very large pickups,4WD,2011-14,27,7,48,16.0,12.0,4.0,194228
+MY2014,Chevrolet Silverado 3500 Crew Cab,very large pickups,4WD,2011-14,33,4,63,0.0,33.0,20.0,113065
+MY2014,Ford F350 Crew Cab,very large pickups,4WD,2011-14,13,3,23,6.0,7.0,6.0,407086
+MY2014,Chevrolet Silverado 2500 Crew Cab,very large pickups,4WD,2011-14,34,18,51,14.0,21.0,15.0,394849
+MY2014,Ram 2500 Crew Cab short bed,very large pickups,4WD,2013-14,44,8,81,38.0,7.0,7.0,102118
+MY2014,Ford F250 Crew Cab,very large pickups,4WD,2011-14,35,22,47,12.0,23.0,16.0,633436
+MY2014,Hyundai Tucson,small SUVs,2WD,2011-14,26,7,45,21.0,5.0,2.0,309732
+MY2014,Kia Sportage,small SUVs,2WD,2011-14,37,6,69,24.0,13.0,0.0,246232
+MY2014,Honda CR-V,small SUVs,4WD,2012-14,14,6,22,10.0,4.0,0.0,1047803
+MY2014,Jeep Compass,small SUVs,4WD,2011-14,22,0,43,18.0,3.0,0.0,234326
+MY2014,Toyota RAV4,small SUVs,4WD,2013-14,25,7,43,19.0,6.0,2.0,402072
+MY2014,Jeep Wrangler 2-door,small SUVs,4WD,2011-14,35,18,51,14.0,20.0,13.0,452036
+MY2014,Ford Escape,small SUVs,4WD,2013-14,19,3,34,12.0,5.0,5.0,423524
+MY2014,Jeep Compass,small SUVs,2WD,2011-14,39,3,75,19.0,22.0,16.0,180908
+MY2014,Toyota RAV4,small SUVs,2WD,2013-14,13,3,39,9.0,4.0,0.0,224604
+MY2014,Mitsubishi Outlander Sport,small SUVs,2WD,2011-14,29,6,86,0.0,29.0,20.0,101759
+MY2014,Kia Sportage,small SUVs,4WD,2011-14,13,2,46,6.0,6.0,6.0,158604
+MY2014,Ford Escape,small SUVs,2WD,2013-14,30,13,48,19.0,12.0,4.0,545121
+MY2014,Hyundai Tucson,small SUVs,4WD,2011-14,41,0,82,33.0,5.0,0.0,155813
+MY2014,Mazda CX-5,small SUVs,2WD,2013-14,29,6,84,19.0,10.0,0.0,104574
+MY2014,Subaru Forester,small SUVs,4WD,2014,28,3,53,17.0,11.0,0.0,134402
+MY2014,Volkswagen Tiguan,small SUVs,4WD,2011-14,30,3,56,24.0,6.0,0.0,127539
+MY2014,Honda CR-V,small SUVs,2WD,2012-14,22,8,36,17.0,4.0,1.0,563737
+MY2014,Volkswagen Tiguan,small SUVs,2WD,2011-14,0,0,25,0.0,0.0,0.0,145927
+MY2014,Toyota Venza,midsize SUVs,4WD,2011-14,7,0,36,7.0,0.0,0.0,153115
+MY2014,Hyundai Santa Fe Sport,midsize SUVs,2WD,2013-14,23,2,44,23.0,0.0,0.0,161600
+MY2014,Ford Explorer,midsize SUVs,2WD,2011-14,27,9,45,22.0,4.0,4.0,545537
+MY2014,Honda Pilot,midsize SUVs,4WD,2011-14,15,5,25,8.0,8.0,2.0,893584
+MY2014,Nissan Murano,midsize SUVs,2WD,2011-14,43,17,69,28.0,16.0,4.0,191985
+MY2014,Mazda CX-9,midsize SUVs,2WD,2011-14,0,0,30,0.0,0.0,0.0,123616
+MY2014,Jeep Grand Cherokee,midsize SUVs,4WD,2011-14,16,7,24,5.0,12.0,8.0,1120459
+MY2014,Dodge Journey,midsize SUVs,4WD,2011-14,13,2,48,13.0,0.0,0.0,151962
+MY2014,Nissan Pathfinder,midsize SUVs,2WD,2013-14,18,2,66,0.0,18.0,9.0,109722
+MY2014,Ford Flex,midsize SUVs,2WD,2011-14,45,3,86,37.0,4.0,4.0,200337
+MY2014,Toyota 4Runner,midsize SUVs,4WD,2011-14,9,2,26,0.0,9.0,3.0,342568
+MY2014,Toyota Venza,midsize SUVs,2WD,2011-14,11,1,38,5.0,5.0,0.0,190237
+MY2014,Nissan Pathfinder,midsize SUVs,4WD,2013-14,7,0,41,0.0,7.0,7.0,136701
+MY2014,Nissan Xterra,midsize SUVs,4WD,2011-14,14,2,50,14.0,0.0,0.0,144660
+MY2014,Dodge Journey,midsize SUVs,2WD,2011-14,21,7,35,14.0,7.0,3.0,452035
+MY2014,Nissan Murano,midsize SUVs,4WD,2011-14,10,2,29,7.0,3.0,0.0,300485
+MY2014,Jeep Grand Cherokee,midsize SUVs,2WD,2011-14,10,2,31,7.0,3.0,0.0,287385
+MY2014,Toyota FJ Cruiser,midsize SUVs,4WD,2011-14,17,2,63,0.0,17.0,17.0,115212
+MY2014,Honda Pilot,midsize SUVs,2WD,2011-14,17,3,32,11.0,7.0,6.0,462277
+MY2014,GMC Terrain,midsize SUVs,2WD,2011-14,53,31,75,32.0,20.0,9.0,613984
+MY2014,Chevrolet Captiva Sport,midsize SUVs,2WD,2012-14,39,9,69,26.0,12.0,8.0,188622
+MY2014,GMC Terrain,midsize SUVs,4WD,2011-14,32,7,57,14.0,18.0,0.0,310334
+MY2014,Ford Edge,midsize SUVs,2WD,2011-14,26,13,39,24.0,1.0,0.0,844465
+MY2014,Toyota 4Runner,midsize SUVs,2WD,2011-14,19,4,56,0.0,19.0,6.0,155946
+MY2014,Jeep Cherokee,midsize SUVs,4WD,2014,0,0,36,0.0,0.0,0.0,101931
+MY2014,Jeep Wrangler 4-door,midsize SUVs,4WD,2011-14,27,14,41,7.0,22.0,17.0,813929
+MY2014,Chevrolet Equinox,midsize SUVs,2WD,2011-14,33,22,44,22.0,10.0,7.0,1424478
+MY2014,Chevrolet Equinox,midsize SUVs,4WD,2011-14,23,10,35,14.0,8.0,3.0,685118
+MY2014,Ford Explorer,midsize SUVs,4WD,2011-14,4,0,9,3.0,1.0,0.0,675504
+MY2014,Ford Edge,midsize SUVs,4WD,2011-14,24,5,43,14.0,10.0,2.0,460562
+MY2014,Mazda CX-9,midsize SUVs,4WD,2011-14,20,4,59,7.0,13.0,0.0,148505
+MY2014,GMC Yukon,large SUVs,4WD,2011-14,24,4,44,8.0,16.0,4.0,185222
+MY2014,Chevrolet Traverse,large SUVs,2WD,2011-14,25,9,41,11.0,15.0,8.0,620808
+MY2014,Chevrolet Tahoe,large SUVs,4WD,2011-14,32,10,54,25.0,6.0,0.0,378597
+MY2014,Buick Enclave,large SUVs,4WD,2011-14,12,2,35,4.0,8.0,0.0,249114
+MY2014,Dodge Durango,large SUVs,4WD,2011-14,16,3,28,5.0,11.0,8.0,289996
+MY2014,GMC Acadia,large SUVs,2WD,2011-14,19,2,37,6.0,15.0,5.0,434282
+MY2014,Dodge Durango,large SUVs,2WD,2011-14,16,3,46,0.0,16.0,10.0,191274
+MY2014,Chevrolet Traverse,large SUVs,4WD,2011-14,20,3,38,7.0,14.0,2.0,448853
+MY2014,Chevrolet Tahoe,large SUVs,2WD,2011-14,9,2,27,0.0,9.0,9.0,330512
+MY2014,Buick Enclave,large SUVs,2WD,2011-14,30,7,54,30.0,0.0,0.0,369165
+MY2014,GMC Yukon,large SUVs,2WD,2011-14,29,0,58,29.0,0.0,0.0,103804
+MY2014,Ford Expedition,large SUVs,2WD,2011-14,8,0,47,8.0,0.0,0.0,119233
+MY2014,GMC Acadia,large SUVs,4WD,2011-14,22,2,43,15.0,6.0,0.0,405229
+MY2014,Ford Expedition,large SUVs,4WD,2011-14,23,0,46,12.0,12.0,6.0,132011
+MY2014,GMC Yukon XL 1500,very large SUVs,4WD,2011-14,11,1,41,11.0,0.0,0.0,174363
+MY2014,Chevrolet Suburban 1500,very large SUVs,4WD,2011-14,39,11,67,23.0,16.0,10.0,293380
+MY2014,Chevrolet Suburban 1500,very large SUVs,2WD,2011-14,7,0,38,7.0,0.0,0.0,147811
+MY2014,Mercedes-Benz GLK-Class,midsize luxury SUVs,2WD,2011-14,9,0,51,0.0,9.0,9.0,109665
+MY2014,BMW X3,midsize luxury SUVs,4WD,2011-14,9,1,31,4.0,4.0,4.0,233924
+MY2014,Mercedes-Benz GLK-Class,midsize luxury SUVs,4WD,2011-14,7,0,38,7.0,0.0,0.0,146073
+MY2014,Lexus RX 350,midsize luxury SUVs,2WD,2011-14,0,0,12,0.0,0.0,0.0,303285
+MY2014,Volvo XC60,midsize luxury SUVs,4WD,2011-14,10,0,55,0.0,10.0,10.0,101896
+MY2014,Audi Q5,midsize luxury SUVs,4WD,2011-14,7,1,26,4.0,4.0,0.0,276860
+MY2014,Cadillac SRX,midsize luxury SUVs,4WD,2011-14,23,0,49,14.0,8.0,4.0,186617
+MY2014,Lincoln MKX,midsize luxury SUVs,2WD,2011-14,49,4,94,35.0,13.0,0.0,118254
+MY2014,Mercedes-Benz M-Class,midsize luxury SUVs,4WD,2012-14,0,0,19,0.0,0.0,0.0,193245
+MY2014,Lincoln MKX,midsize luxury SUVs,4WD,2011-14,15,2,55,15.0,0.0,0.0,131103
+MY2014,Cadillac SRX,midsize luxury SUVs,2WD,2011-14,20,3,37,15.0,6.0,0.0,390912
+MY2014,Lexus RX 350,midsize luxury SUVs,4WD,2011-14,2,0,14,2.0,0.0,0.0,403447
+MY2014,Lexus GX 460,large luxury SUVs,4WD,2011-14,8,0,47,8.0,0.0,0.0,118181
+MY2014,Audi Q7,large luxury SUVs,4WD,2011-14,0,0,36,0.0,0.0,0.0,102362
+MY2014,Porsche Cayenne,large luxury SUVs,4WD,2011-14,9,0,48,0.0,9.0,9.0,115877
+MY2011,Lexus IS 250,midsize luxury cars,4WD,2008-11,30,0,68,0.0,30.0,6.0,120537
+MY2011,Acura TL,midsize luxury cars,2WD,2009-11,5,0,16,5.0,0.0,0.0,139458
+MY2011,Mercedes-Benz C-Class,midsize luxury cars,4WD,2008-11,7,0,18,0.0,7.0,0.0,208643
+MY2011,BMW 328i sedan,midsize luxury cars,,2008-11,7,0,15,5.0,2.0,2.0,322057
+MY2011,BMW 328xi sedan,midsize luxury cars,,2008-11,16,0,42,0.0,16.0,0.0,171409
+MY2011,Audi A4,midsize luxury cars,4WD,2009-11,0,0,31,0.0,0.0,0.0,120394
+MY2011,Lexus IS 250,midsize luxury cars,2WD,2008-11,16,0,37,7.0,11.0,10.0,220052
+MY2011,Infiniti G37 coupe,midsize luxury cars,2WD,2008-11,42,12,72,11.0,31.0,21.0,145678
+MY2011,Mercedes-Benz C-Class,midsize luxury cars,2WD,2008-11,10,1,20,4.0,6.0,2.0,368751
+MY2011,Lexus ES 350,midsize luxury cars,,2008-11,9,2,16,3.0,6.0,1.0,573619
+MY2011,Cadillac DTS,large luxury cars,,2008-11,46,22,69,32.0,15.0,6.0,250591
+MY2011,Cadillac CTS sedan,large luxury cars,2WD,2009-11,21,0,43,6.0,16.0,5.0,143135
+MY2011,Lexus LS 460,very large luxury cars,2WD,2008-11,18,0,55,18.0,0.0,0.0,110210
+MY2011,Chevrolet Camaro coupe,large sports cars,,2010-11,80,48,113,19.0,60.0,25.0,298350
+MY2011,Chevrolet Aveo,mini station wagons/minivans,,2009-11,58,17,100,58.0,0.0,0.0,105060
+MY2011,Kia Soul,small station wagons/minivans,,2010-11,32,12,52,30.0,3.0,0.0,238659
+MY2011,Scion xB,small station wagons/minivans,,2008-11,31,16,47,20.0,11.0,4.0,392533
+MY2011,Subaru Impreza,small station wagons/minivans,4WD,2009-11,25,0,64,25.0,0.0,0.0,111102
+MY2011,Nissan Cube,small station wagons/minivans,,2009-11,66,14,118,38.0,29.0,6.0,131761
+MY2011,Chevrolet HHR,small station wagons/minivans,,2009-11,61,30,91,34.0,25.0,9.0,397838
+MY2011,Dodge Caliber,small station wagons/minivans,2WD,2008-11,39,19,58,19.0,20.0,12.0,574523
+MY2011,Volkswagen Jetta,midsize station wagons/minivans,,2009-11,6,0,18,6.0,0.0,0.0,124544
+MY2011,Subaru Outback,midsize station wagons/minivans,4WD,2010-11,6,0,14,0.0,6.0,3.0,264109
+MY2011,Toyota Sienna,very large station wagons/minivans,2WD,2011,27,0,66,12.0,16.0,15.0,148898
+MY2011,Dodge Grand Caravan,very large station wagons/minivans,,2008-11,27,15,39,22.0,4.0,1.0,1061095
+MY2011,Kia Sedona,very large station wagons/minivans,,2008-11,16,0,37,16.0,0.0,0.0,221446
+MY2011,Honda Odyssey,very large station wagons/minivans,,2011,0,0,37,0.0,0.0,0.0,100518
+MY2011,Chrysler Town & Country,very large station wagons/minivans,,2008-11,25,15,35,16.0,8.0,2.0,1109920
+MY2011,Toyota Tacoma Xtra,small pickups,4WD,2009-11,20,0,44,7.0,13.0,7.0,112892
+MY2011,Toyota Tacoma Double short bed,small pickups,2WD,2009-11,19,0,49,19.0,0.0,0.0,145733
+MY2011,Toyota Tacoma Xtra,small pickups,2WD,2009-11,28,0,71,28.0,0.0,0.0,100884
+MY2011,Toyota Tacoma Double short bed,small pickups,4WD,2009-11,20,0,41,11.0,10.0,5.0,150514
+MY2011,Chevrolet Silverado 1500 Crew,large pickups,4WD,2010-11,79,40,117,40.0,36.0,17.0,227007
+MY2011,Dodge Ram 1500 Quad,large pickups,4WD,2009-11,8,0,20,0.0,8.0,4.0,185420
+MY2011,Toyota Tundra Double short bed,large pickups,4WD,2008-11,15,4,27,7.0,8.0,2.0,352117
+MY2011,Ford F-150 Super,large pickups,4WD,2009-11,39,19,58,13.0,26.0,7.0,318178
+MY2011,Ford F-150 Crew,large pickups,4WD,2009-11,27,13,40,15.0,12.0,6.0,719382
+MY2011,Ford F-150 Regular,large pickups,2WD,2009-11,30,0,59,5.0,27.0,0.0,171870
+MY2011,Dodge Ram 1500 Crew short bed,large pickups,4WD,2009-11,28,7,50,17.0,12.0,4.0,188367
+MY2011,Toyota Tundra Crew Max,large pickups,2WD,2008-11,41,0,83,34.0,6.0,0.0,122927
+MY2011,Ford F-150 Super,large pickups,2WD,2009-11,24,4,44,17.0,8.0,0.0,191480
+MY2011,Toyota Tundra Double short bed,large pickups,2WD,2008-11,18,4,32,14.0,5.0,3.0,290908
+MY2011,Dodge Ram 1500 Quad,large pickups,2WD,2009-11,29,3,54,12.0,17.0,0.0,133799
+MY2011,Chevrolet Silverado 1500 Crew,large pickups,2WD,2010-11,12,0,29,6.0,6.0,6.0,127150
+MY2011,Toyota Tundra Crew Max,large pickups,4WD,2008-11,20,0,46,5.0,18.0,4.0,176959
+MY2011,Honda Ridgeline,large pickups,4WD,2008-11,13,0,25,13.0,0.0,0.0,244108
+MY2011,Dodge Ram 1500 Crew short bed,large pickups,2WD,2009-11,18,0,39,6.0,12.0,6.0,125958
+MY2011,Ford F-150 Crew,large pickups,2WD,2009-11,19,6,31,13.0,6.0,0.0,371109
+MY2011,Chevrolet Silverado 1500 Ext,large pickups,4WD,2010-11,36,8,64,20.0,14.0,4.0,206052
+MY2011,Jeep Patriot,small SUVs,2WD,2008-11,57,20,95,44.0,9.0,3.0,248487
+MY2011,Ford Escape,small SUVs,4WD,2009-11,35,16,54,28.0,8.0,4.0,384876
+MY2011,Nissan Rogue,small SUVs,4WD,2008-11,25,7,42,12.0,14.0,0.0,513731
+MY2011,Jeep Compass,small SUVs,2WD,2008-11,7,0,20,7.0,0.0,0.0,114776
+MY2011,Toyota RAV4,small SUVs,2WD,2008-11,35,14,55,12.0,25.0,10.0,561569
+MY2011,Subaru Forester,small SUVs,4WD,2009-11,20,7,33,18.0,1.0,0.0,548808
+MY2011,Nissan Rogue,small SUVs,2WD,2008-11,42,16,67,28.0,12.0,5.0,299848
+MY2011,Toyota RAV4,small SUVs,4WD,2008-11,19,8,29,4.0,16.0,2.0,931863
+MY2011,Ford Escape,small SUVs,2WD,2009-11,27,9,46,16.0,10.0,0.0,541561
+MY2011,Honda CR-V,small SUVs,2WD,2008-11,19,8,31,15.0,3.0,2.0,759316
+MY2011,Honda CR-V,small SUVs,4WD,2008-11,17,8,26,9.0,8.0,2.0,1249370
+MY2011,Jeep Patriot,small SUVs,4WD,2008-11,11,0,25,4.0,7.0,4.0,200988
+MY2011,Jeep Wrangler 2-door,small SUVs,4WD,2008-11,34,15,52,11.0,24.0,12.0,378918
+MY2011,Honda Element,small SUVs,4WD,2008-11,12,0,30,7.0,6.0,0.0,123098
+MY2011,Honda Pilot,midsize SUVs,2WD,2009-11,11,0,34,0.0,11.0,12.0,180017
+MY2011,Honda Pilot,midsize SUVs,4WD,2009-11,2,0,7,0.0,2.0,0.0,344213
+MY2011,Toyota Highlander hybrid,midsize SUVs,4WD,2008-11,0,0,26,0.0,0.0,0.0,141251
+MY2011,Nissan Murano,midsize SUVs,4WD,2009-11,21,0,43,5.0,18.0,7.0,298811
+MY2011,Jeep Wrangler 4-door,midsize SUVs,4WD,2008-11,21,7,35,11.0,10.0,7.0,517661
+MY2011,Toyota Venza,midsize SUVs,4WD,2009-11,13,0,31,7.0,6.0,0.0,118931
+MY2011,Dodge Journey,midsize SUVs,2WD,2009-11,34,8,61,16.0,19.0,0.0,326409
+MY2011,Dodge Nitro,midsize SUVs,4WD,2008-11,13,0,29,5.0,9.0,4.0,170978
+MY2011,Nissan Murano,midsize SUVs,2WD,2009-11,25,0,54,25.0,0.0,0.0,170979
+MY2011,Jeep Liberty,midsize SUVs,2WD,2008-11,34,0,73,6.0,31.0,23.0,126600
+MY2011,Dodge Nitro,midsize SUVs,2WD,2008-11,51,0,107,7.0,50.0,40.0,109765
+MY2011,Hyundai Santa Fe,midsize SUVs,2WD,2008-11,16,1,32,11.0,5.0,5.0,476958
+MY2011,Toyota Highlander,midsize SUVs,4WD,2008-11,14,0,28,14.0,0.0,0.0,530715
+MY2011,Mazda CX-9,midsize SUVs,2WD,2008-11,12,0,29,0.0,12.0,6.0,126339
+MY2011,Ford Flex,midsize SUVs,2WD,2009-11,5,0,15,0.0,5.0,0.0,151479
+MY2011,Kia Sorento,midsize SUVs,2WD,2011,0,0,35,0.0,0.0,0.0,106363
+MY2011,Toyota FJ Cruiser,midsize SUVs,4WD,2008-11,18,0,36,5.0,13.0,4.0,170822
+MY2011,Hyundai Santa Fe,midsize SUVs,4WD,2008-11,12,0,24,0.0,12.0,6.0,259481
+MY2011,Toyota Highlander,midsize SUVs,2WD,2008-11,7,0,18,5.0,2.0,2.0,387923
+MY2011,Ford Edge,midsize SUVs,4WD,2008-11,41,12,70,17.0,24.0,14.0,356784
+MY2011,Chevrolet Equinox,midsize SUVs,2WD,2010-11,5,0,12,3.0,2.0,0.0,302463
+MY2011,GMC Terrain,midsize SUVs,2WD,2010-11,38,0,80,29.0,6.0,0.0,114848
+MY2011,Jeep Grand Cherokee,midsize SUVs,4WD,2011,7,0,21,7.0,0.0,0.0,108237
+MY2011,Toyota Venza,midsize SUVs,2WD,2009-11,21,0,47,5.0,18.0,4.0,173444
+MY2011,Jeep Liberty,midsize SUVs,4WD,2008-11,19,4,35,7.0,14.0,2.0,449619
+MY2011,Chevrolet Equinox,midsize SUVs,4WD,2010-11,5,0,15,5.0,0.0,0.0,151440
+MY2011,Mazda CX-9,midsize SUVs,4WD,2008-11,5,0,16,0.0,5.0,5.0,143907
+MY2011,Ford Edge,midsize SUVs,2WD,2008-11,14,3,25,4.0,10.0,4.0,625197
+MY2011,GMC Acadia,large SUVs,4WD,2008-11,8,0,18,3.0,5.0,3.0,271691
+MY2011,Toyota Sequoia,large SUVs,4WD,2008-11,0,0,33,0.0,0.0,0.0,110430
+MY2011,Buick Enclave,large SUVs,2WD,2008-11,8,0,16,5.0,2.0,3.0,300006
+MY2011,Ford Expedition,large SUVs,2WD,2008-11,36,3,68,30.0,5.0,5.0,165001
+MY2011,Chevrolet Tahoe,large SUVs,2WD,2008-11,18,6,30,8.0,10.0,4.0,386837
+MY2011,Chevrolet Traverse,large SUVs,2WD,2009-11,8,0,17,3.0,5.0,3.0,296227
+MY2011,Buick Enclave,large SUVs,4WD,2008-11,10,0,29,0.0,10.0,10.0,213503
+MY2011,Chevrolet Tahoe,large SUVs,4WD,2008-11,10,1,18,6.0,4.0,2.0,401018
+MY2011,GMC Acadia,large SUVs,2WD,2008-11,15,1,29,11.0,4.0,4.0,391239
+MY2011,Chevrolet Traverse,large SUVs,4WD,2009-11,11,0,24,4.0,7.0,0.0,206139
+MY2011,GMC Yukon,large SUVs,2WD,2008-11,7,0,20,0.0,7.0,0.0,116869
+MY2011,Ford Expedition,large SUVs,4WD,2008-11,5,0,15,5.0,0.0,0.0,153460
+MY2011,GMC Yukon,large SUVs,4WD,2008-11,4,0,11,0.0,4.0,0.0,208828
+MY2011,Nissan Armada,large SUVs,2WD,2008-11,7,0,21,0.0,7.0,7.0,111238
+MY2011,Chevrolet Avalanche 1500,very large SUVs,4WD,2008-11,29,5,53,0.0,29.0,19.0,156690
+MY2011,Chevrolet Suburban 1500,very large SUVs,2WD,2008-11,60,13,107,31.0,28.0,9.0,166891
+MY2011,Chevrolet Avalanche 1500,very large SUVs,2WD,2008-11,15,0,36,8.0,7.0,7.0,101293
+MY2011,GMC Yukon XL 1500,very large SUVs,4WD,2008-11,9,0,23,9.0,0.0,0.0,163541
+MY2011,Chevrolet Suburban 1500,very large SUVs,4WD,2008-11,17,0,34,14.0,2.0,0.0,299625
+MY2011,Volvo XC90,midsize luxury SUVs,4WD,2008-11,0,0,33,0.0,0.0,0.0,111610
+MY2011,Lexus RX 350,midsize luxury SUVs,4WD,2010-11,0,0,20,0.0,0.0,0.0,185441
+MY2011,Mercedes-Benz M-Class,midsize luxury SUVs,4WD,2008-11,3,0,10,3.0,0.0,0.0,236380
+MY2011,BMW X5,midsize luxury SUVs,4WD,2008-11,14,0,31,6.0,9.0,8.0,262354
+MY2011,Lincoln MKX,midsize luxury SUVs,4WD,2008-11,12,0,30,12.0,0.0,0.0,122868
+MY2011,Acura MDX,midsize luxury SUVs,4WD,2008-11,12,0,24,6.0,5.0,2.0,423632
+MY2011,Lexus RX 350,midsize luxury SUVs,2WD,2010-11,6,0,18,6.0,0.0,0.0,126252
+MY2011,Acura RDX,midsize luxury SUVs,4WD,2008-11,12,0,28,0.0,12.0,0.0,130291
+MY2011,Lincoln MKX,midsize luxury SUVs,2WD,2008-11,20,0,43,14.0,6.0,7.0,114683
+MY2011,Cadillac Escalade,large luxury SUVs,4WD,2008-11,37,0,73,6.0,33.0,26.0,139354
+MY2011,Mercedes-Benz GL-Class,large luxury SUVs,4WD,2008-11,0,0,22,0.0,0.0,0.0,170820
+MY2011,Land Rover Range Rover Sport,large luxury SUVs,4WD,2008-11,6,0,18,0.0,6.0,0.0,127130
+MY2008,Saab 9-3 4-door,midsize luxury cars,,2005-08,16,8,24,8.0,8.0,8.0,160496
+MY2008,Acura 3.2 TL,midsize luxury cars,,2005-08,21,16,26,13.0,8.0,0.0,667804
+MY2008,Lexus ES 350,midsize luxury cars,,2007-08,32,22,42,14.0,18.0,0.0,316267
+MY2008,Lincoln Zephyr/MKZ,midsize luxury cars,,2006-08,72,53,90,36.0,36.0,22.0,156731
+MY2008,BMW 3 series 4-door,midsize luxury cars,,2007-08,63,44,81,31.0,31.0,16.0,172597
+MY2008,Lexus IS 250 4-door,midsize luxury cars,,2006-08,33,21,45,24.0,8.0,0.0,150891
+MY2008,Mercedes-Benz CLK-Class convertible,midsize luxury cars,,2005-08,33,16,50,20.0,13.0,7.0,112275
+MY2008,Audi A4 4-door,midsize luxury cars,4WD,2005-08,28,18,38,21.0,7.0,0.0,189290
+MY2008,Acura RL,large luxury cars,,2005-08,21,10,31,10.0,10.0,0.0,134719
+MY2008,Mercedes-Benz E-Class 4-door,large luxury cars,4WD,2005-08,0,0,43,0.0,0.0,0.0,130696
+MY2008,Audi A6 4-door,large luxury cars,4WD,2005-08,0,0,28,0.0,0.0,0.0,130298
+MY2008,Mercedes-Benz E-Class 4-door,large luxury cars,,2005-08,12,7,17,12.0,0.0,0.0,340356
+MY2008,Cadillac STS V6,large luxury cars,,2005-08,38,26,49,13.0,25.0,13.0,183357
+MY2008,BMW 7 series,very large luxury cars,,2006-08,30,17,43,30.0,0.0,0.0,128483
+MY2008,Lincoln Town Car,very large luxury cars,,2005-08,54,45,63,28.0,26.0,8.0,357895
+MY2008,Mazda Mx-5 Miata convertible,mini sports cars,,2006-08,83,61,104,62.0,21.0,21.0,101952
+MY2008,Mercedes-Benz SLK-Class convertible,small sports cars,,2005-08,47,27,67,47.0,0.0,0.0,101150
+MY2008,Pontiac Soltice convertible,small sports cars,,2006-08,63,45,80,9.0,54.0,36.0,107662
+MY2008,Nissan 350Z 2-door,midsize sports cars,,2005-08,143,120,166,53.0,90.0,63.0,150467
+MY2008,Chevrolet Corvette 2-door,midsize sports cars,,2005-08,69,56,82,27.0,41.0,37.0,196623
+MY2008,Honda Fit,mini station wagons/minivans,,2007-08,63,49,77,26.0,37.0,26.0,203929
+MY2008,Chevrolet Aveo,mini station wagons/minivans,,2006-08,58,44,72,35.0,23.0,0.0,137928
+MY2008,Dodge Caliber,small station wagons/minivans,,2007-08,39,31,47,21.0,18.0,14.0,373770
+MY2008,Kia Spectra5,small station wagons/minivans,,2005-08,102,79,125,63.0,39.0,24.0,109620
+MY2008,Chevrolet HHR,small station wagons/minivans,,2006-08,73,63,82,41.0,32.0,20.0,547912
+MY2008,Pontiac Vibe,small station wagons/minivans,,2005-08,61,52,70,48.0,13.0,8.0,464275
+MY2008,Toyota Matrix,small station wagons/minivans,,2005-08,54,45,62,33.0,20.0,10.0,471023
+MY2008,Mazda 5,midsize station wagons/minivans,,2006-08,67,44,89,27.0,40.0,40.0,103072
+MY2008,Subaru Outback,midsize station wagons/minivans,,2005-08,40,34,47,17.0,23.0,17.0,591439
+MY2008,Dodge Magnum Hemi,large station wagons/minivans,,2005-08,66,46,87,27.0,40.0,20.0,117156
+MY2008,Dodge Magnum,large station wagons/minivans,,2005-08,40,31,48,30.0,9.0,0.0,302443
+MY2008,Nissan Quest,very large station wagons/minivans,,2005-08,58,46,70,29.0,29.0,10.0,280057
+MY2008,Pontiac Montana SV6,very large station wagons/minivans,,2005-08,28,14,42,19.0,9.0,0.0,105914
+MY2008,Toyota Sienna,very large station wagons/minivans,,2008,0,0,36,0.0,0.0,0.0,103030
+MY2008,Chrysler Town & Country,very large station wagons/minivans,,2008,28,15,41,9.0,19.0,0.0,138882
+MY2008,Chevrolet Uplander,very large station wagons/minivans,,2007-08,51,33,68,51.0,0.0,0.0,117755
+MY2008,Honda Odyssey,very large station wagons/minivans,,2005-08,17,14,20,12.0,5.0,3.0,1587331
+MY2008,Kia Sedona,very large station wagons/minivans,,2006-08,16,9,22,10.0,5.0,0.0,226792
+MY2008,Dodge Grand Caravan,very large station wagons/minivans,,2008,63,42,84,63.0,0.0,0.0,131720
+MY2008,Ford Ranger,small pickups,2WD,2005-08,81,71,91,47.0,34.0,17.0,276227
+MY2008,Chevrolet Colorado crew cab,small pickups,2WD,2005-08,60,50,70,15.0,45.0,33.0,219188
+MY2008,Dodge Dakota extended cab,small pickups,4WD,2005-08,24,14,35,12.0,12.0,6.0,118133
+MY2008,Ford Ranger extended cab,small pickups,2WD,2005-08,75,65,85,27.0,48.0,31.0,260015
+MY2008,Nissan Frontier extended cab,small pickups,2WD,2005-08,71,59,84,29.0,42.0,21.0,170058
+MY2008,Toyota Tacoma crew cab,small pickups,2WD,2005-08,51,44,59,18.0,33.0,18.0,384789
+MY2008,Toyota Tacoma,small pickups,2WD,2005-08,61,50,72,31.0,31.0,15.0,183106
+MY2008,Chevrolet Colorado crew cab,small pickups,4WD,2005-08,73,61,85,17.0,55.0,44.0,202698
+MY2008,Chevrolet Colorado extended cab,small pickups,2WD,2005-08,93,78,108,39.0,54.0,31.0,154104
+MY2008,Nissan Frontier crew cab,small pickups,4WD,2005-08,22,14,31,11.0,11.0,6.0,132358
+MY2008,Toyota Tacoma extended cab,small pickups,2WD,2005-08,42,35,50,16.0,26.0,14.0,304561
+MY2008,Dodge Dakota extended cab,small pickups,2WD,2005-08,41,31,51,28.0,13.0,3.0,166917
+MY2008,Dodge Dakota crew cab,small pickups,4WD,2005-08,20,14,26,3.0,17.0,9.0,242096
+MY2008,Chevrolet Colorado,small pickups,2WD,2005-08,57,47,67,20.0,37.0,20.0,193380
+MY2008,Dodge Dakota crew cab,small pickups,2WD,2005-08,55,44,67,4.0,51.0,16.0,182398
+MY2008,Toyota Tacoma crew cab,small pickups,4WD,2005-08,28,22,34,11.0,17.0,11.0,318751
+MY2008,Ford Ranger extended cab,small pickups,4WD,2005-08,79,67,91,36.0,43.0,27.0,198988
+MY2008,Toyota Tacoma extended cab,small pickups,4WD,2005-08,26,20,33,11.0,16.0,5.0,234811
+MY2008,Nissan Frontier crew cab,small pickups,2WD,2005-08,77,64,90,31.0,46.0,27.0,200768
+MY2008,Dodge Ram,large pickups,2WD,2006-08,36,26,46,9.0,27.0,18.0,126840
+MY2008,Ford F-150,large pickups,2WD,2005-08,65,59,71,24.0,42.0,15.0,700986
+MY2008,Ford F-150 extended cab,large pickups,4WD,2005-08,55,50,60,14.0,42.0,20.0,859551
+MY2008,Nissan Titan crew cab,large pickups,4WD,2008,92,70,114,18.0,74.0,68.0,155863
+MY2008,Ford F-150,large pickups,4WD,2005-08,62,50,74,26.0,37.0,18.0,140226
+MY2008,Ford F-150 extended cab,large pickups,2WD,2005-08,59,53,65,21.0,39.0,19.0,674825
+MY2008,Toyota Tundra crew cab,large pickups,2WD,2007-08,23,15,31,9.0,14.0,0.0,169954
+MY2008,Dodge Ram 1500 crew cab,large pickups,4WD,2006-08,40,33,47,3.0,36.0,26.0,393302
+MY2008,Nissan Titan crew cab,large pickups,2WD,2008,126,102,149,31.0,94.0,81.0,213635
+MY2008,Ford F-150 crew cab,large pickups,2WD,2005-08,44,39,50,15.0,29.0,14.0,742974
+MY2008,Honda Ridgeline crew cab,large pickups,4WD,2006-08,27,20,33,13.0,13.0,3.0,330716
+MY2008,Nissan Titan extended cab,large pickups,2WD,2008,111,86,137,35.0,77.0,42.0,138678
+MY2008,Ford F-150 crew cab,large pickups,4WD,2005-08,40,36,44,11.0,29.0,19.0,973597
+MY2008,Dodge Ram 1500 crew cab,large pickups,2WD,2006-08,49,41,57,9.0,39.0,21.0,370442
+MY2008,Dodge Ram 3500 crew cab,very large pickups,4WD,2005-08,59,51,68,11.0,48.0,39.0,252509
+MY2008,Dodge Ram 2500 crew cab,very large pickups,4WD,2005-08,47,42,53,7.0,40.0,33.0,554865
+MY2008,Jeep Wrangler 2-door,small SUVs,4WD,2007-08,20,12,27,10.0,10.0,5.0,156747
+MY2008,Toyota RAV4,small SUVs,2WD,2007-08,34,22,45,20.0,14.0,7.0,191561
+MY2008,Toyota RAV4,small SUVs,4WD,2007-08,33,23,43,14.0,19.0,0.0,274031
+MY2008,Hyundai Tucson,small SUVs,4WD,2005-08,46,31,62,15.0,31.0,15.0,146206
+MY2008,Honda CR-V,small SUVs,2WD,2007-08,22,14,30,22.0,0.0,0.0,229698
+MY2008,Honda CR-V,small SUVs,4WD,2007-08,7,3,11,4.0,4.0,0.0,381995
+MY2008,Ford Escape,small SUVs,2WD,2008,42,25,58,31.0,10.0,0.0,107393
+MY2008,Kia Sportage,small SUVs,2WD,2005-08,58,45,71,32.0,27.0,16.0,202481
+MY2008,Subaru Forester,small SUVs,4WD,2005-08,45,37,54,23.0,23.0,8.0,428930
+MY2008,Kia Sportage,small SUVs,4WD,2005-08,41,24,59,10.0,31.0,21.0,111881
+MY2008,Hyundai Tucson,small SUVs,2WD,2005-08,39,31,48,18.0,21.0,11.0,317115
+MY2008,Dodge Nitro,midsize SUVs,4WD,2007-08,26,15,38,9.0,18.0,18.0,113586
+MY2008,Lexus RX 350,midsize SUVs,4WD,2007-08,25,12,38,12.0,12.0,0.0,132859
+MY2008,Acura MDX,midsize SUVs,4WD,2007-08,11,3,19,0.0,11.0,11.0,144067
+MY2008,Lexus RX 400h,midsize SUVs,4WD,2006-08,12,3,21,12.0,0.0,0.0,122154
+MY2008,Nissan Pathfinder,midsize SUVs,2WD,2005-08,60,48,72,26.0,34.0,22.0,265520
+MY2008,Mazda CX-7,midsize SUVs,4WD,2007-08,32,18,46,32.0,0.0,0.0,120347
+MY2008,Nissan Xterra,midsize SUVs,2WD,2006-08,72,55,89,29.0,43.0,22.0,130325
+MY2008,Nissan Xterra,midsize SUVs,4WD,2006-08,27,17,37,14.0,14.0,7.0,139394
+MY2008,Volvo XC90,midsize SUVs,4WD,2005-08,28,18,38,21.0,7.0,0.0,232507
+MY2008,Jeep Grand Cherokee,midsize SUVs,4WD,2007-08,11,5,16,0.0,11.0,5.0,220974
+MY2008,Jeep Wrangler 4-door,midsize SUVs,4WD,2007-08,17,8,26,0.0,17.0,0.0,110521
+MY2008,Ford Edge,midsize SUVs,4WD,2007-08,0,0,27,0.0,0.0,0.0,137396
+MY2008,BMW X3,midsize SUVs,4WD,2005-08,24,15,33,12.0,12.0,12.0,255826
+MY2008,Nissan Pathfinder,midsize SUVs,4WD,2005-08,31,23,39,16.0,16.0,8.0,341596
+MY2008,Mercedes-Benz M Class 4d,midsize SUVs,4WD,2006-08,14,7,22,14.0,0.0,0.0,209041
+MY2008,Ford Edge,midsize SUVs,2WD,2007-08,25,15,34,12.0,12.0,6.0,197524
+MY2008,Honda Pilot,midsize SUVs,4WD,2006-08,20,14,26,20.0,0.0,0.0,439432
+MY2008,Infiniti FX35,midsize SUVs,4WD,2005-08,46,22,70,31.0,15.0,0.0,113394
+MY2008,Honda Pilot,midsize SUVs,2WD,2006-08,20,13,28,5.0,15.0,0.0,258215
+MY2008,Subaru B9 Tribeca,midsize SUVs,4WD,2006-08,62,39,84,31.0,31.0,15.0,101149
+MY2008,Hyundai Santa Fe,midsize SUVs,2WD,2007-08,25,16,35,6.0,19.0,13.0,186672
+MY2008,Cadillac SRX,midsize SUVs,4WD,2005-08,63,48,78,19.0,44.0,25.0,196621
+MY2008,Nissan Armada,large SUVs,4WD,2005-08,0,0,34,0.0,0.0,0.0,107423
+MY2008,Cadillac Escalade,large SUVs,4WD,2007-08,33,19,47,11.0,22.0,22.0,102719
+MY2008,Nissan Armada,large SUVs,2WD,2005-08,21,12,29,14.0,7.0,0.0,164949
+MY2008,Porsche Cayenne,large SUVs,4WD,2005-08,28,13,43,14.0,14.0,0.0,101189
+MY2008,Jeep Commander,large SUVs,4WD,2006-08,22,15,29,7.0,15.0,7.0,318088
+MY2008,Land Rover Range Rover,large SUVs,4WD,2005-08,22,6,37,0.0,22.0,22.0,111233
+MY2008,Land Rover Range Rover Sport,large SUVs,4WD,2006-08,0,0,33,0.0,0.0,0.0,112675
+MY2008,Land Rover LR3,large SUVs,4WD,2005-08,0,0,26,0.0,0.0,0.0,144159
+MY2008,Lexus GX 470,large SUVs,4WD,2005-08,13,7,20,13.0,0.0,0.0,224957
+MY2004,Jaguar X-type,midsize luxury cars,,2002-04,54,11,97,18.0,38.0,16.0,185420
+MY2004,BMW 3 series 4-door,midsize luxury cars,,2001-04,35,17,53,18.0,16.0,8.0,566851
+MY2004,Volvo S60,midsize luxury cars,,2001-04,34,7,61,20.0,13.0,8.0,294235
+MY2004,Mercedes-Benz C-Class,midsize luxury cars,,2001-04,24,8,40,14.0,12.0,0.0,397704
+MY2004,Infiniti G35,midsize luxury cars,,2003-04,11,0,23,7.0,3.0,0.0,208264
+MY2004,BMW 3 series 2-door,midsize luxury cars,,2001-04,35,3,66,25.0,9.0,4.0,168988
+MY2004,Lexus ES series,midsize luxury cars,,2004,18,4,33,8.0,11.0,6.0,399988
+MY2004,BMW 3 series convertible,midsize luxury cars,,2001-04,48,5,92,40.0,4.0,4.0,176135
+MY2004,Lincoln LS,large luxury cars,,2001-04,53,26,81,18.0,37.0,8.0,393213
+MY2004,Mercedes-Benz E-Class,large luxury cars,,2003-04,14,0,31,5.0,9.0,5.0,155290
+MY2004,Lexus LS 430,large luxury cars,,2001-04,30,12,47,22.0,8.0,0.0,278235
+MY2004,Cadillac CTS,large luxury cars,,2003-04,81,34,129,30.0,53.0,20.0,187442
+MY2004,Lexus GS series,large luxury cars,,2001-04,29,8,49,7.0,21.0,4.0,207994
+MY2004,Volvo V70 wagon,large luxury cars,4WD,2001-04,26,0,56,7.0,22.0,10.0,215511
+MY2004,Buick Park Avenue,large luxury cars,,2001-04,85,49,121,69.0,14.0,10.0,310109
+MY2004,Volvo S80,large luxury cars,,2001-04,29,0,59,9.0,22.0,4.0,173223
+MY2004,Cadillac Seville,large luxury cars,,2001-04,30,5,56,19.0,10.0,3.0,216363
+MY2004,Volvo V70 wagon,large luxury cars,,2001-04,35,0,69,28.0,5.0,0.0,147419
+MY2004,Cadillac Deville,large luxury cars,,2001-04,51,36,66,37.0,14.0,2.0,841756
+MY2004,Lincoln Town Car,very large luxury cars,,2003-04,91,44,139,41.0,50.0,29.0,177359
+MY2004,BMW 7 series,very large luxury cars,,2003-04,11,0,23,4.0,7.0,0.0,211623
+MY2004,Mercedes Benz S-Class,very large luxury cars,,2001-04,21,5,38,9.0,12.0,6.0,245504
+MY2004,Mazda MX-5 Miata convertible,mini sports cars,,2001-04,65,16,115,29.0,37.0,10.0,144427
+MY2004,Mitsubishi Eclipse convertible,small sports cars,,2001-04,146,78,214,53.0,93.0,33.0,178493
+MY2004,Chevrolet Corvette,midsize sports cars,,2001-04,81,42,119,28.0,50.0,18.0,202546
+MY2004,Ford Mustang,midsize sports cars,,2001-04,150,122,177,67.0,83.0,42.0,975910
+MY2004,Nissan 350Z,midsize sports cars,,2003-04,193,110,276,65.0,123.0,74.0,100245
+MY2004,Chevrolet Corvette convertible,midsize sports cars,,2001-04,96,40,151,50.0,49.0,18.0,123467
+MY2004,Ford Mustang convertible,midsize sports cars,,2001-04,97,65,129,51.0,45.0,19.0,430459
+MY2004,Ford Thunderbird convertible,large sports cars,,2002-04,37,7,67,19.0,18.0,12.0,122751
+MY2004,Pontiac Vibe,small station wagons/minivans,,2003-04,62,20,105,31.0,36.0,29.0,175731
+MY2004,Ford Focus wagon,small station wagons/minivans,,2001-04,101,54,147,77.0,21.0,17.0,298222
+MY2004,Toyota Matrix,small station wagons/minivans,,2003-04,44,9,79,17.0,27.0,7.0,198707
+MY2004,Chrysler PT Cruiser,small station wagons/minivans,,2001-04,97,77,117,46.0,51.0,29.0,1392816
+MY2004,Volkswagen Passat,midsize station wagons/minivans,,2001-04,37,0,82,33.0,0.0,0.0,134511
+MY2004,Subaru Legacy,midsize station wagons/minivans,,2001-04,50,30,70,19.0,34.0,16.0,720337
+MY2004,Chevrolet Venture,large station wagons/minivans,,2001-04,72,20,123,40.0,32.0,5.0,142022
+MY2004,Dodge Caravan,large station wagons/minivans,,2001-04,65,41,89,42.0,22.0,5.0,590413
+MY2004,Chevrolet Venture LWB,large station wagons/minivans,,2001-04,63,37,89,45.0,17.0,9.0,588603
+MY2004,Ford Taurus,large station wagons/minivans,,2001-04,91,29,153,75.0,10.0,0.0,149911
+MY2004,Mazda MPV,large station wagons/minivans,,2001-04,36,10,62,24.0,10.0,8.0,279895
+MY2004,Oldsmobile Silhouette,large station wagons/minivans,,2001-04,97,44,149,77.0,13.0,6.0,229442
+MY2004,Toyota Sienna,very large station wagons/minivans,,2004,17,0,35,4.0,13.0,4.0,172902
+MY2004,Kia Sedona,very large station wagons/minivans,,2002-04,35,9,62,23.0,11.0,0.0,266669
+MY2004,Chrysler Town & Country,very large station wagons/minivans,,2001-04,54,37,71,33.0,21.0,14.0,1047309
+MY2004,Dodge Grand Caravan,very large station wagons/minivans,,2001-04,48,33,62,35.0,12.0,6.0,1296920
+MY2004,Honda Odyssey,very large station wagons/minivans,,2002-04,17,6,28,8.0,8.0,4.0,842313
+MY2004,Chevrolet Astro,very large station wagons/minivans,,2001-04,7,0,18,4.0,4.0,4.0,205411
+MY2004,Nissan Frontier,small pickups,2WD,2001-04,67,46,87,36.0,30.0,19.0,556874
+MY2004,Toyota Tacoma,small pickups,2WD,2001-04,96,73,118,45.0,50.0,35.0,843700
+MY2004,Dodge Dakota,small pickups,4WD,2001-04,62,41,83,21.0,42.0,24.0,547871
+MY2004,Ford Ranger,small pickups,2WD,2001-04,135,114,156,60.0,76.0,50.0,1421002
+MY2004,Toyota Tacoma,small pickups,4WD,2001-04,85,61,109,23.0,62.0,38.0,559347
+MY2004,Dodge Dakota,small pickups,2WD,2001-04,103,77,129,51.0,53.0,18.0,650572
+MY2004,Chevrolet T10,small pickups,4WD,2001-04,98,44,153,71.0,24.0,10.0,149314
+MY2004,Nissan Frontier,small pickups,4WD,2001-04,61,19,102,32.0,29.0,12.0,180021
+MY2004,Mazda B series,small pickups,2WD,2001-04,147,89,205,48.0,95.0,78.0,151952
+MY2004,Ford Ranger,small pickups,4WD,2001-04,150,119,180,42.0,106.0,77.0,622872
+MY2004,Ford F150,large pickups,4WD,2004,58,23,93,16.0,41.0,10.0,142764
+MY2004,GMC Sierra 1500,large pickups,4WD,2001-04,71,48,95,27.0,47.0,22.0,568152
+MY2004,Chevrolet Silverado 1500,large pickups,4WD,2001-04,85,72,99,29.0,57.0,40.0,1841919
+MY2004,Chevrolet Slvrdo 1500,large pickups,2WD,2001-04,106,91,120,43.0,64.0,40.0,2042947
+MY2004,Toyota Tundra,large pickups,4WD,2001-04,65,40,89,22.0,41.0,34.0,369036
+MY2004,Ford F150 Heritage,large pickups,2WD,2001-04,119,103,136,44.0,78.0,50.0,1789282
+MY2004,GMC Sierra 1500,large pickups,2WD,2001-04,82,59,106,35.0,47.0,22.0,574459
+MY2004,Toyota Tundra,large pickups,2WD,2001-04,69,44,93,16.0,53.0,32.0,492087
+MY2004,Dodge Ram 1500,large pickups,2WD,2002-04,99,78,120,31.0,69.0,40.0,915411
+MY2004,Ford F150,large pickups,2WD,2004,40,10,71,24.0,17.0,0.0,130026
+MY2004,Dodge Ram 1500,large pickups,4WD,2002-04,46,30,62,24.0,22.0,18.0,602179
+MY2004,Ford F150 Heritage,large pickups,4WD,2001-04,118,95,141,29.0,89.0,60.0,980918
+MY2004,Ford F350,very large pickups,4WD,2001-04,103,79,128,16.0,87.0,69.0,625768
+MY2004,Ford F250,very large pickups,4WD,2001-04,122,101,143,21.0,102.0,78.0,1196931
+MY2004,GMC Sierra 2500,very large pickups,4WD,2001-04,53,32,74,19.0,33.0,24.0,368306
+MY2004,Ford F350,very large pickups,2WD,2001-04,50,15,85,18.0,34.0,25.0,175367
+MY2004,Chevrolet Slvrdo 2500,very large pickups,4WD,2001-04,72,57,88,24.0,48.0,37.0,1108228
+MY2004,Dodge Ram 2500,very large pickups,4WD,2003-04,73,39,108,10.0,63.0,57.0,222406
+MY2004,Chevrolet Silverado 2500,very large pickups,2WD,2001-04,56,34,78,25.0,32.0,20.0,397815
+MY2004,Ford F250,very large pickups,2WD,2001-04,56,36,77,20.0,36.0,26.0,463906
+MY2004,Honda CR-V,small SUVs,2WD,2002-04,49,1,96,12.0,39.0,5.0,159770
+MY2004,Chevrolet Tracker,small SUVs,4WD,2001-04,132,73,191,75.0,53.0,39.0,244352
+MY2004,Honda Element,small SUVs,4WD,2003-04,49,0,98,0.0,53.0,34.0,131864
+MY2004,Honda CR-V,small SUVs,4WD,2002-04,67,40,95,41.0,24.0,22.0,602689
+MY2004,Subaru Forester,small SUVs,4WD,2003-04,53,8,98,24.0,32.0,13.0,175049
+MY2004,Mazda Tribute,small SUVs,2WD,2001-04,85,31,140,49.0,35.0,19.0,199590
+MY2004,Saturn Vue,small SUVs,4WD,2002-04,65,19,112,34.0,30.0,21.0,176181
+MY2004,Saturn Vue,small SUVs,2WD,2002-04,73,29,118,23.0,55.0,26.0,197646
+MY2004,Mazda Tribute,small SUVs,4WD,2001-04,44,9,79,15.0,31.0,10.0,226895
+MY2004,Ford Escape,small SUVs,4WD,2001-04,65,42,88,30.0,34.0,20.0,741369
+MY2004,Ford Escape,small SUVs,2WD,2001-04,84,54,115,52.0,30.0,23.0,577818
+MY2004,Hyundai Santa Fe,small SUVs,2WD,2003-04,47,9,86,23.0,25.0,24.0,182885
+MY2004,Jeep Wrangler,small SUVs,4WD,2001-04,91,62,120,26.0,67.0,55.0,590694
+MY2004,Buick Rendezvous,midsize SUVs,4WD,2002-04,51,5,97,27.0,23.0,18.0,167788
+MY2004,Nissan Pathfinder,midsize SUVs,2WD,2001-04,64,25,102,35.0,30.0,25.0,174465
+MY2004,Jeep Grand Cherokee,midsize SUVs,2WD,2001-04,68,39,98,33.0,36.0,24.0,424165
+MY2004,Toyota 4Runner,midsize SUVs,4WD,2003-04,13,0,28,4.0,8.0,8.0,175152
+MY2004,Land Rover Discovery,midsize SUVs,4WD,2001-04,111,44,177,39.0,74.0,43.0,155768
+MY2004,Lexus RX 330,midsize SUVs,4WD,2004,28,7,49,17.0,11.0,2.0,428474
+MY2004,Isuzu Rodeo,midsize SUVs,2WD,2001-04,131,66,195,61.0,68.0,47.0,202732
+MY2004,Nissan Pathfinder,midsize SUVs,4WD,2001-04,36,15,57,12.0,25.0,10.0,424382
+MY2004,Ford Explorer,midsize SUVs,4WD,2002-04,47,33,62,11.0,39.0,24.0,1397783
+MY2004,Toyota Highlander,midsize SUVs,2WD,2001-04,30,10,50,17.0,12.0,5.0,458255
+MY2004,Chevrolet Trailblazer,midsize SUVs,2WD,2003-04,102,49,155,26.0,79.0,65.0,192882
+MY2004,Chevrolet Blazer,midsize SUVs,2WD,2001-04,232,146,318,83.0,151.0,134.0,160222
+MY2004,GMC Envoy,midsize SUVs,4WD,2003-04,88,25,150,10.0,85.0,60.0,146980
+MY2004,Mercedes-Benz M-Class,midsize SUVs,4WD,2002-04,14,0,30,10.0,5.0,0.0,159033
+MY2004,Ford Explorer,midsize SUVs,2WD,2002-04,57,35,79,17.0,43.0,33.0,688495
+MY2004,Mitsubishi Montero Sport,midsize SUVs,4WD,2001-04,127,61,194,21.0,118.0,88.0,201137
+MY2004,Mitsubishi Montero Sport,midsize SUVs,2WD,2001-04,146,84,208,40.0,112.0,75.0,235928
+MY2004,Toyota Highlander,midsize SUVs,4WD,2001-04,14,4,25,9.0,5.0,5.0,416179
+MY2004,Suzuki Grand Vitara XL-7,midsize SUVs,4WD,2001-04,78,25,131,33.0,43.0,33.0,157538
+MY2004,Chevrolet Blazer,midsize SUVs,2WD,2001-04,123,52,194,27.0,104.0,99.0,157325
+MY2004,Jeep Grand Cherokee,midsize SUVs,4WD,2001-04,57,42,72,19.0,38.0,26.0,1399506
+MY2004,Buick Rendezvous,midsize SUVs,2WD,2003-04,76,12,140,49.0,26.0,6.0,122351
+MY2004,Jeep Liberty,midsize SUVs,2WD,2002-04,115,57,173,67.0,44.0,36.0,223267
+MY2004,Nissan Xterra,midsize SUVs,2WD,2001-04,82,45,118,20.0,65.0,34.0,394621
+MY2004,Nissan Xterra,midsize SUVs,4WD,2001-04,59,30,89,18.0,42.0,31.0,378882
+MY2004,Ford Explorer Sport Trac,midsize SUVs,4WD,2001-04,119,71,167,27.0,102.0,90.0,330189
+MY2004,Jeep Liberty,midsize SUVs,4WD,2002-04,46,27,65,25.0,20.0,12.0,780814
+MY2004,Ford Explorer Sport Trac,midsize SUVs,2WD,2001-04,113,77,149,46.0,71.0,60.0,395245
+MY2004,Chevrolet Trailblazer,midsize SUVs,4WD,2003-04,108,66,150,25.0,87.0,46.0,334643
+MY2004,Chevrolet Blazer,midsize SUVs,4WD,2001-04,119,84,155,38.0,87.0,75.0,534317
+MY2004,BMW X5,midsize SUVs,4WD,2001-04,19,3,35,8.0,11.0,9.0,417020
+MY2004,Lexus RX 330,midsize SUVs,2WD,2004,18,0,37,15.0,3.0,0.0,279251
+MY2004,Honda Pilot,midsize SUVs,4WD,2003-04,19,0,38,7.0,14.0,6.0,343446
+MY2004,Mercury Mountaineer,midsize SUVs,4WD,2002-04,88,42,133,29.0,65.0,58.0,254025
+MY2004,Chevrolet Suburban,large SUVs,4WD,2001-04,66,43,89,23.0,44.0,33.0,677681
+MY2004,Chevrolet Suburban,large SUVs,2WD,2001-04,90,56,124,40.0,53.0,47.0,514713
+MY2004,Chevrolet Avalanche 1500,large SUVs,4WD,2003-04,21,0,54,0.0,23.0,22.0,136127
+MY2004,Chevrolet Trailblazer EXT,large SUVs,4WD,2003-04,39,0,79,12.0,30.0,29.0,129400
+MY2004,Ford Expedition,large SUVs,2WD,2003-04,49,21,77,17.0,33.0,32.0,326504
+MY2004,Cadillac Escalade,large SUVs,4WD,2002-04,58,23,93,20.0,39.0,12.0,191051
+MY2004,Toyota Sequoia,large SUVs,2WD,2001-04,18,0,40,7.0,11.0,0.0,279149
+MY2004,Infiniti QX56,large SUVs,4WD,2004,21,0,54,6.0,18.0,17.0,133822
+MY2004,Chevrolet Tahoe,large SUVs,4WD,2003-04,51,21,81,14.0,38.0,30.0,297652
+MY2004,GMC Yukon,large SUVs,4WD,2003-04,92,39,145,43.0,49.0,24.0,151550
+MY2004,Chevrolet Tahoe,large SUVs,2WD,2003-04,60,22,97,20.0,43.0,38.0,252620
+MY2004,Ford Expedition,large SUVs,4WD,2003-04,31,8,54,9.0,23.0,11.0,261630
+MY2004,GMC Yukon XL,large SUVs,4WD,2003-04,59,2,116,6.0,60.0,50.0,132709
+MY2004,Toyota Sequoia,large SUVs,4WD,2001-04,36,9,63,17.0,21.0,20.0,299263
+MY2004,Ford Excursion,very large SUVs,4WD,2001-04,115,50,180,35.0,84.0,68.0,174543
+MY2002,Saab 9-5,midsize luxury cars,,1999-2002,46,3,88,28.0,14.0,14.0,157905
+MY2002,BMW 3 series,midsize luxury cars,,1999-2002,34,16,52,14.0,19.0,8.0,518714
+MY2002,Acura TL,midsize luxury cars,,1999-2002,47,24,69,18.0,30.0,15.0,545450
+MY2002,Lincoln Continental,large luxury cars,,1999-2002,46,14,77,24.0,23.0,6.0,238937
+MY2002,Cadillac DeVille,large luxury cars,,2000-02,26,13,40,12.0,14.0,4.0,533430
+MY2002,BMW 5 series,large luxury cars,,1999-2002,38,12,64,15.0,24.0,4.0,326719
+MY2002,Jaguar S-type,large luxury cars,,2000-02,68,14,123,40.0,27.0,5.0,147932
+MY2002,Mercedes E class,large luxury cars,,2000-02,10,0,22,7.0,3.0,0.0,223625
+MY2002,Volvo S80,large luxury cars,,1999-2002,45,14,76,11.0,38.0,14.0,274320
+MY2002,Buick Park Avenue,large luxury cars,,1999-2002,60,38,83,46.0,13.0,9.0,487306
+MY2002,Lincoln LS,large luxury cars,,2000-02,48,21,75,11.0,40.0,20.0,334834
+MY2002,Cadillac Eldorado,large luxury cars,,1999-2002,29,3,54,12.0,17.0,6.0,130388
+MY2002,Mercedes S class,very large luxury cars,,2000-02,25,6,44,15.0,10.0,0.0,208198
+MY2002,Lincoln Town Car,very large luxury cars,,1999-2002,62,45,79,35.0,27.0,10.0,776692
+MY2002,Mazda Miata,mini sports cars,,1999-2002,80,37,122,39.0,38.0,22.0,237281
+MY2002,BMW Z3 Roadster convertible,small sports cars,,1999-2002,58,12,103,21.0,34.0,12.0,127005
+MY2002,Chevrolet Camaro,midsize sports cars,,1999-2002,186,139,233,62.0,123.0,63.0,317403
+MY2002,Ford Mustang,midsize sports cars,,1999-2002,140,115,165,61.0,78.0,41.0,1072873
+MY2002,Pontiac Firebird,midsize sports cars,,1999-2002,205,147,263,42.0,167.0,71.0,261563
+MY2002,Ford Mustang convertible,midsize sports cars,,1999-2002,91,60,123,35.0,58.0,35.0,433046
+MY2002,Ford Focus,small station wagons/minivans,,2000-02,62,25,99,48.0,15.0,0.0,211870
+MY2002,Subaru Legacy,midsize station wagons/minivans,,2000-02,54,28,79,13.0,45.0,31.0,472842
+MY2002,Ford Taurus,large station wagons/minivans,,1999-2002,82,40,124,72.0,5.0,3.0,282091
+MY2002,Nissan Quest,very large station wagons/minivans,,1999-2002,26,2,51,23.0,0.0,0.0,350899
+MY2002,Chevrolet Astro,very large station wagons/minivans,2WD,1999-2002,37,14,59,12.0,28.0,19.0,393809
+MY2002,Honda Odyssey,very large station wagons/minivans,,1999-2002,19,8,31,16.0,2.0,1.0,887482
+MY2002,Mazda MPV,very large station wagons/minivans,,2000-02,53,18,87,34.0,16.0,10.0,221282
+MY2002,Ford Windstar,very large station wagons/minivans,,1999-2002,41,30,53,23.0,18.0,13.0,1809442
+MY2002,Chevrolet Venture,very large station wagons/minivans,2WD,2001-02,52,8,97,38.0,14.0,13.0,178526
+MY2002,Chevrolet Astro,very large station wagons/minivans,4WD,1999-2002,66,9,122,43.0,18.0,6.0,121320
+MY2002,Dodge Grand Caravan,very large station wagons/minivans,2WD,2001-02,52,24,81,38.0,13.0,11.0,425350
+MY2002,Toyota Sienna,very large station wagons/minivans,,1999-2002,32,17,47,20.0,12.0,6.0,854589
+MY2002,Dodge Caravan,very large station wagons/minivans,,2001-02,83,34,131,45.0,37.0,16.0,184584
+MY2002,Chrysler Town & Country,very large station wagons/minivans,2WD,2001-02,38,13,62,24.0,13.0,11.0,346462
+MY2002,GMC Safari,very large station wagons/minivans,2WD,1999-2002,31,0,66,24.0,5.0,5.0,140163
+MY2002,Mercury Villager,very large station wagons/minivans,,1999-2002,21,3,39,7.0,15.0,7.0,314518
+MY2002,Mazda B series,small pickups,2WD,1999-2002,185,95,274,67.0,124.0,88.0,118351
+MY2002,Dodge Dakota crew cab,small pickups,4WD,2000-02,77,36,119,42.0,34.0,17.0,172381
+MY2002,Chevrolet S10,small pickups,2WD,1999-2002,182,148,216,81.0,101.0,61.0,678036
+MY2002,GMC Sonoma,small pickups,2WD,1999-2002,126,60,191,76.0,45.0,23.0,128519
+MY2002,Toyota Tacoma,small pickups,2WD,1999-2002,108,67,149,61.0,44.0,27.0,246369
+MY2002,Ford Ranger super cab,small pickups,4WD,1999-2002,154,127,181,36.0,118.0,91.0,813529
+MY2002,Chevrolet S10 ext cab,small pickups,4WD,1999-2002,109,70,148,42.0,65.0,45.0,244211
+MY2002,Dodge Dakota club cab,small pickups,2WD,1999-2002,58,36,80,30.0,28.0,10.0,420166
+MY2002,Chevrolet S10 ext cab,small pickups,2WD,1999-2002,137,108,165,67.0,70.0,41.0,626521
+MY2002,Toyota Tacoma ext cab,small pickups,4WD,1999-2002,83,56,111,26.0,59.0,40.0,458272
+MY2002,Ford Ranger super cab,small pickups,2WD,1999-2002,110,86,133,47.0,64.0,35.0,981240
+MY2002,Nissan Frontier crew cab,small pickups,2WD,2000-02,72,30,113,32.0,41.0,32.0,164565
+MY2002,Dodge Dakota crew cab,small pickups,2WD,2000-02,118,53,183,41.0,80.0,14.0,165444
+MY2002,Dodge Dakota,small pickups,2WD,1999-2002,153,97,209,77.0,77.0,44.0,216101
+MY2002,Toyota Tacoma ext cab,small pickups,2WD,1999-2002,81,51,111,31.0,52.0,29.0,442792
+MY2002,Nissan Frontier king cab,small pickups,2WD,1999-2002,77,47,108,44.0,31.0,11.0,324247
+MY2002,GMC Sonoma ext cab,small pickups,2WD,1999-2002,154,92,216,59.0,91.0,56.0,185426
+MY2002,Ford Ranger,small pickups,2WD,1999-2002,146,120,172,57.0,91.0,56.0,891186
+MY2002,Dodge Dakota club cab,small pickups,4WD,1999-2002,49,25,73,10.0,40.0,18.0,316512
+MY2002,Ford Explorer Sport Trac,midsize pickups,2WD,2001-02,93,35,151,34.0,64.0,62.0,133940
+MY2002,Chevrolet Silverado 1500,large pickups,2WD,1999-2002,153,122,185,52.0,103.0,60.0,652379
+MY2002,Ford F-150,large pickups,4WD,1999-2002,108,65,151,28.0,79.0,48.0,231747
+MY2002,Toyota Tundra access cab,large pickups,2WD,2000-02,62,31,92,21.0,41.0,17.0,252014
+MY2002,Ford F-150 super cab,large pickups,2WD,1999-2002,105,88,123,39.0,68.0,47.0,1641186
+MY2002,Ford F-150 crew cab,large pickups,4WD,2001-02,120,76,163,31.0,94.0,82.0,293513
+MY2002,Chevrolet Silverado 1500,large pickups,4WD,1999-2002,125,91,159,40.0,85.0,61.0,435201
+MY2002,Ford F-150 super cab,large pickups,4WD,1999-2002,114,92,136,34.0,83.0,60.0,1033314
+MY2002,GMC Sierra 1500 ext cab,large pickups,4WD,1999-2002,71,49,92,22.0,48.0,30.0,514238
+MY2002,Ford F-150 crew cab,large pickups,2WD,2001-02,111,68,154,30.0,85.0,54.0,288611
+MY2002,Chevrolet Silverado 1500 ext cab,large pickups,2WD,1999-2002,84,67,102,34.0,51.0,27.0,1192708
+MY2002,Chevrolet Silverado 1500 ext cab,large pickups,4WD,1999-2002,90,75,105,23.0,69.0,46.0,1592743
+MY2002,Ford F-150,large pickups,2WD,1999-2002,131,106,156,36.0,95.0,59.0,786195
+MY2002,GMC Sierra 1500 ext cab,large pickups,2WD,1999-2002,98,66,131,45.0,52.0,26.0,366748
+MY2002,GMC Sierra 1500,large pickups,2WD,1999-2002,97,58,137,26.0,69.0,40.0,220603
+MY2002,Toyota Tundra access cab,large pickups,4WD,2000-02,83,42,124,34.0,48.0,35.0,271296
+MY2002,Dodge Ram 2500 club cab,very large pickups,2WD,1999-2002,96,52,140,46.0,49.0,35.0,147473
+MY2002,Ford F-250,very large pickups,4WD,1999-2002,114,70,158,30.0,82.0,66.0,176005
+MY2002,Chevrolet Silverado 2500,very large pickups,4WD,1999-2002,66,26,106,25.0,41.0,35.0,123725
+MY2002,Ford F-350 crew cab,very large pickups,2WD,1999-2002,58,21,94,21.0,38.0,29.0,178461
+MY2002,Chevrolet Silverado 2500 ext cab,very large pickups,4WD,1999-2002,82,54,110,23.0,57.0,36.0,343414
+MY2002,Ford F-250 crew cab,very large pickups,2WD,1999-2002,40,10,71,12.0,28.0,17.0,128814
+MY2002,Ford F-250 super cab,very large pickups,2WD,1999-2002,58,35,81,31.0,27.0,18.0,323230
+MY2002,Ford F-250,very large pickups,2WD,1999-2002,45,18,72,33.0,12.0,8.0,182388
+MY2002,Ford F-250 crew cab,very large pickups,4WD,1999-2002,80,50,111,24.0,58.0,47.0,392066
+MY2002,Dodge Ram 2500 club cab,very large pickups,4WD,1999-2002,119,88,150,36.0,84.0,72.0,470489
+MY2002,Ford F-350 crew cab,very large pickups,4WD,1999-2002,112,80,143,20.0,92.0,66.0,436185
+MY2002,Ford F-250 super cab,very large pickups,4WD,1999-2002,96,73,119,28.0,68.0,50.0,683397
+MY2002,Ford F-350 super cab,very large pickups,4WD,1999-2002,94,49,140,23.0,74.0,53.0,194449
+MY2002,Ford Escape,small SUVs,2WD,2001-02,86,28,143,59.0,22.0,21.0,175853
+MY2002,Jeep Wrangler,small SUVs,4WD,1999-2002,99,71,127,26.0,77.0,67.0,704099
+MY2002,Chevrolet Tracker 4dr,small SUVs,4WD,1999-2002,183,109,258,86.0,98.0,80.0,208394
+MY2002,Kia Sportage 4dr,small SUVs,4WD,1999-2002,162,91,233,51.0,119.0,100.0,221640
+MY2002,Ford Escape,small SUVs,4WD,2001-02,115,58,173,38.0,80.0,38.0,236632
+MY2002,Toyota RAV4,small SUVs,4WD,2001-02,18,0,39,12.0,6.0,0.0,123339
+MY2002,Kia Sportage 4dr,small SUVs,2WD,1999-2002,197,106,287,65.0,138.0,88.0,181208
+MY2002,Subaru Forester,small SUVs,4WD,1999-2002,70,35,105,37.0,33.0,21.0,406795
+MY2002,Suzuki Grand Vitara,small SUVs,4WD,1999-2002,127,56,197,60.0,65.0,58.0,180713
+MY2002,Dodge Durango,midsize SUVs,4WD,1999-2002,49,34,65,18.0,32.0,19.0,1171194
+MY2002,Mitsubishi Montero Sport,midsize SUVs,4WD,1999-2002,89,36,143,12.0,84.0,50.0,209394
+MY2002,BMW X5,midsize SUVs,4WD,2000-02,33,0,74,17.0,16.0,15.0,151107
+MY2002,Toyota 4Runner,midsize SUVs,4WD,2001-02,12,0,29,6.0,6.0,6.0,125229
+MY2002,Chevrolet Blazer 4dr,midsize SUVs,2WD,1999-2002,190,127,254,78.0,113.0,79.0,303155
+MY2002,Mitsubishi Montero Sport,midsize SUVs,2WD,1999-2002,121,69,173,60.0,59.0,46.0,274667
+MY2002,Chevrolet Blazer 2dr,midsize SUVs,4WD,1999-2002,98,53,142,24.0,73.0,65.0,203541
+MY2002,Ford Explorer 4dr,midsize SUVs,4WD,2002,56,19,93,11.0,49.0,26.0,294934
+MY2002,Jeep Grand Cherokee,midsize SUVs,2WD,1999-2002,89,57,121,27.0,64.0,55.0,551833
+MY2002,Isuzu Trooper,midsize SUVs,4WD,1999-2002,47,16,78,32.0,15.0,15.0,143360
+MY2002,Isuzu Rodeo,midsize SUVs,2WD,1999-2002,132,84,180,56.0,80.0,63.0,323757
+MY2002,Acura MDX,midsize SUVs,4WD,2001-02,36,7,65,30.0,6.0,6.0,125105
+MY2002,GMC Jimmy,midsize SUVs,4WD,1999-2002,95,56,134,34.0,66.0,43.0,385710
+MY2002,Ford Explorer 2dr,midsize SUVs,2WD,1999-2002,187,136,239,52.0,145.0,122.0,427935
+MY2002,Chevrolet Trailblazer,midsize SUVs,4WD,2002,86,20,152,17.0,76.0,56.0,149277
+MY2002,Lexus RX 300,midsize SUVs,4WD,2001-02,17,0,36,11.0,5.0,0.0,135105
+MY2002,Nissan Xterra,midsize SUVs,4WD,2000-02,48,16,79,26.0,23.0,11.0,274133
+MY2002,Nissan Pathfinder,midsize SUVs,2WD,1999-2002,40,8,72,12.0,29.0,29.0,183400
+MY2002,Ford Exporer 4dr,midsize SUVs,2WD,2002,57,8,106,11.0,51.0,49.0,140127
+MY2002,Chevrolet Blazer 4dr,midsize SUVs,4WD,1999-2002,101,77,125,35.0,70.0,61.0,1077063
+MY2002,Dodge Durango,midsize SUVs,2WD,1999-2002,42,18,66,19.0,24.0,14.0,382584
+MY2002,Isuzu Rodeo,midsize SUVs,4WD,1999-2002,60,17,103,19.0,39.0,11.0,192701
+MY2002,Jeep Grand Cherokee,midsize SUVs,4WD,1999-2002,55,42,68,18.0,38.0,24.0,1816350
+MY2002,Nissan Pathfinder,midsize SUVs,4WD,1999-2002,25,11,39,8.0,17.0,4.0,381018
+MY2002,Chevrolet Blazer 2dr,midsize SUVs,2WD,1999-2002,308,190,426,54.0,274.0,251.0,138214
+MY2002,Nissan Xterra,midsize SUVs,2WD,2000-02,101,50,152,21.0,84.0,55.0,243200
+MY2002,Jeep Liberty,midsize SUVs,4WD,2002,86,27,145,42.0,43.0,31.0,142870
+MY2002,Ford Explorer 2dr,midsize SUVs,4WD,1999-2002,134,87,181,22.0,117.0,94.0,336605
+MY2002,Land Rover Discovery Series II,midsize SUVs,4WD,1999-2002,119,53,184,29.0,89.0,53.0,153126
+MY2002,Chevrolet Suburban 1/2 ton,large SUVs,4WD,2000-02,47,22,73,10.0,36.0,27.0,326300
+MY2002,GMC Yukon,large SUVs,4WD,2000-02,52,8,96,4.0,53.0,26.0,180112
+MY2002,Chevrolet Suburban 1/2 ton,large SUVs,2WD,2000-02,73,26,120,29.0,48.0,45.0,235796
+MY2002,GMC Yukon XL,large SUVs,4WD,2000-02,51,10,91,15.0,35.0,35.0,172266
+MY2002,Chevrolet Tahoe,large SUVs,4WD,2000-02,75,43,106,28.0,48.0,38.0,417693
+MY2002,Ford Expedition,large SUVs,4WD,1999-2002,50,33,67,12.0,40.0,32.0,945092
+MY2002,Ford Expedition,large SUVs,2WD,1999-2002,66,46,86,34.0,32.0,24.0,909196
+MY2002,Chevrolet Tahoe,large SUVs,2WD,2000-02,84,45,123,30.0,55.0,46.0,276878
+MY2002,Ford Excursion,very large SUVs,4WD,2000-02,107,41,173,20.0,96.0,77.0,167874

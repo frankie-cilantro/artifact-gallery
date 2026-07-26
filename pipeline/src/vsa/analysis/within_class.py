@@ -19,6 +19,9 @@ def run() -> pd.DataFrame:
         rho, p = spearmanr(g["rating_composite"], g["rate_overall"])
         rows.append({"class": cls, "drivetrain": dt, "n": len(g),
                      "spearman_rho": rho, "p_value": p})
+    if not rows:
+        print("within-class correlation skipped — no ratings ingested")
+        return pd.DataFrame()
     out = pd.DataFrame(rows).sort_values("n", ascending=False)
     out.to_csv(OUTPUTS / "within_class_correlation.csv", index=False)
     return out

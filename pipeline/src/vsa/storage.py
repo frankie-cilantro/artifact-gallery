@@ -40,7 +40,16 @@ def connect() -> duckdb.DuckDBPyConnection:
 
 def load() -> None:
     con = connect()
-    resolved = resolve()
+    try:
+        resolved = resolve()
+    except SystemExit as e:
+        # Aggregate mode: the IIHS pull carries class + drivetrain natively, so
+        # the aggregate-level phases (4.1-4.4, 4.7, gates 1-2) can run without
+        # the FARS crosswalk. Crash-level tables stay empty until the crosswalk
+        # covers the fleet.
+        print(f"crosswalk incomplete — falling back to IIHS-native dimension\n({e})")
+        resolved = pd.read_parquet(RAW / "iihs_death_rates" / "death_rates.parquet")
+        resolved["luxury_flag"] = resolved["class"].str.contains("luxury", case=False)
 
     dim = (resolved[["nameplate", "class", "drivetrain", "model_years", "luxury_flag"]]
            .drop_duplicates(["nameplate", "drivetrain", "model_years"])

@@ -22,6 +22,10 @@ def run() -> pd.DataFrame:
     df["log_rate"] = np.log(df["rate_overall"].clip(lower=0.5))  # zeros exist; CI-aware handling in report
     df = df.dropna(subset=["log_rate", "cls", "curb_weight", "luxury_flag",
                            "rating_composite"])
+    if len(df) < 30:
+        print(f"variance decomposition skipped — n={len(df)} "
+              "(needs ratings + curb weights loaded)")
+        return pd.DataFrame()
     rows, prev_r2 = [], 0.0
     for name, rhs in BLOCKS:
         fit = smf.ols(f"log_rate ~ {rhs}", data=df).fit()

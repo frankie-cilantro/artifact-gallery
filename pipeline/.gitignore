@@ -4,5 +4,5 @@ __pycache__/
 *.duckdb.wal
 data/raw/*
 !data/raw/MANIFEST.md
-outputs/*
+outputs/*.html
 !outputs/.gitkeep

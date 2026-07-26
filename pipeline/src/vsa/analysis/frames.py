@@ -35,5 +35,7 @@ def ratings_wide() -> pd.DataFrame:
     r = con().execute(
         "SELECT vehicle_key, test_name, rating_ord FROM fact_rating "
         "WHERE rating_ord IS NOT NULL").df()
+    if r.empty:
+        return pd.DataFrame({"vehicle_key": pd.Series(dtype=int)})
     return r.pivot_table(index="vehicle_key", columns="test_name",
                          values="rating_ord", aggfunc="max").reset_index()

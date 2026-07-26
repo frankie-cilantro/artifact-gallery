@@ -1,0 +1,147 @@
+cycle,nameplate,class,drivetrain,model_years,rate_overall,ci_lo,ci_hi,rate_mv,rate_sv,rate_sv_roll,exposure_rvy,level
+MY2020,All 2020 mini cars,mini cars,,2017-20,153,119,187,,,,806983,class
+MY2020,All 2020 small cars,small cars,,2017-20,54,45,62,,,,4012267,class
+MY2020,All 2020 midsize cars,midsize cars,,2017-20,60,54,67,,,,7311261,class
+MY2020,All 2020 large cars,large cars,,2017-20,93,80,106,,,,2547580,class
+MY2020,All 2020 midsize luxury cars,midsize luxury cars,,2017-20,23,16,29,,,,2695631,class
+MY2020,All 2020 large luxury cars,large luxury cars,,2017-20,21,13,30,,,,1123522,class
+MY2020,All 2020 very large luxury cars,very large luxury cars,,2017-20,4,0,12,,,,196624,class
+MY2020,All 2020 small sports cars,small sports cars,,2017-20,26,3,50,,,,149049,class
+MY2020,All 2020 midsize sports cars,midsize sports cars,,2017-20,76,59,94,,,,922222,class
+MY2020,All 2020 large sports cars,large sports cars,,2017-20,102,75,128,,,,637002,class
+MY2020,All 2020 mini station wagons/minivans,mini station wagons/minivans,,2017-20,49,30,69,,,,657614,class
+MY2020,All 2020 small station wagons/minivans,small station wagons/minivans,,2017-20,29,19,40,,,,1507675,class
+MY2020,All 2020 midsize station wagons/minivans,midsize station wagons/minivans,,2017-20,5,0,14,,,,163894,class
+MY2020,All 2020 very large station wagons/minivans,very large station wagons/minivans,,2017-20,27,21,33,,,,3788518,class
+MY2020,All 2020 small pickups,small pickups,,2017-20,30,24,35,,,,3787217,class
+MY2020,All 2020 large pickups,large pickups,,2017-20,31,27,36,,,,5121718,class
+MY2020,All 2020 very large pickups,very large pickups,,2017-20,31,26,37,,,,4203210,class
+MY2020,All 2020 small SUVs,small SUVs,,2017-20,42,38,47,,,,9828928,class
+MY2020,All 2020 midsize SUVs,midsize SUVs,,2017-20,27,24,30,,,,12018332,class
+MY2020,All 2020 large SUVs,large SUVs,,2017-20,20,13,27,,,,2244156,class
+MY2020,All 2020 very large SUVs,very large SUVs,,2017-20,24,12,35,,,,882066,class
+MY2020,All 2020 small luxury SUVs,small luxury SUVs,,2017-20,47,33,61,,,,1386476,class
+MY2020,All 2020 midsize luxury SUVs,midsize luxury SUVs,,2017-20,11,8,14,,,,4930978,class
+MY2020,All 2020 large luxury SUVs,large luxury SUVs,,2017-20,17,7,28,,,,651174,class
+MY2020,All 2020 very large luxury SUVs,very large luxury SUVs,,2017-20,18,0,45,,,,152777,class
+MY2020,All 2020 vehicles,all,,2017-20,38,37,40,,,,73747968,fleet
+MY2017,All 2017 midsize luxury cars,midsize luxury cars,,2014-17,22,16,28,9.0,14.0,5.0,2962493,class
+MY2017,All 2017 large luxury cars,large luxury cars,,2014-17,19,11,28,9.0,10.0,6.0,1025362,class
+MY2017,All 2017 very large luxury cars,very large luxury cars,,2014-17,20,10,29,14.0,6.0,3.0,619451,class
+MY2017,All 2017 midsize sports cars,midsize sports cars,,2014-17,51,38,64,29.0,22.0,9.0,1127052,class
+MY2017,All 2017 large sports cars,large sports cars,,2016-17,48,17,79,17.0,31.0,16.0,199898,class
+MY2017,All 2017 mini station wagons/minivans,mini station wagons/minivans,,2014-17,65,47,83,48.0,18.0,5.0,929500,class
+MY2017,All 2017 small station wagons/minivans,small station wagons/minivans,,2014-17,54,46,62,39.0,14.0,6.0,4659738,class
+MY2017,All 2017 midsize station wagons/minivans,midsize station wagons/minivans,,2015-17,4,0,7,3.0,1.0,0.0,843255,class
+MY2017,All 2017 very large station wagons/minivans,very large station wagons/minivans,,2014-17,22,17,28,14.0,8.0,3.0,4165666,class
+MY2017,All 2017 small pickups,small pickups,,2014-17,24,15,32,13.0,11.0,4.0,1130232,class
+MY2017,All 2017 large pickups,large pickups,,2014-17,26,23,29,13.0,13.0,5.0,9238736,class
+MY2017,All 2017 very large pickups,very large pickups,,2014-17,27,22,33,14.0,14.0,4.0,2826409,class
+MY2017,All 2017 small SUVs,small SUVs,,2014-17,24,20,28,14.0,10.0,4.0,7283297,class
+MY2017,All 2017 midsize SUVs,midsize SUVs,,2014-17,21,17,24,11.0,9.0,5.0,9737609,class
+MY2017,All 2017 large SUVs,large SUVs,,2014-17,22,14,30,13.0,9.0,5.0,2019687,class
+MY2017,All 2017 very large SUVs,very large SUVs,,2014-17,7,0,15,7.0,0.0,0.0,591068,class
+MY2017,All 2017 small luxury SUVs,small luxury SUVs,,2014-17,25,10,39,12.0,14.0,9.0,655099,class
+MY2017,All 2017 midsize luxury SUVs,midsize luxury SUVs,,2014-17,11,3,19,5.0,7.0,1.0,996527,class
+MY2017,All 2017 large luxury SUVs,large luxury SUVs,,2014-17,5,0,10,1.0,4.0,3.0,943409,class
+MY2017,All 2017 very large luxury SUVs,very large luxury SUVs,,2014-17,19,0,50,0.0,19.0,16.0,141061,class
+MY2017,All 2017 vehicles,all,,2014-17,36,34,37,22.0,13.0,5.0,111257469,fleet
+MY2014,All 2014 midsize luxury cars,midsize luxury cars,,2011-14,17,12,22,7.0,10.0,2.0,2823516,class
+MY2014,All 2014 large luxury cars,large luxury cars,,2011-14,19,13,26,9.0,11.0,6.0,2227626,class
+MY2014,All 2014 very large luxury cars,very large luxury cars,,2011-14,20,7,33,13.0,7.0,0.0,579757,class
+MY2014,All 2014 midsize sports cars,midsize sports cars,,2011-14,54,38,71,24.0,31.0,12.0,893810,class
+MY2014,All 2014 large sports cars,large sports cars,,2011-14,49,35,64,23.0,26.0,10.0,956332,class
+MY2014,All 2014 mini station wagons/minivans,mini station wagons/minivans,,2011-14,61,39,83,38.0,23.0,11.0,596466,class
+MY2014,All 2014 small station wagons/minivans,small station wagons/minivans,,2011-14,38,29,47,24.0,15.0,4.0,2187340,class
+MY2014,All 2014 midsize station wagons/minivans,midsize station wagons/minivans,,2011-14,16,9,22,12.0,3.0,1.0,1803186,class
+MY2014,All 2014 very large station wagons/minivans,very large station wagons/minivans,,2011-14,19,14,24,13.0,6.0,2.0,4618361,class
+MY2014,All 2014 small pickups,small pickups,,2011-14,22,12,32,8.0,14.0,5.0,978986,class
+MY2014,All 2014 large pickups,large pickups,,2011-14,27,23,32,15.0,13.0,5.0,4594636,class
+MY2014,All 2014 very large pickups,very large pickups,,2011-14,28,12,45,17.0,12.0,9.0,318418,class
+MY2014,All 2014 small SUVs,small SUVs,,2011-14,22,16,28,14.0,7.0,3.0,3475210,class
+MY2014,All 2014 midsize SUVs,midsize SUVs,,2011-14,16,13,20,7.0,9.0,5.0,6999020,class
+MY2014,All 2014 large SUVs,large SUVs,,2011-14,22,14,30,11.0,12.0,6.0,2305225,class
+MY2014,All 2014 very large SUVs,very large SUVs,,2011-14,30,12,47,18.0,11.0,5.0,554676,class
+MY2014,All 2014 small luxury SUVs,small luxury SUVs,,2011-14,8,0,42,8.0,0.0,0.0,131383,class
+MY2014,All 2014 midsize luxury SUVs,midsize luxury SUVs,,2011-14,13,5,21,9.0,4.0,1.0,1171690,class
+MY2014,All 2014 large luxury SUVs,large luxury SUVs,,2011-14,6,0,13,5.0,1.0,1.0,702604,class
+MY2014,All 2014 very large luxury SUVs,very large luxury SUVs,,2011-14,18,2,64,9.0,9.0,0.0,112420,class
+MY2014,All 2014 vehicles,all,,2011-14,30,29,32,18.0,12.0,5.0,92639411,fleet
+MY2011,All 2011 midsize luxury cars,midsize luxury cars,,2008-11,14,10,18,5.0,10.0,5.0,3751598,class
+MY2011,All 2011 large luxury cars,large luxury cars,,2008-11,26,17,34,13.0,12.0,3.0,1349720,class
+MY2011,All 2011 very large luxury cars,very large luxury cars,,2008-11,10,1,18,8.0,1.0,0.0,616598,class
+MY2011,All 2011 small sports cars,small sports cars,,2008-11,0,0,31,0.0,0.0,0.0,119348,class
+MY2011,All 2011 midsize sports cars,midsize sports cars,,2008-11,50,27,73,19.0,32.0,16.0,427680,class
+MY2011,All 2011 large sports cars,large sports cars,,2008-11,67,41,93,15.0,51.0,22.0,383195,class
+MY2011,All 2011 mini station wagons/minivans,mini station wagons/minivans,,2008-11,37,15,59,35.0,3.0,3.0,230118,class
+MY2011,All 2011 small station wagons/minivans,small station wagons/minivans,,2008-11,41,31,51,25.0,16.0,7.0,2249029,class
+MY2011,All 2011 midsize station wagons/minivans,midsize station wagons/minivans,,2008-11,7,0,14,4.0,3.0,2.0,448457,class
+MY2011,All 2011 very large station wagons/minivans,very large station wagons/minivans,,2008-11,23,16,30,17.0,5.0,2.0,2771884,class
+MY2011,All 2011 small pickups,small pickups,,2008-11,29,14,43,18.0,10.0,5.0,593757,class
+MY2011,All 2011 large pickups,large pickups,,2008-11,26,19,32,15.0,11.0,2.0,1892673,class
+MY2011,All 2011 very large pickups,very large pickups,,2008-11,39,22,55,15.0,24.0,14.0,436718,class
+MY2011,All 2011 small SUVs,small SUVs,,2008-11,22,17,27,11.0,11.0,3.0,4705700,class
+MY2011,All 2011 midsize SUVs,midsize SUVs,,2008-11,17,12,22,7.0,9.0,4.0,3846761,class
+MY2011,All 2011 large SUVs,large SUVs,,2008-11,8,3,12,3.0,4.0,2.0,1697102,class
+MY2011,All 2011 very large SUVs,very large SUVs,,2008-11,18,8,29,10.0,7.0,4.0,717602,class
+MY2011,All 2011 midsize luxury SUVs,midsize luxury SUVs,,2008-11,10,5,15,5.0,4.0,1.0,1968408,class
+MY2011,All 2011 large luxury SUVs,large luxury SUVs,,2008-11,13,4,22,2.0,12.0,8.0,797991,class
+MY2011,All 2011 very large luxury SUVs,very large luxury SUVs,,2008-11,17,0,34,9.0,8.0,0.0,180801,class
+MY2011,All 2011 vehicles,all,,2008-11,28,27,30,16.0,12.0,5.0,62932462,fleet
+MY2008,All 2008 midsize luxury cars,midsize luxury cars,,2005-08,31,28,35,17.0,15.0,5.0,2802392,class
+MY2008,All 2008 large luxury cars,large luxury cars,,2005-08,24,20,28,11.0,13.0,5.0,1596600,class
+MY2008,All 2008 very large luxury cars,very large luxury cars,,2005-08,39,34,45,18.0,21.0,6.0,682539,class
+MY2008,All 2008 mini sports cars,mini sports cars,,2005-08,83,61,104,58.0,25.0,17.0,101952,class
+MY2008,All 2008 small sports cars,small sports cars,,2005-08,36,28,45,15.0,21.0,13.0,382527,class
+MY2008,All 2008 midsize sports cars,midsize sports cars,,2005-08,80,72,88,27.0,53.0,33.0,817075,class
+MY2008,All 2008 mini station wagons/minivans,mini station wagons/minivans,,2005-08,61,51,71,29.0,32.0,15.0,341857,class
+MY2008,All 2008 small station wagons/minivans,small station wagons/minivans,,2005-08,59,55,63,36.0,23.0,14.0,2330481,class
+MY2008,All 2008 midsize station wagons/minivans,midsize station wagons/minivans,,2005-08,43,36,49,18.0,24.0,18.0,723643,class
+MY2008,All 2008 large station wagons/minivans,large station wagons/minivans,,2005-08,47,39,55,27.0,20.0,6.0,419599,class
+MY2008,All 2008 very large station wagons/minivans,very large station wagons/minivans,,2005-08,25,22,27,17.0,7.0,2.0,2835972,class
+MY2008,All 2008 small pickups,small pickups,,2005-08,42,39,45,15.0,27.0,16.0,1540822,class
+MY2008,All 2008 large pickups,large pickups,,2005-08,46,43,49,12.0,34.0,21.0,3349044,class
+MY2008,All 2008 very large pickups,very large pickups,,2005-08,46,31,62,20.0,26.0,24.0,124905,class
+MY2008,All 2008 small SUVs,small SUVs,,2005-08,41,37,46,24.0,17.0,7.0,1425937,class
+MY2008,All 2008 midsize SUVs,midsize SUVs,,2005-08,35,31,38,16.0,19.0,10.0,1762147,class
+MY2008,All 2008 large SUVs,large SUVs,,2005-08,15,12,17,6.0,9.0,4.0,1784764,class
+MY2008,All 2008 very large SUVs,very large SUVs,,2005-08,19,11,27,5.0,14.0,5.0,170793,class
+MY2008,All 2008 vehicles,all,,2005-08,48,47,49,23.0,25.0,13.0,65078867,fleet
+MY2004,All 2004 midsize luxury cars,midsize luxury cars,,2001-04,33,26,41,17.0,16.0,6.0,3220062,class
+MY2004,All 2004 large luxury cars,large luxury cars,,2001-04,41,34,48,24.0,17.0,4.0,3635744,class
+MY2004,All 2004 very large luxury cars,very large luxury cars,,2001-04,34,20,48,15.0,19.0,10.0,694664,class
+MY2004,All 2004 mini sports cars,mini sports cars,,2001-04,107,54,160,54.0,54.0,26.0,196794,class
+MY2004,All 2004 small sports cars,small sports cars,,2001-04,71,49,94,23.0,48.0,15.0,685364,class
+MY2004,All 2004 midsize sports cars,midsize sports cars,,2001-04,115,100,131,51.0,64.0,31.0,2167977,class
+MY2004,All 2004 large sports cars,large sports cars,,2001-04,41,15,67,13.0,28.0,16.0,182660,class
+MY2004,All 2004 small station wagons/minivans,small station wagons/minivans,,2001-04,87,72,101,48.0,38.0,23.0,2396578,class
+MY2004,All 2004 midsize station wagons/minivans,midsize station wagons/minivans,,2001-04,51,34,68,24.0,28.0,12.0,1009990,class
+MY2004,All 2004 large station wagons/minivans,large station wagons/minivans,,2001-04,66,52,81,44.0,21.0,9.0,1938290,class
+MY2004,All 2004 very large station wagons/minivans,very large station wagons/minivans,,2001-04,39,32,46,25.0,14.0,8.0,4336292,class
+MY2004,All 2004 small pickups,small pickups,,2001-04,97,84,111,33.0,64.0,42.0,2165382,class
+MY2004,All 2004 large pickups,large pickups,,2001-04,102,94,111,38.0,66.0,40.0,5999208,class
+MY2004,All 2004 very large pickups,very large pickups,,2001-04,89,79,99,19.0,70.0,53.0,3742737,class
+MY2004,All 2004 small SUVs,small SUVs,,2001-04,77,65,89,34.0,43.0,29.0,3297723,class
+MY2004,All 2004 midsize SUVs,midsize SUVs,,2001-04,81,71,91,32.0,51.0,38.0,4774268,class
+MY2004,All 2004 large SUVs,large SUVs,,2001-04,47,38,56,16.0,33.0,23.0,3055389,class
+MY2004,All 2004 very large SUVs,very large SUVs,,2001-04,76,36,117,21.0,57.0,47.0,283043,class
+MY2004,All 2004 vehicles,all,,2001-04,79,77,81,39.0,41.0,24.0,111769810,fleet
+MY2002,All 2002 midsize luxury cars,midsize luxury cars,,1999-2002,41,30,52,20.0,20.0,11.0,2000683,class
+MY2002,All 2002 large luxury cars,large luxury cars,,1999-2002,37,30,45,19.0,19.0,7.0,3405485,class
+MY2002,All 2002 very large luxury cars,very large luxury cars,,1999-2002,47,35,59,26.0,20.0,7.0,1157664,class
+MY2002,All 2002 mini sports cars,mini sports cars,,1999-2002,86,46,126,46.0,38.0,19.0,271635,class
+MY2002,All 2002 small sports cars,small sports cars,,1999-2002,61,36,86,25.0,35.0,14.0,424062,class
+MY2002,All 2002 midsize sports cars,midsize sports cars,,1999-2002,133,118,149,48.0,85.0,42.0,2432984,class
+MY2002,All 2002 small station wagons/minivans,small station wagons/minivans,,2000-02,65,34,96,49.0,15.0,2.0,368411,class
+MY2002,All 2002 midsize station wagons/minivans,midsize station wagons/minivans,,2000-02,47,25,70,11.0,40.0,27.0,535808,class
+MY2002,All 2002 large station wagons/minivans,large station wagons/minivans,,1999-2002,82,40,124,72.0,5.0,3.0,282091,class
+MY2002,All 2002 very large station wagons/minivans,very large station wagons/minivans,,1999-2002,42,36,48,26.0,15.0,9.0,7113651,class
+MY2002,All 2002 small pickups,small pickups,,1999-2002,124,114,133,56.0,68.0,39.0,5776529,class
+MY2002,All 2002 midsize pickups,midsize pickups,,2001-02,93,35,151,34.0,64.0,62.0,133940,class
+MY2002,All 2002 large pickups,large pickups,,1999-2002,97,87,106,29.0,69.0,49.0,4638938,class
+MY2002,All 2002 very large pickups,very large pickups,,1999-2002,69,56,82,31.0,38.0,22.0,1449621,class
+MY2002,All 2002 small SUVs,small SUVs,,1999-2002,121,89,152,60.0,61.0,43.0,809416,class
+MY2002,All 2002 midsize SUVs,midsize SUVs,,1999-2002,114,101,128,38.0,80.0,63.0,3769759,class
+MY2002,All 2002 large SUVs,large SUVs,,1999-2002,70,55,85,31.0,39.0,31.0,1765992,class
+MY2002,All 2002 very large SUVs,very large SUVs,,2000-02,103,39,167,19.0,92.0,75.0,174000,class
+MY2002,All 2002 vehicles,all,,1999-2002,87,85,89,41.0,46.0,28.0,113607805,fleet
