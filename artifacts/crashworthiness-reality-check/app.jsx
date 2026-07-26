@@ -54,6 +54,34 @@ const FOREST = [
   { term: "Small overlap (passenger) → left-side (placebo)", coef: 0.043, lo: -0.093, hi: 0.179, p: 0.54, n: 1946, placebo: true },
 ];
 
+// MY2020 leaderboard (model_scorecard.csv): driver deaths per million registered
+// vehicle years, 95% CI, and mean IIHS composite rating (Good=4 … Poor=1).
+// "0" is not zero — IIHS's own CIs put the upper bound at 22–29.
+const SAFEST = [
+  { name: "Mercedes-Benz E-Class sedan 4WD", cls: "large luxury car", rate: 0, lo: 0, hi: 22, iihs: 4.0 },
+  { name: "Lexus ES 350", cls: "midsize luxury car", rate: 0, lo: 0, hi: 29, iihs: 4.0 },
+  { name: "BMW X3 4WD", cls: "midsize luxury SUV", rate: 0, lo: 0, hi: 29, iihs: 4.0 },
+  { name: "Nissan Pathfinder 2WD", cls: "midsize SUV", rate: 0, lo: 0, hi: 22, iihs: 3.8 },
+  { name: "Toyota C-HR", cls: "small SUV", rate: 2, lo: 0, hi: 7, iihs: 4.0 },
+  { name: "Audi Q5 4WD", cls: "midsize luxury SUV", rate: 2, lo: 0, hi: 6, iihs: 4.0 },
+  { name: "Nissan Murano 2WD", cls: "midsize SUV", rate: 4, lo: 0, hi: 12, iihs: 3.8 },
+  { name: "Volvo XC90 4WD", cls: "midsize luxury SUV", rate: 4, lo: 0, hi: 13, iihs: 4.0 },
+  { name: "GMC Canyon Crew Cab 4WD", cls: "small pickup", rate: 5, lo: 0, hi: 14, iihs: 3.7 },
+  { name: "Lexus RX 350 4WD", cls: "midsize luxury SUV", rate: 5, lo: 0, hi: 10, iihs: null },
+];
+const DEADLIEST = [
+  { name: "Mitsubishi Mirage G4", cls: "mini car", rate: 205, lo: 107, hi: 303, iihs: 4.0 },
+  { name: "Mitsubishi Mirage hatchback", cls: "mini car", rate: 183, lo: 93, hi: 273, iihs: 3.6 },
+  { name: "Dodge Challenger 2WD", cls: "large car", rate: 154, lo: 116, hi: 192, iihs: 3.2 },
+  { name: "Hyundai Accent", cls: "mini car", rate: 152, lo: 61, hi: 242, iihs: 3.8 },
+  { name: "Chevrolet Spark", cls: "mini car", rate: 151, lo: 90, hi: 212, iihs: 4.0 },
+  { name: "Kia Rio sedan", cls: "mini car", rate: 122, lo: 48, hi: 197, iihs: 3.8 },
+  { name: "Dodge Charger HEMI 2WD", cls: "large car", rate: 118, lo: 72, hi: 164, iihs: 3.6 },
+  { name: "Chevrolet Camaro convertible", cls: "large sports car", rate: 113, lo: 34, hi: 191, iihs: 3.8 },
+  { name: "Nissan Altima", cls: "midsize car", rate: 113, lo: 75, hi: 151, iihs: 4.0 },
+  { name: "Chevrolet Camaro coupe", cls: "large sports car", rate: 110, lo: 76, hi: 145, iihs: 3.8 },
+];
+
 // Kendall τ between adjacent study cycles (persistence.csv)
 const PERSIST = [
   { pair: "2002→04", tau: 0.66 }, { pair: "2004→08", tau: 0.44 },
@@ -294,6 +322,52 @@ function ForestChart() {
   );
 }
 
+// ─── leaderboard: dot + CI range per vehicle ─────────────────────────────────
+function Leaderboard({ rows, accent, title }) {
+  const { tip, show, hide } = useTip();
+  const W = 640, rowH = 40, padL = 232, padR = 92, padT = 26, padB = 6;
+  const H = padT + rows.length * rowH + padB;
+  const MAX = 310;
+  const x = (v) => padL + (v / MAX) * (W - padL - padR);
+  return (
+    <Panel>
+      <div style={{ fontSize: 13, fontWeight: 500, color: C.ink, marginBottom: 8 }}>{title}</div>
+      <svg width={W} height={H} style={{ minWidth: 560, display: "block" }} role="img" aria-label={title}>
+        {[0, 100, 200, 300].map(v => (
+          <g key={v}>
+            <line x1={x(v)} x2={x(v)} y1={padT - 8} y2={H - padB} stroke={C.grid} />
+            <text x={x(v)} y={padT - 12} fontSize="10.5" fill={C.ink3} textAnchor="middle"
+              fontFamily={MONO}>{v}</text>
+          </g>
+        ))}
+        {rows.map((d, i) => {
+          const y = padT + i * rowH + rowH / 2;
+          return (
+            <g key={d.name}
+              onMouseMove={(e) => show(e, <><b>{d.name}</b> · {d.cls}<br />
+                {d.rate} driver deaths per million registered vehicle years<br />
+                95% CI [{d.lo}, {d.hi}]{d.rate === 0 && " — a published 0 is compatible with a true rate up to " + d.hi}<br />
+                IIHS composite: {d.iihs === null ? "not rated" : `${d.iihs.toFixed(1)} / 4.0`}</>)}
+              onMouseLeave={hide}>
+              <rect x={0} y={y - rowH / 2} width={W} height={rowH} fill="transparent" />
+              <text x={padL - 10} y={y - 2} fontSize="11.5" fill={C.ink} textAnchor="end">{d.name}</text>
+              <text x={padL - 10} y={y + 11} fontSize="10" fill={C.ink3} textAnchor="end">{d.cls}</text>
+              <line x1={x(d.lo)} x2={x(d.hi)} y1={y} y2={y} stroke={accent} strokeWidth="2" opacity="0.45" />
+              <circle cx={x(d.rate)} cy={y} r={4.5} fill={accent} stroke={C.surface} strokeWidth="2" />
+              <text x={W - padR + 8} y={y + 4} fontSize="11" fontFamily={MONO} fill={C.ink2}>
+                {d.rate}<tspan fill={C.ink3}> · {d.iihs === null ? "—" : d.iihs.toFixed(1)}★</tspan></text>
+            </g>
+          );
+        })}
+      </svg>
+      <div style={{ fontSize: 10.5, color: C.ink3, fontFamily: MONO, marginTop: 4 }}>
+        dot = published rate · bar = 95% CI · right column: rate · IIHS composite (…/4.0)
+      </div>
+      <Tip tip={tip} />
+    </Panel>
+  );
+}
+
 // ─── persistence mini-bars ───────────────────────────────────────────────────
 function PersistChart() {
   const { tip, show, hide } = useTip();
@@ -407,6 +481,19 @@ function App() {
       <Section kicker="Variance decomposition" title="Class explains 43.4%. Ratings add 1.4."
         lead="Sequential R² blocks on log death rates across 145 rated nameplates. Before asking what a rating adds, ask what the vehicle's class — its size, mass, and the driving population it selects — already explains.">
         <VarianceChart />
+      </Section>
+
+      <Section kicker="The leaderboard, with error bars" title="Safest and deadliest, MY2020 — names attached"
+        lead={<>Driver death rates per million registered vehicle years, IIHS MY2020 study
+          (181 published vehicles). Look at the right-hand column: the deadliest list averages
+          a <b>3.8 out of 4.0</b> IIHS composite — the Mirage G4, Spark, and Altima carry
+          perfect 4.0s. The lists are separated by class and buyer, not by rating. And a
+          published "0" is not zero: IIHS's own confidence intervals put those upper bounds
+          at 22–29.</>}>
+        <div style={{ display: "grid", gap: 12 }}>
+          <Leaderboard rows={SAFEST} accent={C.blue} title="Lowest death rates" />
+          <Leaderboard rows={DEADLIEST} accent={C.orange} title="Highest death rates" />
+        </div>
       </Section>
 
       <Section kicker="The placebo failed" title="A side rating 'predicts' frontal deaths. It shouldn't."
