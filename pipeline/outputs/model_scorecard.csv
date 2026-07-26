@@ -1,210 +1,210 @@
 nameplate,drivetrain,class,study_cycle,rate_overall,ci_lo,ci_hi,rating_composite,class_z
-Chevrolet Spark,,mini cars,MY2020,151.0,90.0,212.0,,-0.3619173015546592
-Hyundai Accent,,mini cars,MY2020,152.0,61.0,242.0,,-0.33071753417925753
-Mitsubishi Mirage G4,,mini cars,MY2020,205.0,107.0,303.0,,1.322870136717031
-Kia Rio sedan,,mini cars,MY2020,122.0,48.0,197.0,,-1.2667105554413076
-Mitsubishi Mirage hatchback,,mini cars,MY2020,183.0,93.0,273.0,,0.6364752544581942
-Honda Civic hatchback,,small cars,MY2020,78.0,26.0,130.0,,0.50214143242028
-Subaru Impreza sedan,,small cars,MY2020,46.0,18.0,74.0,,-0.4184511936835667
-Subaru WRX,,small cars,MY2020,38.0,19.0,58.0,,-0.6485993502095284
-Toyota Prius,,small cars,MY2020,45.0,23.0,67.0,,-0.4472197132493119
-Chevrolet Sonic,,small cars,MY2020,107.0,50.0,164.0,,1.3364284998268912
-Hyundai Elantra,,small cars,MY2020,103.0,48.0,157.0,,1.2213544215639103
-Chevrolet Bolt,,small cars,MY2020,8.0,0.0,19.0,,-1.5116549371818846
-Toyota Corolla,,small cars,MY2020,58.0,31.0,86.0,,-0.0732289588946242
-Toyota Prius Prime,,small cars,MY2020,23.0,0.0,45.0,,-1.0801271436957065
-Kia Forte,,small cars,MY2020,111.0,62.0,160.0,,1.4515025780898718
-Honda Civic,,small cars,MY2020,49.0,29.0,69.0,,-0.3321456349863311
-Honda Accord hybrid,,midsize cars,MY2020,45.0,1.0,90.0,,-0.44433309426207324
-Toyota Camry,,midsize cars,MY2020,48.0,38.0,59.0,,-0.3425774238203771
-Ford Fusion hybrid,,midsize cars,MY2020,25.0,0.0,56.0,,-1.1227042305400476
-Kia Optima,,midsize cars,MY2020,80.0,45.0,115.0,,0.7428163942243818
-Chevrolet Malibu,,midsize cars,MY2020,91.0,73.0,108.0,,1.1159205191772676
-Toyota Camry hybrid,,midsize cars,MY2020,19.0,0.0,38.0,,-1.3262155714234398
-Ford Fusion,,midsize cars,MY2020,67.0,30.0,104.0,,0.30187515564369855
-Nissan Altima,,midsize cars,MY2020,113.0,75.0,151.0,,1.8621287690830395
-Volkswagen Jetta,,midsize cars,MY2020,47.0,24.0,69.0,,-0.3764959806342758
-Honda Accord,,midsize cars,MY2020,46.0,34.0,57.0,,-0.4104145374481745
-Dodge Charger HEMI,2WD,large cars,MY2020,118.0,72.0,164.0,,0.6901399089822531
-Chrysler 300,4WD,large cars,MY2020,100.0,37.0,164.0,,0.23246817986770624
-Chevrolet Impala,,large cars,MY2020,80.0,55.0,105.0,,-0.2760559635929014
-Dodge Charger,4WD,large cars,MY2020,32.0,0.0,67.0,,-1.4965139078983596
-Dodge Challenger,2WD,large cars,MY2020,154.0,116.0,192.0,,1.6054833672113469
+Chevrolet Spark,,mini cars,MY2020,151.0,90.0,212.0,4.0,-0.3619173015546592
+Hyundai Accent,,mini cars,MY2020,152.0,61.0,242.0,3.8333333333333335,-0.33071753417925753
+Mitsubishi Mirage G4,,mini cars,MY2020,205.0,107.0,303.0,4.0,1.322870136717031
+Kia Rio sedan,,mini cars,MY2020,122.0,48.0,197.0,3.8333333333333335,-1.2667105554413076
+Mitsubishi Mirage hatchback,,mini cars,MY2020,183.0,93.0,273.0,3.6,0.6364752544581942
+Honda Civic hatchback,,small cars,MY2020,78.0,26.0,130.0,4.0,0.50214143242028
+Subaru Impreza sedan,,small cars,MY2020,46.0,18.0,74.0,3.5714285714285716,-0.4184511936835667
+Subaru WRX,,small cars,MY2020,38.0,19.0,58.0,4.0,-0.6485993502095284
+Toyota Prius,,small cars,MY2020,45.0,23.0,67.0,3.8333333333333335,-0.4472197132493119
+Chevrolet Sonic,,small cars,MY2020,107.0,50.0,164.0,4.0,1.3364284998268912
+Hyundai Elantra,,small cars,MY2020,103.0,48.0,157.0,4.0,1.2213544215639103
+Chevrolet Bolt,,small cars,MY2020,8.0,0.0,19.0,3.8333333333333335,-1.5116549371818846
+Toyota Corolla,,small cars,MY2020,58.0,31.0,86.0,3.857142857142857,-0.0732289588946242
+Toyota Prius Prime,,small cars,MY2020,23.0,0.0,45.0,3.8333333333333335,-1.0801271436957065
+Kia Forte,,small cars,MY2020,111.0,62.0,160.0,3.5714285714285716,1.4515025780898718
+Honda Civic,,small cars,MY2020,49.0,29.0,69.0,4.0,-0.3321456349863311
+Honda Accord hybrid,,midsize cars,MY2020,45.0,1.0,90.0,3.7142857142857144,-0.44433309426207324
+Toyota Camry,,midsize cars,MY2020,48.0,38.0,59.0,3.5714285714285716,-0.3425774238203771
+Ford Fusion hybrid,,midsize cars,MY2020,25.0,0.0,56.0,4.0,-1.1227042305400476
+Kia Optima,,midsize cars,MY2020,80.0,45.0,115.0,4.0,0.7428163942243818
+Chevrolet Malibu,,midsize cars,MY2020,91.0,73.0,108.0,3.2857142857142856,1.1159205191772676
+Toyota Camry hybrid,,midsize cars,MY2020,19.0,0.0,38.0,3.5714285714285716,-1.3262155714234398
+Ford Fusion,,midsize cars,MY2020,67.0,30.0,104.0,4.0,0.30187515564369855
+Nissan Altima,,midsize cars,MY2020,113.0,75.0,151.0,4.0,1.8621287690830395
+Volkswagen Jetta,,midsize cars,MY2020,47.0,24.0,69.0,3.857142857142857,-0.3764959806342758
+Honda Accord,,midsize cars,MY2020,46.0,34.0,57.0,3.7142857142857144,-0.4104145374481745
+Dodge Charger HEMI,2WD,large cars,MY2020,118.0,72.0,164.0,3.6,0.6901399089822531
+Chrysler 300,4WD,large cars,MY2020,100.0,37.0,164.0,3.6,0.23246817986770624
+Chevrolet Impala,,large cars,MY2020,80.0,55.0,105.0,3.8,-0.2760559635929014
+Dodge Charger,4WD,large cars,MY2020,32.0,0.0,67.0,3.6,-1.4965139078983596
+Dodge Challenger,2WD,large cars,MY2020,154.0,116.0,192.0,3.2,1.6054833672113469
 Dodge Charger,2WD,large cars,MY2020,91.0,56.0,126.0,,0.0036323153104328085
 Chrysler 300,2WD,large cars,MY2020,61.0,30.0,92.0,,-0.7591538998804787
-Audi A4,2WD,midsize luxury cars,MY2020,7.0,0.0,21.0,,-0.8307513885470407
-Acura TLX,2WD,midsize luxury cars,MY2020,31.0,0.0,64.0,,0.29076298599146416
-Lexus ES 350,,midsize luxury cars,MY2020,0.0,0.0,29.0,,-1.157859747787438
+Audi A4,2WD,midsize luxury cars,MY2020,7.0,0.0,21.0,4.0,-0.8307513885470407
+Acura TLX,2WD,midsize luxury cars,MY2020,31.0,0.0,64.0,3.8,0.29076298599146416
+Lexus ES 350,,midsize luxury cars,MY2020,0.0,0.0,29.0,4.0,-1.157859747787438
 Audi A4,4WD,midsize luxury cars,MY2020,17.0,0.0,36.0,,-0.36345373248933033
-Tesla Model 3,4WD,midsize luxury cars,MY2020,52.0,9.0,96.0,,1.272088063712656
-Mercedes-Benz C-Class sedan,2WD,midsize luxury cars,MY2020,28.0,5.0,51.0,,0.1505736891741511
+Tesla Model 3,4WD,midsize luxury cars,MY2020,52.0,9.0,96.0,4.0,1.272088063712656
+Mercedes-Benz C-Class sedan,2WD,midsize luxury cars,MY2020,28.0,5.0,51.0,4.0,0.1505736891741511
 Mercedes-Benz C-Class sedan,4WD,midsize luxury cars,MY2020,9.0,0.0,21.0,,-0.7372918573354986
 Mercedes-Benz CLA-Class,2WD,midsize luxury cars,MY2020,64.0,11.0,117.0,,1.8328452509819084
 Tesla Model 3,2WD,midsize luxury cars,MY2020,15.0,0.0,33.0,,-0.4569132637008724
-Genesis G80,,large luxury cars,MY2020,30.0,0.0,69.0,,0.8501044615977588
-Mercedes-Benz E-Class sedan,4WD,large luxury cars,MY2020,0.0,0.0,22.0,,-1.3675593512659598
+Genesis G80,,large luxury cars,MY2020,30.0,0.0,69.0,4.0,0.8501044615977588
+Mercedes-Benz E-Class sedan,4WD,large luxury cars,MY2020,0.0,0.0,22.0,4.0,-1.3675593512659598
 Mercedes-Benz E-Class sedan,2WD,large luxury cars,MY2020,27.0,5.0,48.0,,0.6283380803113869
-Tesla Model S,4WD,large luxury cars,MY2020,17.0,0.0,33.0,,-0.11088319064318593
-Ford Mustang GT coupe,,midsize sports cars,MY2020,77.0,45.0,109.0,,-0.03507153119159497
-Ford Mustang coupe,,midsize sports cars,MY2020,59.0,31.0,86.0,,-0.9820028733646524
+Tesla Model S,4WD,large luxury cars,MY2020,17.0,0.0,33.0,4.0,-0.11088319064318593
+Ford Mustang GT coupe,,midsize sports cars,MY2020,77.0,45.0,109.0,3.8,-0.03507153119159497
+Ford Mustang coupe,,midsize sports cars,MY2020,59.0,31.0,86.0,3.8,-0.9820028733646524
 Ford Mustang convertible,,midsize sports cars,MY2020,97.0,41.0,153.0,,1.0170744045562468
-Chevrolet Camaro coupe,,large sports cars,MY2020,110.0,76.0,145.0,,-0.7071067811865476
-Chevrolet Camaro convertible,,large sports cars,MY2020,113.0,34.0,191.0,,0.7071067811865476
-Honda Fit,,mini station wagons/minivans,MY2020,53.0,25.0,81.0,,0.7071067811865475
-Kia Niro hybrid,,mini station wagons/minivans,MY2020,43.0,15.0,71.0,,-0.7071067811865475
-Kia Soul,,small station wagons/minivans,MY2020,63.0,6.0,120.0,,1.1544231106240652
+Chevrolet Camaro coupe,,large sports cars,MY2020,110.0,76.0,145.0,3.8,-0.7071067811865476
+Chevrolet Camaro convertible,,large sports cars,MY2020,113.0,34.0,191.0,3.8,0.7071067811865476
+Honda Fit,,mini station wagons/minivans,MY2020,53.0,25.0,81.0,4.0,0.7071067811865475
+Kia Niro hybrid,,mini station wagons/minivans,MY2020,43.0,15.0,71.0,4.0,-0.7071067811865475
+Kia Soul,,small station wagons/minivans,MY2020,63.0,6.0,120.0,3.9166666666666665,1.1544231106240652
 Subaru XV Crosstrek,,small station wagons/minivans,MY2020,24.0,11.0,37.0,,-0.5552921291609426
-Subaru Impreza wagon,,small station wagons/minivans,MY2020,23.0,8.0,39.0,,-0.5991309814631224
-Subaru Outback,,midsize station wagons/minivans,MY2020,5.0,0.0,15.0,,
-Chrysler Pacifica,2WD,very large station wagons/minivans,MY2020,20.0,10.0,29.0,,-0.28003993041500846
-Kia Sedona,,very large station wagons/minivans,MY2020,53.0,20.0,87.0,,1.1639159607873792
-Toyota Sienna,2WD,very large station wagons/minivans,MY2020,5.0,0.0,13.0,,-0.9363835173251847
-Honda Odyssey,,very large station wagons/minivans,MY2020,6.0,0.0,13.0,,-0.8926272781978396
-Dodge Grand Caravan,,very large station wagons/minivans,MY2020,48.0,34.0,62.0,,0.9451347651506538
-Chevrolet Colorado Crew Cab,4WD,small pickups,MY2020,21.0,10.0,32.0,,-0.3998071895918676
-Toyota Tacoma Double Cab long bed,4WD,small pickups,MY2020,6.0,0.0,18.0,,-1.256536881574441
-Toyota Tacoma Double Cab short bed,4WD,small pickups,MY2020,24.0,13.0,35.0,,-0.22846125119535293
+Subaru Impreza wagon,,small station wagons/minivans,MY2020,23.0,8.0,39.0,3.5714285714285716,-0.5991309814631224
+Subaru Outback,,midsize station wagons/minivans,MY2020,5.0,0.0,15.0,4.0,
+Chrysler Pacifica,2WD,very large station wagons/minivans,MY2020,20.0,10.0,29.0,4.0,-0.28003993041500846
+Kia Sedona,,very large station wagons/minivans,MY2020,53.0,20.0,87.0,3.909090909090909,1.1639159607873792
+Toyota Sienna,2WD,very large station wagons/minivans,MY2020,5.0,0.0,13.0,3.5,-0.9363835173251847
+Honda Odyssey,,very large station wagons/minivans,MY2020,6.0,0.0,13.0,4.0,-0.8926272781978396
+Dodge Grand Caravan,,very large station wagons/minivans,MY2020,48.0,34.0,62.0,3.4,0.9451347651506538
+Chevrolet Colorado Crew Cab,4WD,small pickups,MY2020,21.0,10.0,32.0,3.7142857142857144,-0.3998071895918676
+Toyota Tacoma Double Cab long bed,4WD,small pickups,MY2020,6.0,0.0,18.0,3.5714285714285716,-1.256536881574441
+Toyota Tacoma Double Cab short bed,4WD,small pickups,MY2020,24.0,13.0,35.0,3.5714285714285716,-0.22846125119535293
 Chevrolet Colorado Crew Cab,2WD,small pickups,MY2020,36.0,10.0,62.0,,0.45692250239070586
-GMC Canyon Crew Cab,4WD,small pickups,MY2020,5.0,0.0,14.0,,-1.3136521943732793
-Jeep Gladiator,4WD,small pickups,MY2020,15.0,0.0,37.0,,-0.742499066384897
-Chevrolet Colorado Extended Cab,2WD,small pickups,MY2020,34.0,8.0,59.0,,0.34269187679302937
-Nissan Frontier King Cab,2WD,small pickups,MY2020,40.0,12.0,68.0,,0.6853837535860587
-Ford Ranger Crew Cab,4WD,small pickups,MY2020,14.0,0.0,31.0,,-0.7996143791837352
+GMC Canyon Crew Cab,4WD,small pickups,MY2020,5.0,0.0,14.0,3.7142857142857144,-1.3136521943732793
+Jeep Gladiator,4WD,small pickups,MY2020,15.0,0.0,37.0,4.0,-0.742499066384897
+Chevrolet Colorado Extended Cab,2WD,small pickups,MY2020,34.0,8.0,59.0,3.6,0.34269187679302937
+Nissan Frontier King Cab,2WD,small pickups,MY2020,40.0,12.0,68.0,3.1666666666666665,0.6853837535860587
+Ford Ranger Crew Cab,4WD,small pickups,MY2020,14.0,0.0,31.0,3.7142857142857144,-0.7996143791837352
 Toyota Tacoma Double Cab short bed,2WD,small pickups,MY2020,27.0,8.0,46.0,,-0.05711531279883823
-Nissan Frontier Crew Cab short bed,4WD,small pickups,MY2020,56.0,28.0,85.0,,1.5992287583674705
+Nissan Frontier Crew Cab short bed,4WD,small pickups,MY2020,56.0,28.0,85.0,3.1666666666666665,1.5992287583674705
 Nissan Frontier Crew Cab short bed,2WD,small pickups,MY2020,58.0,27.0,88.0,,1.7134593839651469
-Ford F-150 SuperCab,4WD,large pickups,MY2020,29.0,3.0,55.0,,0.05303428346689764
-Ford F-150 SuperCrew,2WD,large pickups,MY2020,30.0,5.0,55.0,,0.1591028504006929
-Toyota Tundra Double Cab short bed,4WD,large pickups,MY2020,12.0,0.0,28.0,,-1.7501313544076222
-Ram 1500 Classic Crew Cab short bed,4WD,large pickups,MY2020,51.0,1.0,100.0,,2.386542756010394
-Chevrolet Silverado 1500 Extended Cab,4WD,large pickups,MY2020,14.0,0.0,31.0,,-1.5379942205400317
-Ram 1500 Crew Cab short bed,4WD,large pickups,MY2020,35.0,20.0,51.0,,0.6894456850696693
-Chevrolet Silverado 1500 Crew Cab,2WD,large pickups,MY2020,33.0,8.0,58.0,,0.47730855120207877
-GMC Sierra 1500 Crew Cab,4WD,large pickups,MY2020,24.0,9.0,38.0,,-0.47730855120207877
+Ford F-150 SuperCab,4WD,large pickups,MY2020,29.0,3.0,55.0,4.0,0.05303428346689764
+Ford F-150 SuperCrew,2WD,large pickups,MY2020,30.0,5.0,55.0,4.0,0.1591028504006929
+Toyota Tundra Double Cab short bed,4WD,large pickups,MY2020,12.0,0.0,28.0,3.8,-1.7501313544076222
+Ram 1500 Classic Crew Cab short bed,4WD,large pickups,MY2020,51.0,1.0,100.0,4.0,2.386542756010394
+Chevrolet Silverado 1500 Extended Cab,4WD,large pickups,MY2020,14.0,0.0,31.0,3.8,-1.5379942205400317
+Ram 1500 Crew Cab short bed,4WD,large pickups,MY2020,35.0,20.0,51.0,4.0,0.6894456850696693
+Chevrolet Silverado 1500 Crew Cab,2WD,large pickups,MY2020,33.0,8.0,58.0,3.5833333333333335,0.47730855120207877
+GMC Sierra 1500 Crew Cab,4WD,large pickups,MY2020,24.0,9.0,38.0,3.5833333333333335,-0.47730855120207877
 Ford F-150 SuperCrew,4WD,large pickups,MY2020,30.0,20.0,41.0,,0.1591028504006929
-Ram 1500 Quad Cab,4WD,large pickups,MY2020,31.0,0.0,62.0,,0.26517141733448824
-Ram 1500 Classic Quad Cab,4WD,large pickups,MY2020,23.0,0.0,49.0,,-0.583377118135874
+Ram 1500 Quad Cab,4WD,large pickups,MY2020,31.0,0.0,62.0,4.0,0.26517141733448824
+Ram 1500 Classic Quad Cab,4WD,large pickups,MY2020,23.0,0.0,49.0,4.0,-0.583377118135874
 Ram 1500 Crew Cab short bed,2WD,large pickups,MY2020,28.0,0.0,63.0,,-0.05303428346689764
-Toyota Tundra Crew Max,4WD,large pickups,MY2020,34.0,15.0,52.0,,0.583377118135874
+Toyota Tundra Crew Max,4WD,large pickups,MY2020,34.0,15.0,52.0,3.8,0.583377118135874
 Chevrolet Silverado 1500 Crew Cab,4WD,large pickups,MY2020,25.0,14.0,37.0,,-0.3712399842682835
-Ram 2500 Mega Cab,4WD,very large pickups,MY2020,65.0,22.0,108.0,,2.0219833335021593
+Ram 2500 Mega Cab,4WD,very large pickups,MY2020,65.0,22.0,108.0,4.0,2.0219833335021593
 Ford F-250 SuperCab,4WD,very large pickups,MY2020,22.0,2.0,41.0,,-1.0991294018011741
 Ford F-350 Crew Cab,4WD,very large pickups,MY2020,29.0,16.0,42.0,,-0.5910412821006316
-Ram 3500 Crew Cab long bed,4WD,very large pickups,MY2020,37.0,16.0,57.0,,-0.010369145300011297
-Ram 2500 Crew Cab long bed,4WD,very large pickups,MY2020,42.0,7.0,76.0,,0.35255094020037636
+Ram 3500 Crew Cab long bed,4WD,very large pickups,MY2020,37.0,16.0,57.0,3.6363636363636362,-0.010369145300011297
+Ram 2500 Crew Cab long bed,4WD,very large pickups,MY2020,42.0,7.0,76.0,3.2,0.35255094020037636
 Ford F-250 Crew Cab,4WD,very large pickups,MY2020,32.0,22.0,42.0,,-0.37328923080039894
 Ram 2500 Crew Cab short bed,4WD,very large pickups,MY2020,33.0,21.0,46.0,,-0.3007052137003214
-Jeep Renegade,2WD,small SUVs,MY2020,50.0,21.0,78.0,,0.36744593087549393
-Honda CR-V,4WD,small SUVs,MY2020,14.0,0.0,36.0,,-1.4251407599376633
-Jeep Compass,4WD,small SUVs,MY2020,41.0,24.0,58.0,,-0.08070074182779534
-Nissan Rogue,4WD,small SUVs,MY2020,53.0,23.0,82.0,,0.5168281551099237
-Chevrolet Equinox,4WD,small SUVs,MY2020,30.0,0.0,62.0,,-0.6284355640207044
+Jeep Renegade,2WD,small SUVs,MY2020,50.0,21.0,78.0,3.6363636363636362,0.36744593087549393
+Honda CR-V,4WD,small SUVs,MY2020,14.0,0.0,36.0,3.857142857142857,-1.4251407599376633
+Jeep Compass,4WD,small SUVs,MY2020,41.0,24.0,58.0,3.7142857142857144,-0.08070074182779534
+Nissan Rogue,4WD,small SUVs,MY2020,53.0,23.0,82.0,3.909090909090909,0.5168281551099237
+Chevrolet Equinox,4WD,small SUVs,MY2020,30.0,0.0,62.0,3.8333333333333335,-0.6284355640207044
 Nissan Rogue,2WD,small SUVs,MY2020,52.0,23.0,82.0,,0.4670340803651138
-Chevrolet Trax,2WD,small SUVs,MY2020,89.0,57.0,121.0,,2.3094148459230808
+Chevrolet Trax,2WD,small SUVs,MY2020,89.0,57.0,121.0,3.7142857142857144,2.3094148459230808
 Ford EcoSport,2WD,small SUVs,MY2020,84.0,35.0,132.0,,2.0604444721990314
-Honda HR-V,2WD,small SUVs,MY2020,63.0,29.0,96.0,,1.0147689025580229
+Honda HR-V,2WD,small SUVs,MY2020,63.0,29.0,96.0,3.4615384615384617,1.0147689025580229
 Jeep Compass,2WD,small SUVs,MY2020,27.0,6.0,48.0,,-0.7778177882551343
-Toyota RAV4,4WD,small SUVs,MY2020,56.0,30.0,83.0,,0.6662103793443535
-Mitsubishi Outlander Sport,2WD,small SUVs,MY2020,39.0,13.0,64.0,,-0.18028889131741518
+Toyota RAV4,4WD,small SUVs,MY2020,56.0,30.0,83.0,3.6923076923076925,0.6662103793443535
+Mitsubishi Outlander Sport,2WD,small SUVs,MY2020,39.0,13.0,64.0,3.6363636363636362,-0.18028889131741518
 Chevrolet Trax,4WD,small SUVs,MY2020,59.0,26.0,91.0,,0.8155926035787833
-Subaru Forester,,small SUVs,MY2020,30.0,13.0,48.0,,-0.6284355640207044
+Subaru Forester,,small SUVs,MY2020,30.0,13.0,48.0,3.769230769230769,-0.6284355640207044
 Honda HR-V,4WD,small SUVs,MY2020,31.0,14.0,48.0,,-0.5786414892758945
-Toyota RAV4 hybrid,4WD,small SUVs,MY2020,20.0,0.0,40.0,,-1.1263763114688037
+Toyota RAV4 hybrid,4WD,small SUVs,MY2020,20.0,0.0,40.0,3.0,-1.1263763114688037
 Ford EcoSport,4WD,small SUVs,MY2020,67.0,29.0,104.0,,1.2139452015372627
-Hyundai Santa Fe,2WD,small SUVs,MY2020,17.0,0.0,39.0,,-1.2757585357032335
+Hyundai Santa Fe,2WD,small SUVs,MY2020,17.0,0.0,39.0,3.9166666666666665,-1.2757585357032335
 Chevrolet Equinox,2WD,small SUVs,MY2020,49.0,17.0,80.0,,0.31765185613068403
-Ford Escape,4WD,small SUVs,MY2020,43.0,1.0,85.0,,0.018887407661824503
-Toyota C-HR,,small SUVs,MY2020,2.0,0.0,7.0,,-2.022669656875382
+Ford Escape,4WD,small SUVs,MY2020,43.0,1.0,85.0,3.5384615384615383,0.018887407661824503
+Toyota C-HR,,small SUVs,MY2020,2.0,0.0,7.0,4.0,-2.022669656875382
 Hyundai Santa Fe,4WD,small SUVs,MY2020,19.0,0.0,37.0,,-1.1761703862136137
-Hyundai Tucson,4WD,small SUVs,MY2020,40.0,7.0,73.0,,-0.13049481657260525
+Hyundai Tucson,4WD,small SUVs,MY2020,40.0,7.0,73.0,3.7142857142857144,-0.13049481657260525
 Hyundai Tucson,2WD,small SUVs,MY2020,60.0,16.0,105.0,,0.8653866783235932
 Mitsubishi Outlander Sport,4WD,small SUVs,MY2020,28.0,3.0,53.0,,-0.7280237135103244
-Mitsubishi Outlander,2WD,small SUVs,MY2020,36.0,11.0,61.0,,-0.329671115551845
+Mitsubishi Outlander,2WD,small SUVs,MY2020,36.0,11.0,61.0,4.0,-0.329671115551845
 Jeep Renegade,4WD,small SUVs,MY2020,49.0,25.0,72.0,,0.31765185613068403
 Toyota RAV4,2WD,small SUVs,MY2020,35.0,13.0,56.0,,-0.3794651902966549
 Mitsubishi Outlander,4WD,small SUVs,MY2020,53.0,12.0,95.0,,0.5168281551099237
-Jeep Grand Cherokee,2WD,midsize SUVs,MY2020,40.0,18.0,62.0,,0.8757777149096869
-Honda Pilot,4WD,midsize SUVs,MY2020,13.0,0.0,30.0,,-0.689030996289239
-Chevrolet Traverse,4WD,midsize SUVs,MY2020,6.0,0.0,13.0,,-1.0947221436371088
-GMC Acadia,2WD,midsize SUVs,MY2020,10.0,2.0,19.0,,-0.8628986308668976
-Nissan Murano,2WD,midsize SUVs,MY2020,4.0,0.0,12.0,,-1.2106339000222144
-Subaru Ascent,,midsize SUVs,MY2020,6.0,0.0,16.0,,-1.0947221436371088
-Buick Enclave,2WD,midsize SUVs,MY2020,38.0,1.0,75.0,,0.7598659585245814
+Jeep Grand Cherokee,2WD,midsize SUVs,MY2020,40.0,18.0,62.0,3.1666666666666665,0.8757777149096869
+Honda Pilot,4WD,midsize SUVs,MY2020,13.0,0.0,30.0,3.5714285714285716,-0.689030996289239
+Chevrolet Traverse,4WD,midsize SUVs,MY2020,6.0,0.0,13.0,3.909090909090909,-1.0947221436371088
+GMC Acadia,2WD,midsize SUVs,MY2020,10.0,2.0,19.0,3.5714285714285716,-0.8628986308668976
+Nissan Murano,2WD,midsize SUVs,MY2020,4.0,0.0,12.0,3.8333333333333335,-1.2106339000222144
+Subaru Ascent,,midsize SUVs,MY2020,6.0,0.0,16.0,4.0,-1.0947221436371088
+Buick Enclave,2WD,midsize SUVs,MY2020,38.0,1.0,75.0,3.909090909090909,0.7598659585245814
 Nissan Murano,4WD,midsize SUVs,MY2020,22.0,0.0,43.0,,-0.1674280925562637
 Jeep Grand Cherokee,4WD,midsize SUVs,MY2020,12.0,6.0,17.0,,-0.7469868744817919
 Honda Pilot,2WD,midsize SUVs,MY2020,7.0,0.0,20.0,,-1.036766265444556
-Kia Sorento,2WD,midsize SUVs,MY2020,35.0,17.0,53.0,,0.5859983239469229
-Nissan Pathfinder,2WD,midsize SUVs,MY2020,0.0,0.0,22.0,,-1.4424574127924257
+Kia Sorento,2WD,midsize SUVs,MY2020,35.0,17.0,53.0,4.0,0.5859983239469229
+Nissan Pathfinder,2WD,midsize SUVs,MY2020,0.0,0.0,22.0,3.8333333333333335,-1.4424574127924257
 GMC Acadia,4WD,midsize SUVs,MY2020,11.0,3.0,20.0,,-0.8049427526743447
-Dodge Journey,2WD,midsize SUVs,MY2020,62.0,40.0,83.0,,2.1508070351458493
-Ford Explorer,4WD,midsize SUVs,MY2020,22.0,0.0,47.0,,-0.1674280925562637
+Dodge Journey,2WD,midsize SUVs,MY2020,62.0,40.0,83.0,3.4,2.1508070351458493
+Ford Explorer,4WD,midsize SUVs,MY2020,22.0,0.0,47.0,3.5833333333333335,-0.1674280925562637
 Chevrolet Traverse,2WD,midsize SUVs,MY2020,30.0,9.0,50.0,,0.2962189329841588
 Buick Enclave,4WD,midsize SUVs,MY2020,23.0,0.0,47.0,,-0.10947221436371089
-Jeep Cherokee,2WD,midsize SUVs,MY2020,55.0,34.0,77.0,,1.745115887797979
-Volkswagen Atlas,4WD,midsize SUVs,MY2020,20.0,0.0,52.0,,-0.2833398489413693
+Jeep Cherokee,2WD,midsize SUVs,MY2020,55.0,34.0,77.0,3.8181818181818183,1.745115887797979
+Volkswagen Atlas,4WD,midsize SUVs,MY2020,20.0,0.0,52.0,4.0,-0.2833398489413693
 Nissan Pathfinder,4WD,midsize SUVs,MY2020,25.0,0.0,53.0,,0.006439542021394734
-Ford Edge,2WD,midsize SUVs,MY2020,49.0,2.0,96.0,,1.3973806186426623
-Chevrolet Blazer,2WD,midsize SUVs,MY2020,23.0,0.0,49.0,,-0.10947221436371089
+Ford Edge,2WD,midsize SUVs,MY2020,49.0,2.0,96.0,3.909090909090909,1.3973806186426623
+Chevrolet Blazer,2WD,midsize SUVs,MY2020,23.0,0.0,49.0,4.0,-0.10947221436371089
 Kia Sorento,4WD,midsize SUVs,MY2020,26.0,9.0,43.0,,0.06439542021394755
 Jeep Cherokee,4WD,midsize SUVs,MY2020,34.0,22.0,46.0,,0.5280424457543701
-Jeep Wrangler 4-door,4WD,midsize SUVs,MY2020,39.0,25.0,54.0,,0.8178218367171342
+Jeep Wrangler 4-door,4WD,midsize SUVs,MY2020,39.0,25.0,54.0,3.3333333333333335,0.8178218367171342
 Ford Edge,4WD,midsize SUVs,MY2020,6.0,0.0,15.0,,-1.0947221436371088
-Jeep Wrangler 2-door,4WD,midsize SUVs,MY2020,54.0,6.0,102.0,,1.6871600096054264
+Jeep Wrangler 2-door,4WD,midsize SUVs,MY2020,54.0,6.0,102.0,2.3333333333333335,1.6871600096054264
 GMC Yukon,2WD,large SUVs,MY2020,24.0,0.0,55.0,,0.1449427589131121
 GMC Yukon,4WD,large SUVs,MY2020,22.0,4.0,40.0,,-0.04831425297103737
-Dodge Durango,2WD,large SUVs,MY2020,40.0,5.0,76.0,,1.690998853986308
-Chevrolet Tahoe,4WD,large SUVs,MY2020,16.0,3.0,28.0,,-0.6280852886234858
+Dodge Durango,2WD,large SUVs,MY2020,40.0,5.0,76.0,3.6,1.690998853986308
+Chevrolet Tahoe,4WD,large SUVs,MY2020,16.0,3.0,28.0,2.5,-0.6280852886234858
 Dodge Durango,4WD,large SUVs,MY2020,24.0,8.0,39.0,,0.1449427589131121
 Chevrolet Tahoe,2WD,large SUVs,MY2020,9.0,0.0,17.0,,-1.304484830218009
 Chevrolet Suburban 1500,2WD,very large SUVs,MY2020,54.0,9.0,99.0,,1.1258332685644616
 Chevrolet Suburban 1500,4WD,very large SUVs,MY2020,21.0,5.0,37.0,,-0.3407126996971398
 GMC Yukon XL 1500,4WD,very large SUVs,MY2020,11.0,0.0,28.0,,-0.7851205688673221
-Buick Encore,4WD,small luxury SUVs,MY2020,45.0,12.0,77.0,,0.09062865088588876
+Buick Encore,4WD,small luxury SUVs,MY2020,45.0,12.0,77.0,3.7142857142857144,0.09062865088588876
 Mercedes-Benz GLA Class,4WD,small luxury SUVs,MY2020,20.0,0.0,42.0,,-1.0422294851877207
 Buick Encore,2WD,small luxury SUVs,MY2020,64.0,38.0,90.0,,0.951600834301832
-Volvo XC60,4WD,midsize luxury SUVs,MY2020,5.0,0.0,16.0,,-0.4384043520199926
-BMW X3,4WD,midsize luxury SUVs,MY2020,0.0,0.0,29.0,,-0.8115144388455182
+Volvo XC60,4WD,midsize luxury SUVs,MY2020,5.0,0.0,16.0,3.9166666666666665,-0.4384043520199926
+BMW X3,4WD,midsize luxury SUVs,MY2020,0.0,0.0,29.0,4.0,-0.8115144388455182
 Lexus RX 350,2WD,midsize luxury SUVs,MY2020,10.0,1.0,19.0,,-0.06529426519446699
 Lexus RX 350,4WD,midsize luxury SUVs,MY2020,5.0,0.0,10.0,,-0.4384043520199926
-Acura MDX,2WD,midsize luxury SUVs,MY2020,11.0,0.0,27.0,,0.00932775217063814
+Acura MDX,2WD,midsize luxury SUVs,MY2020,11.0,0.0,27.0,4.0,0.00932775217063814
 Lexus NX 300,4WD,midsize luxury SUVs,MY2020,13.0,0.0,32.0,,0.1585717869008484
-Volvo XC90,4WD,midsize luxury SUVs,MY2020,4.0,0.0,13.0,,-0.5130263693850977
-Acura RDX,4WD,midsize luxury SUVs,MY2020,6.0,0.0,18.0,,-0.36378233465488746
+Volvo XC90,4WD,midsize luxury SUVs,MY2020,4.0,0.0,13.0,4.0,-0.5130263693850977
+Acura RDX,4WD,midsize luxury SUVs,MY2020,6.0,0.0,18.0,4.0,-0.36378233465488746
 Lexus RX 450h,4WD,midsize luxury SUVs,MY2020,7.0,0.0,22.0,,-0.28916031728978236
-Audi Q5,4WD,midsize luxury SUVs,MY2020,2.0,0.0,6.0,,-0.662270404115308
-Buick Envision,4WD,midsize luxury SUVs,MY2020,36.0,10.0,61.0,,1.8748781862982662
-BMW X5,4WD,midsize luxury SUVs,MY2020,6.0,0.0,19.0,,-0.36378233465488746
+Audi Q5,4WD,midsize luxury SUVs,MY2020,2.0,0.0,6.0,4.0,-0.662270404115308
+Buick Envision,4WD,midsize luxury SUVs,MY2020,36.0,10.0,61.0,4.0,1.8748781862982662
+BMW X5,4WD,midsize luxury SUVs,MY2020,6.0,0.0,19.0,4.0,-0.36378233465488746
 Buick Envision,2WD,midsize luxury SUVs,MY2020,51.0,13.0,88.0,,2.994208446774843
 Porsche Macan,,midsize luxury SUVs,MY2020,6.0,0.0,14.0,,-0.36378233465488746
 Acura MDX,4WD,midsize luxury SUVs,MY2020,6.0,0.0,16.0,,-0.36378233465488746
 Lexus NX 300,2WD,midsize luxury SUVs,MY2020,6.0,0.0,17.0,,-0.36378233465488746
 Cadillac Escalade,4WD,large luxury SUVs,MY2020,26.0,3.0,48.0,,
 Cadillac Escalade ESV,4WD,very large luxury SUVs,MY2020,27.0,0.0,67.0,,
-Lincoln MKZ,2WD,midsize luxury cars,MY2017,55.0,5.0,106.0,,1.1659729791610802
+Lincoln MKZ,2WD,midsize luxury cars,MY2017,55.0,5.0,106.0,4.0,1.1659729791610802
 Acura TLX,2WD,midsize luxury cars,MY2017,21.0,0.0,42.0,,-0.5090867937182181
 Mercedes-Benz C-Class sedan,2WD,midsize luxury cars,MY2017,28.0,0.0,56.0,,-0.16422154636071548
-Lexus CT 200h,,midsize luxury cars,MY2017,6.0,0.0,19.0,,-1.2480837523414379
-Infiniti Q50,4WD,midsize luxury cars,MY2017,39.0,8.0,70.0,,0.3777095566296458
+Lexus CT 200h,,midsize luxury cars,MY2017,6.0,0.0,19.0,4.0,-1.2480837523414379
+Infiniti Q50,4WD,midsize luxury cars,MY2017,39.0,8.0,70.0,4.0,0.3777095566296458
 BMW 320i,2WD,midsize luxury cars,MY2017,42.0,4.0,80.0,,0.5255089483542897
 Infiniti Q50,2WD,midsize luxury cars,MY2017,60.0,31.0,90.0,,1.4123052987021536
 Mercedes-Benz C-Class sedan,4WD,midsize luxury cars,MY2017,0.0,0.0,15.0,,-1.543682535790726
 Cadillac ATS,2WD,midsize luxury cars,MY2017,31.0,6.0,56.0,,-0.016422154636071495
-Audi A6,4WD,large luxury cars,MY2017,16.0,0.0,33.0,,
-Cadillac XTS,2WD,very large luxury cars,MY2017,21.0,0.0,41.0,,
+Audi A6,4WD,large luxury cars,MY2017,16.0,0.0,33.0,4.0,
+Cadillac XTS,2WD,very large luxury cars,MY2017,21.0,0.0,41.0,4.0,
 Chevrolet Corvette coupe,,midsize sports cars,MY2017,54.0,20.0,87.0,,-0.3202563076101743
 Ford Mustang coupe,,midsize sports cars,MY2017,45.0,20.0,70.0,,-0.8006407690254357
 Ford Mustang GT coupe,,midsize sports cars,MY2017,81.0,43.0,119.0,,1.1208970766356101
 Chevrolet Camaro coupe,,large sports cars,MY2017,39.0,10.0,69.0,,
 Hyundai Accent,,mini station wagons/minivans,MY2017,81.0,41.0,121.0,,0.9897475249773012
-Ford Fiesta,,mini station wagons/minivans,MY2017,65.0,33.0,97.0,,0.02019892908116913
+Ford Fiesta,,mini station wagons/minivans,MY2017,65.0,33.0,97.0,3.6,0.02019892908116913
 Honda Fit,,mini station wagons/minivans,MY2017,48.0,23.0,73.0,,-1.0099464540584713
 Chevrolet Sonic,,small station wagons/minivans,MY2017,74.0,36.0,111.0,,0.8268151344937491
 Fiat 500L,,small station wagons/minivans,MY2017,24.0,0.0,62.0,,-0.8779583386892387
 Kia Soul,,small station wagons/minivans,MY2017,70.0,52.0,87.0,,0.69043325663911
 Nissan Versa Note,,small station wagons/minivans,MY2017,96.0,65.0,127.0,,1.5769154626942636
-Ford C-Max hybrid,,small station wagons/minivans,MY2017,37.0,0.0,78.0,,-0.43471723566166187
-Ford Focus,,small station wagons/minivans,MY2017,60.0,42.0,78.0,,0.3494785620025125
-Toyota Prius v,,small station wagons/minivans,MY2017,19.0,3.0,34.0,,-1.0484356860075374
+Ford C-Max hybrid,,small station wagons/minivans,MY2017,37.0,0.0,78.0,3.8,-0.43471723566166187
+Ford Focus,,small station wagons/minivans,MY2017,60.0,42.0,78.0,3.8,0.3494785620025125
+Toyota Prius v,,small station wagons/minivans,MY2017,19.0,3.0,34.0,4.0,-1.0484356860075374
 Subaru XV Crosstrek,,small station wagons/minivans,MY2017,18.0,7.0,28.0,,-1.0825311554711972
 Subaru Outback,,midsize station wagons/minivans,MY2017,3.0,0.0,6.0,,
 Chrysler Pacifica,,very large station wagons/minivans,MY2017,27.0,0.0,58.0,,0.5002772387238259
@@ -222,7 +222,7 @@ Nissan Frontier Crew Cab short bed,2WD,small pickups,MY2017,58.0,30.0,87.0,,2.08
 Chevrolet Colorado Extended Cab,2WD,small pickups,MY2017,15.0,0.0,36.0,,-0.8709779412852034
 GMC Canyon Crew Cab,4WD,small pickups,MY2017,15.0,0.0,36.0,,-0.8709779412852034
 Nissan Frontier Crew Cab short bed,4WD,small pickups,MY2017,21.0,4.0,39.0,,-0.45840944278168605
-Ford F-150,2WD,large pickups,MY2017,42.0,8.0,77.0,,0.9339905629340925
+Ford F-150,2WD,large pickups,MY2017,42.0,8.0,77.0,4.0,0.9339905629340925
 Chevrolet Silverado 1500 Extended Cab,2WD,large pickups,MY2017,37.0,18.0,56.0,,0.5355304251635752
 Chevrolet Silverado 1500 Crew Cab,4WD,large pickups,MY2017,26.0,19.0,33.0,,-0.3410818779315629
 Ford F-150 SuperCab,4WD,large pickups,MY2017,11.0,2.0,21.0,,-1.536462291243115
@@ -230,14 +230,14 @@ Toyota Tundra Double Cab short bed,2WD,large pickups,MY2017,17.0,0.0,35.0,,-1.05
 Ram 1500 short bed,2WD,large pickups,MY2017,44.0,8.0,79.0,,1.0933746180422994
 Toyota Tundra Crew Max,4WD,large pickups,MY2017,7.0,1.0,14.0,,-1.8552304014595287
 Chevrolet Silverado 1500 Extended Cab,4WD,large pickups,MY2017,24.0,16.0,32.0,,-0.5004659330397698
-GMC Sierra 1500 Extended Cab,2WD,large pickups,MY2017,27.0,0.0,54.0,,-0.26138985037745943
+GMC Sierra 1500 Extended Cab,2WD,large pickups,MY2017,27.0,0.0,54.0,3.8,-0.26138985037745943
 GMC Sierra 1500 Extended Cab,4WD,large pickups,MY2017,20.0,7.0,33.0,,-0.8192340432561837
 Toyota Tundra Crew Max,2WD,large pickups,MY2017,34.0,10.0,59.0,,0.2964543425012648
 Ram 1500 Crew Cab short bed,2WD,large pickups,MY2017,37.0,19.0,56.0,,0.5355304251635752
 Chevrolet Silverado 1500 Crew Cab,2WD,large pickups,MY2017,54.0,35.0,74.0,,1.8902948935833341
-Chevrolet Silverado 1500,4WD,large pickups,MY2017,51.0,15.0,87.0,,1.6512188109210237
+Chevrolet Silverado 1500,4WD,large pickups,MY2017,51.0,15.0,87.0,3.6,1.6512188109210237
 Ram 1500 Crew Cab short bed,4WD,large pickups,MY2017,39.0,28.0,50.0,,0.6949144802717822
-Ford F-150 Crew Cab,4WD,large pickups,MY2017,25.0,17.0,34.0,,-0.4207739054856664
+Ford F-150 Crew Cab,4WD,large pickups,MY2017,25.0,17.0,34.0,4.0,-0.4207739054856664
 GMC Sierra 1500 Crew Cab,2WD,large pickups,MY2017,48.0,21.0,74.0,,1.4121427282587133
 Ford F-150 Supercab,2WD,large pickups,MY2017,23.0,4.0,43.0,,-0.5801579605938733
 Ram 1500 Crew Cab long bed,4WD,large pickups,MY2017,16.0,0.0,32.0,,-1.1380021534725975
@@ -251,18 +251,18 @@ Ford F250 Crew Cab,4WD,very large pickups,MY2017,30.0,6.0,55.0,,-0.0069159865560
 Chevrolet Silverado 3500 Crew Cab,4WD,very large pickups,MY2017,15.0,0.0,32.0,,-0.9405741716234071
 Ram 2500 Mega Cab,4WD,very large pickups,MY2017,47.0,0.0,105.0,,1.0512299565202785
 Ram 2500 Crew Cab short bed,4WD,very large pickups,MY2017,30.0,18.0,43.0,,-0.006915986556054439
-Chevrolet Silverado 2500 Extended Cab,4WD,very large pickups,MY2017,15.0,0.0,32.0,,-0.9405741716234071
+Chevrolet Silverado 2500 Extended Cab,4WD,very large pickups,MY2017,15.0,0.0,32.0,3.8,-0.9405741716234071
 Ram 3500 Crew Cab long bed,4WD,very large pickups,MY2017,32.0,12.0,52.0,,0.11757177145292591
 Ram 2500 Crew Cab long bed,4WD,very large pickups,MY2017,63.0,27.0,99.0,,2.0471320205921213
-GMC Sierra 2500 Crew Cab,4WD,very large pickups,MY2017,22.0,6.0,38.0,,-0.5048670185919758
-Chevrolet Silverado 2500 Crew Cab,4WD,very large pickups,MY2017,17.0,7.0,27.0,,-0.8160864136144267
+GMC Sierra 2500 Crew Cab,4WD,very large pickups,MY2017,22.0,6.0,38.0,3.6,-0.5048670185919758
+Chevrolet Silverado 2500 Crew Cab,4WD,very large pickups,MY2017,17.0,7.0,27.0,3.6,-0.8160864136144267
 Hyundai Tucson,4WD,small SUVs,MY2017,18.0,0.0,47.0,,-0.8747452453528474
 Mitsubishi Outlander Sport,2WD,small SUVs,MY2017,43.0,9.0,77.0,,0.43363439513218066
 Toyota RAV4,2WD,small SUVs,MY2017,28.0,0.0,59.0,,-0.35139338915883617
 Toyota RAV4,4WD,small SUVs,MY2017,10.0,0.0,30.0,,-1.2934267303080564
 Subaru Forester,4WD,small SUVs,MY2017,17.0,10.0,24.0,,-0.9270804309722485
 Jeep Renegade,2WD,small SUVs,MY2017,13.0,0.0,27.0,,-1.136421173449853
-Jeep Patriot,2WD,small SUVs,MY2017,60.0,35.0,85.0,,1.3233325506619997
+Jeep Patriot,2WD,small SUVs,MY2017,60.0,35.0,85.0,3.4,1.3233325506619997
 Mitsubishi Outlander,2WD,small SUVs,MY2017,55.0,5.0,104.0,,1.0616566225649942
 Nissan Rogue,4WD,small SUVs,MY2017,13.0,7.0,20.0,,-1.136421173449853
 Jeep Compass,2WD,small SUVs,MY2017,55.0,25.0,85.0,,1.0616566225649942
@@ -273,7 +273,7 @@ Honda HR-V,4WD,small SUVs,MY2017,9.0,0.0,21.0,,-1.3457619159274574
 Honda CR-V,2WD,small SUVs,MY2017,18.0,0.0,54.0,,-0.8747452453528474
 Mitsubishi Outlander,4WD,small SUVs,MY2017,7.0,0.0,22.0,,-1.4504322871662596
 Ford Escape,2WD,small SUVs,MY2017,29.0,20.0,38.0,,-0.299058203539435
-Volkswagen Tiguan,2WD,small SUVs,MY2017,24.0,3.0,46.0,,-0.5607341316364406
+Volkswagen Tiguan,2WD,small SUVs,MY2017,24.0,3.0,46.0,3.6,-0.5607341316364406
 Mitsubishi Outlander Sport,4WD,small SUVs,MY2017,67.0,12.0,122.0,,1.6896788499978075
 Chevrolet Trax,2WD,small SUVs,MY2017,73.0,32.0,114.0,,2.0036899637142143
 Nissan Rogue,2WD,small SUVs,MY2017,51.0,32.0,70.0,,0.8523158800873897
@@ -288,14 +288,14 @@ Jeep Cherokee,2WD,midsize SUVs,MY2017,26.0,12.0,41.0,,0.12968503438215187
 Jeep Cherokee,4WD,midsize SUVs,MY2017,20.0,10.0,30.0,,-0.41852897459694516
 Kia Sorento,2WD,midsize SUVs,MY2017,32.0,5.0,58.0,,0.677899043361249
 Ford Explorer,2WD,midsize SUVs,MY2017,33.0,8.0,58.0,,0.7692680448577651
-GMC Terrain,2WD,midsize SUVs,MY2017,33.0,16.0,51.0,,0.7692680448577651
+GMC Terrain,2WD,midsize SUVs,MY2017,33.0,16.0,51.0,4.0,0.7692680448577651
 Ford Explorer,4WD,midsize SUVs,MY2017,13.0,2.0,24.0,,-1.0581119850725584
 Ford Edge,2WD,midsize SUVs,MY2017,21.0,2.0,41.0,,-0.327159973100429
-Ford Flex,2WD,midsize SUVs,MY2017,38.0,0.0,75.0,,1.226113052340346
+Ford Flex,2WD,midsize SUVs,MY2017,38.0,0.0,75.0,3.8,1.226113052340346
 Nissan Murano,4WD,midsize SUVs,MY2017,19.0,0.0,42.0,,-0.5098979760934613
 Hyundai Santa Fe,4WD,midsize SUVs,MY2017,13.0,0.0,31.0,,-1.0581119850725584
 Jeep Grand Cherokee,2WD,midsize SUVs,MY2017,17.0,3.0,31.0,,-0.6926359790864938
-Hyundai Santa Fe Sport,4WD,midsize SUVs,MY2017,39.0,8.0,69.0,,1.3174820538368621
+Hyundai Santa Fe Sport,4WD,midsize SUVs,MY2017,39.0,8.0,69.0,3.8333333333333335,1.3174820538368621
 Honda Pilot,2WD,midsize SUVs,MY2017,17.0,0.0,43.0,,-0.6926359790864938
 Hyundai Santa Fe Sport,2WD,midsize SUVs,MY2017,51.0,24.0,78.0,,2.413910071795056
 Hyundai Santa Fe,2WD,midsize SUVs,MY2017,16.0,0.0,47.0,,-0.7840049805830099
@@ -303,14 +303,14 @@ Jeep Grand Cherokee,4WD,midsize SUVs,MY2017,16.0,10.0,23.0,,-0.7840049805830099
 Dodge Journey,4WD,midsize SUVs,MY2017,23.0,2.0,44.0,,-0.14442197010739666
 Chevrolet Equinox,4WD,midsize SUVs,MY2017,29.0,15.0,43.0,,0.4037920388717004
 Dodge Journey,2WD,midsize SUVs,MY2017,45.0,25.0,65.0,,1.8656960628159593
-Toyota 4Runner,4WD,midsize SUVs,MY2017,13.0,1.0,25.0,,-1.0581119850725584
+Toyota 4Runner,4WD,midsize SUVs,MY2017,13.0,1.0,25.0,3.6,-1.0581119850725584
 Nissan Pathfinder,4WD,midsize SUVs,MY2017,20.0,3.0,37.0,,-0.41852897459694516
 Toyota 4Runner,2WD,midsize SUVs,MY2017,34.0,0.0,67.0,,0.8606370463542813
 Nissan Pathfinder,2WD,midsize SUVs,MY2017,25.0,5.0,45.0,,0.038316032885635704
 Kia Sorento,4WD,midsize SUVs,MY2017,12.0,0.0,25.0,,-1.1494809865690745
 Honda Pilot,4WD,midsize SUVs,MY2017,11.0,0.0,27.0,,-1.2408499880655908
 Nissan Murano,2WD,midsize SUVs,MY2017,19.0,0.0,43.0,,-0.5098979760934613
-Toyota Highlander,4WD,midsize SUVs,MY2017,13.0,0.0,30.0,,-1.0581119850725584
+Toyota Highlander,4WD,midsize SUVs,MY2017,13.0,0.0,30.0,4.0,-1.0581119850725584
 GMC Terrain,4WD,midsize SUVs,MY2017,18.0,6.0,31.0,,-0.6012669775899775
 Ford Edge,4WD,midsize SUVs,MY2017,20.0,6.0,33.0,,-0.41852897459694516
 Chevrolet Equinox,2WD,midsize SUVs,MY2017,45.0,33.0,57.0,,1.8656960628159593
@@ -325,7 +325,7 @@ Chevrolet Tahoe,2WD,large SUVs,MY2017,28.0,5.0,51.0,,0.1675148485651225
 Buick Enclave,2WD,large SUVs,MY2017,20.0,2.0,38.0,,-0.5025445456953676
 Chevrolet Traverse,4WD,large SUVs,MY2017,29.0,9.0,49.0,,0.2512722728476838
 Dodge Durango,2WD,large SUVs,MY2017,11.0,0.0,28.0,,-1.2563613642384188
-Ford Expedition,4WD,large SUVs,MY2017,17.0,0.0,36.0,,-0.7538168185430513
+Ford Expedition,4WD,large SUVs,MY2017,17.0,0.0,36.0,3.0,-0.7538168185430513
 Ford Expedition,2WD,large SUVs,MY2017,55.0,5.0,104.0,,2.4289653041942763
 Ford Expedition EL,4WD,very large SUVs,MY2017,16.0,0.0,47.0,,0.3498160710127484
 GMC Yukon XL 1500,4WD,very large SUVs,MY2017,0.0,0.0,20.0,,-1.142732498641645
@@ -334,7 +334,7 @@ Chevrolet Suburban 1500,4WD,very large SUVs,MY2017,8.0,0.0,18.0,,-0.396458213814
 Buick Encore,2WD,small luxury SUVs,MY2017,46.0,20.0,72.0,,0.6153846153846154
 Land Rover Range Rover Evoque,4WD,small luxury SUVs,MY2017,0.0,0.0,35.0,,-1.1538461538461537
 Buick Encore,4WD,small luxury SUVs,MY2017,44.0,9.0,79.0,,0.5384615384615384
-Infiniti QX60,4WD,midsize luxury SUVs,MY2017,9.0,0.0,20.0,,0.0
+Infiniti QX60,4WD,midsize luxury SUVs,MY2017,9.0,0.0,20.0,3.8333333333333335,0.0
 Audi Q5,4WD,midsize luxury SUVs,MY2017,12.0,0.0,24.0,,0.34462781148036764
 Lexus NX 200t,4WD,midsize luxury SUVs,MY2017,0.0,0.0,28.0,,-1.033883434441103
 BMW X3,4WD,midsize luxury SUVs,MY2017,5.0,0.0,11.0,,-0.4595037486404902

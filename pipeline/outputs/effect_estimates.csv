@@ -1,6 +1,6 @@
 direction,term,note,placebo
-frontal,,no usable (discriminating) tests,False
-left_side,,no usable (discriminating) tests,False
+frontal,,insufficient data (n=0),False
+left_side,,insufficient data (n=0),False
 rollover,,no usable (discriminating) tests,False
-frontal,,no usable (discriminating) tests,True
-left_side,,no usable (discriminating) tests,True
+frontal,,insufficient data (n=0),True
+left_side,,insufficient data (n=0),True

@@ -5,3 +5,4 @@ Append-only log of every raw ingest snapshot (timestamp, source, sha).
 - 20260726T062237Z iihs_death_rates a8de2e4721df 
 - 20260726T065442Z iihs_ratings c898b28cd23a 
 - 20260726T065748Z iihs_ratings 7b17ae620c20 
+- 20260726T080144Z iihs_ratings 0e1e2b9fe68b 

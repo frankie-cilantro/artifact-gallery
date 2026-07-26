@@ -1,0 +1,1099 @@
+nameplate,rating_year,test_name,rating_raw,rating_ord,measurement_value,variant
+Chevrolet Spark,2020,moderate_overlap_front,Good,4,,4-door hatchback
+Chevrolet Spark,2020,side_original,Good,4,,4-door hatchback
+Kia Rio sedan,2020,small_overlap_driver,Good,4,,4-door sedan
+Kia Rio sedan,2020,small_overlap_passenger,Acceptable,3,,4-door sedan
+Kia Rio sedan,2020,moderate_overlap_front,Good,4,,4-door sedan
+Kia Rio sedan,2020,side_original,Good,4,,4-door sedan
+Kia Rio sedan,2020,roof_strength,Good,4,,4-door sedan
+Kia Rio sedan,2020,head_restraints,Good,4,,4-door sedan
+Mitsubishi Mirage hatchback,2020,small_overlap_driver,Marginal,2,,4-door hatchback
+Mitsubishi Mirage hatchback,2020,moderate_overlap_front,Good,4,,4-door hatchback
+Mitsubishi Mirage hatchback,2020,side_original,Good,4,,4-door hatchback
+Mitsubishi Mirage hatchback,2020,roof_strength,Good,4,,4-door hatchback
+Mitsubishi Mirage hatchback,2020,head_restraints,Good,4,,4-door hatchback
+Honda Civic hatchback,2020,small_overlap_driver,Good,4,,4-door hatchback
+Honda Civic hatchback,2020,small_overlap_passenger,Good,4,,4-door hatchback
+Honda Civic hatchback,2020,moderate_overlap_front,Good,4,,4-door hatchback
+Honda Civic hatchback,2020,side_original,Good,4,,4-door hatchback
+Honda Civic hatchback,2020,roof_strength,Good,4,,4-door hatchback
+Honda Civic hatchback,2020,head_restraints,Good,4,,4-door hatchback
+Subaru Impreza sedan,2020,small_overlap_driver,Good,4,,4-door sedan
+Subaru Impreza sedan,2020,small_overlap_passenger,Good,4,,4-door sedan
+Subaru Impreza sedan,2020,moderate_overlap_front,Good,4,,4-door sedan
+Subaru Impreza sedan,2020,side_original,Good,4,,4-door sedan
+Subaru Impreza sedan,2020,side_updated,Poor,1,,4-door sedan
+Subaru Impreza sedan,2020,roof_strength,Good,4,,4-door sedan
+Subaru Impreza sedan,2020,head_restraints,Good,4,,4-door sedan
+Toyota Prius,2020,small_overlap_driver,Good,4,,4-door hatchback
+Toyota Prius,2020,small_overlap_passenger,Acceptable,3,,4-door hatchback
+Toyota Prius,2020,moderate_overlap_front,Good,4,,4-door hatchback
+Toyota Prius,2020,side_original,Good,4,,4-door hatchback
+Toyota Prius,2020,roof_strength,Good,4,,4-door hatchback
+Toyota Prius,2020,head_restraints,Good,4,,4-door hatchback
+Chevrolet Sonic,2020,small_overlap_driver,Good,4,,4-door sedan
+Chevrolet Sonic,2020,moderate_overlap_front,Good,4,,4-door sedan
+Chevrolet Sonic,2020,side_original,Good,4,,4-door sedan
+Chevrolet Sonic,2020,roof_strength,Good,4,,4-door sedan
+Chevrolet Sonic,2020,head_restraints,Good,4,,4-door sedan
+Hyundai Elantra,2020,small_overlap_driver,Good,4,,4-door sedan
+Hyundai Elantra,2020,small_overlap_passenger,Good,4,,4-door sedan
+Hyundai Elantra,2020,moderate_overlap_front,Good,4,,4-door sedan
+Hyundai Elantra,2020,side_original,Good,4,,4-door sedan
+Hyundai Elantra,2020,roof_strength,Good,4,,4-door sedan
+Hyundai Elantra,2020,head_restraints,Good,4,,4-door sedan
+Chevrolet Bolt,2020,small_overlap_driver,Good,4,,4-door hatchback
+Chevrolet Bolt,2020,small_overlap_passenger,Acceptable,3,,4-door hatchback
+Chevrolet Bolt,2020,moderate_overlap_front,Good,4,,4-door hatchback
+Chevrolet Bolt,2020,side_original,Good,4,,4-door hatchback
+Chevrolet Bolt,2020,roof_strength,Good,4,,4-door hatchback
+Chevrolet Bolt,2020,head_restraints,Good,4,,4-door hatchback
+Toyota Corolla,2020,small_overlap_driver,Good,4,,4-door hatchback
+Toyota Corolla,2020,small_overlap_passenger,Good,4,,4-door hatchback
+Toyota Corolla,2020,moderate_overlap_front,Good,4,,4-door hatchback
+Toyota Corolla,2020,side_original,Good,4,,4-door hatchback
+Toyota Corolla,2020,side_updated,Acceptable,3,,4-door hatchback
+Toyota Corolla,2020,roof_strength,Good,4,,4-door hatchback
+Toyota Corolla,2020,head_restraints,Good,4,,4-door hatchback
+Toyota Prius Prime,2020,small_overlap_driver,Good,4,,4-door hatchback
+Toyota Prius Prime,2020,small_overlap_passenger,Acceptable,3,,4-door hatchback
+Toyota Prius Prime,2020,moderate_overlap_front,Good,4,,4-door hatchback
+Toyota Prius Prime,2020,side_original,Good,4,,4-door hatchback
+Toyota Prius Prime,2020,roof_strength,Good,4,,4-door hatchback
+Toyota Prius Prime,2020,head_restraints,Good,4,,4-door hatchback
+Kia Forte,2020,small_overlap_driver,Good,4,,4-door sedan
+Kia Forte,2020,small_overlap_passenger,Good,4,,4-door sedan
+Kia Forte,2020,moderate_overlap_front,Good,4,,4-door sedan
+Kia Forte,2020,side_original,Good,4,,4-door sedan
+Kia Forte,2020,side_updated,Poor,1,,4-door sedan
+Kia Forte,2020,roof_strength,Good,4,,4-door sedan
+Kia Forte,2020,head_restraints,Good,4,,4-door sedan
+Honda Civic,2020,small_overlap_driver,Good,4,,4-door sedan
+Honda Civic,2020,small_overlap_passenger,Good,4,,4-door sedan
+Honda Civic,2020,moderate_overlap_front,Good,4,,4-door sedan
+Honda Civic,2020,side_original,Good,4,,4-door sedan
+Honda Civic,2020,roof_strength,Good,4,,4-door sedan
+Honda Civic,2020,head_restraints,Good,4,,4-door sedan
+Toyota Camry,2020,small_overlap_driver,Good,4,,4-door sedan
+Toyota Camry,2020,small_overlap_passenger,Good,4,,4-door sedan
+Toyota Camry,2020,moderate_overlap_front,Good,4,,4-door sedan
+Toyota Camry,2020,side_original,Good,4,,4-door sedan
+Toyota Camry,2020,side_updated,Poor,1,,4-door sedan
+Toyota Camry,2020,roof_strength,Good,4,,4-door sedan
+Toyota Camry,2020,head_restraints,Good,4,,4-door sedan
+Kia Optima,2020,small_overlap_driver,Good,4,,4-door sedan
+Kia Optima,2020,small_overlap_passenger,Good,4,,4-door sedan
+Kia Optima,2020,moderate_overlap_front,Good,4,,4-door sedan
+Kia Optima,2020,side_original,Good,4,,4-door sedan
+Kia Optima,2020,roof_strength,Good,4,,4-door sedan
+Kia Optima,2020,head_restraints,Good,4,,4-door sedan
+Chevrolet Malibu,2020,small_overlap_driver,Good,4,,4-door sedan
+Chevrolet Malibu,2020,small_overlap_passenger,Marginal,2,,4-door sedan
+Chevrolet Malibu,2020,moderate_overlap_front,Good,4,,4-door sedan
+Chevrolet Malibu,2020,side_original,Good,4,,4-door sedan
+Chevrolet Malibu,2020,side_updated,Poor,1,,4-door sedan
+Chevrolet Malibu,2020,roof_strength,Good,4,,4-door sedan
+Chevrolet Malibu,2020,head_restraints,Good,4,,4-door sedan
+Ford Fusion,2020,small_overlap_driver,Good,4,,4-door sedan
+Ford Fusion,2020,small_overlap_passenger,Good,4,,4-door sedan
+Ford Fusion,2020,moderate_overlap_front,Good,4,,4-door sedan
+Ford Fusion,2020,side_original,Good,4,,4-door sedan
+Ford Fusion,2020,roof_strength,Good,4,,4-door sedan
+Nissan Altima,2020,small_overlap_driver,Good,4,,4-door sedan
+Nissan Altima,2020,small_overlap_passenger,Good,4,,4-door sedan
+Nissan Altima,2020,moderate_overlap_front,Good,4,,4-door sedan
+Nissan Altima,2020,side_original,Good,4,,4-door sedan
+Nissan Altima,2020,roof_strength,Good,4,,4-door sedan
+Nissan Altima,2020,head_restraints,Good,4,,4-door sedan
+Volkswagen Jetta,2020,small_overlap_driver,Good,4,,4-door sedan
+Volkswagen Jetta,2020,small_overlap_passenger,Good,4,,4-door sedan
+Volkswagen Jetta,2020,moderate_overlap_front,Good,4,,4-door sedan
+Volkswagen Jetta,2020,side_original,Good,4,,4-door sedan
+Volkswagen Jetta,2020,side_updated,Acceptable,3,,4-door sedan
+Volkswagen Jetta,2020,roof_strength,Good,4,,4-door sedan
+Volkswagen Jetta,2020,head_restraints,Good,4,,4-door sedan
+Honda Accord,2020,small_overlap_driver,Good,4,,4-door sedan
+Honda Accord,2020,small_overlap_passenger,Good,4,,4-door sedan
+Honda Accord,2020,moderate_overlap_front,Good,4,,4-door sedan
+Honda Accord,2020,side_original,Good,4,,4-door sedan
+Honda Accord,2020,side_updated,Marginal,2,,4-door sedan
+Honda Accord,2020,roof_strength,Good,4,,4-door sedan
+Honda Accord,2020,head_restraints,Good,4,,4-door sedan
+Chrysler 300,2020,small_overlap_driver,Marginal,2,,4-door sedan
+Chrysler 300,2020,moderate_overlap_front,Good,4,,4-door sedan
+Chrysler 300,2020,side_original,Good,4,,4-door sedan
+Chrysler 300,2020,roof_strength,Good,4,,4-door sedan
+Chrysler 300,2020,head_restraints,Good,4,,4-door sedan
+Chevrolet Impala,2020,small_overlap_driver,Acceptable,3,,4-door sedan
+Chevrolet Impala,2020,moderate_overlap_front,Good,4,,4-door sedan
+Chevrolet Impala,2020,side_original,Good,4,,4-door sedan
+Chevrolet Impala,2020,roof_strength,Good,4,,4-door sedan
+Chevrolet Impala,2020,head_restraints,Good,4,,4-door sedan
+Dodge Charger,2020,small_overlap_driver,Marginal,2,,4-door sedan
+Dodge Charger,2020,moderate_overlap_front,Good,4,,4-door sedan
+Dodge Charger,2020,side_original,Good,4,,4-door sedan
+Dodge Charger,2020,roof_strength,Good,4,,4-door sedan
+Dodge Charger,2020,head_restraints,Good,4,,4-door sedan
+Dodge Challenger,2020,small_overlap_driver,Marginal,2,,2-door coupe
+Dodge Challenger,2020,moderate_overlap_front,Good,4,,2-door coupe
+Dodge Challenger,2020,side_original,Good,4,,2-door coupe
+Dodge Challenger,2020,roof_strength,Acceptable,3,,2-door coupe
+Dodge Challenger,2020,head_restraints,Acceptable,3,,2-door coupe
+Audi A4,2020,small_overlap_driver,Good,4,,4-door sedan
+Audi A4,2020,small_overlap_passenger,Good,4,,4-door sedan
+Audi A4,2020,moderate_overlap_front,Good,4,,4-door sedan
+Audi A4,2020,side_original,Good,4,,4-door sedan
+Audi A4,2020,roof_strength,Good,4,,4-door sedan
+Audi A4,2020,head_restraints,Good,4,,4-door sedan
+Acura TLX,2020,small_overlap_driver,Acceptable,3,,4-door sedan
+Acura TLX,2020,moderate_overlap_front,Good,4,,4-door sedan
+Acura TLX,2020,side_original,Good,4,,4-door sedan
+Acura TLX,2020,roof_strength,Good,4,,4-door sedan
+Acura TLX,2020,head_restraints,Good,4,,4-door sedan
+Lexus ES 350,2020,small_overlap_driver,Good,4,,4-door sedan
+Lexus ES 350,2020,small_overlap_passenger,Good,4,,4-door sedan
+Lexus ES 350,2020,moderate_overlap_front,Good,4,,4-door sedan
+Lexus ES 350,2020,side_original,Good,4,,4-door sedan
+Lexus ES 350,2020,roof_strength,Good,4,,4-door sedan
+Lexus ES 350,2020,head_restraints,Good,4,,4-door sedan
+Tesla Model 3,2020,small_overlap_driver,Good,4,,4-door sedan
+Tesla Model 3,2020,small_overlap_passenger,Good,4,,4-door sedan
+Tesla Model 3,2020,moderate_overlap_front,Good,4,,4-door sedan
+Tesla Model 3,2020,side_original,Good,4,,4-door sedan
+Tesla Model 3,2020,roof_strength,Good,4,,4-door sedan
+Tesla Model 3,2020,head_restraints,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2020,small_overlap_driver,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2020,small_overlap_passenger,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2020,moderate_overlap_front,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2020,side_original,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2020,roof_strength,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2020,head_restraints,Good,4,,4-door sedan
+Mercedes-Benz E-Class sedan,2020,small_overlap_driver,Good,4,,4-door sedan
+Mercedes-Benz E-Class sedan,2020,small_overlap_passenger,Good,4,,4-door sedan
+Mercedes-Benz E-Class sedan,2020,moderate_overlap_front,Good,4,,4-door sedan
+Mercedes-Benz E-Class sedan,2020,side_original,Good,4,,4-door sedan
+Mercedes-Benz E-Class sedan,2020,roof_strength,Good,4,,4-door sedan
+Mercedes-Benz E-Class sedan,2020,head_restraints,Good,4,,4-door sedan
+Tesla Model S,2020,small_overlap_driver,Good,4,,4-door sedan
+Tesla Model S,2020,small_overlap_passenger,Good,4,,4-door sedan
+Tesla Model S,2020,moderate_overlap_front,Good,4,,4-door sedan
+Tesla Model S,2020,side_original,Good,4,,4-door sedan
+Tesla Model S,2020,roof_strength,Good,4,,4-door sedan
+Tesla Model S,2020,head_restraints,Good,4,,4-door sedan
+Ford Mustang coupe,2020,small_overlap_driver,Acceptable,3,,2-door coupe
+Ford Mustang coupe,2020,moderate_overlap_front,Good,4,,2-door coupe
+Ford Mustang coupe,2020,side_original,Good,4,,2-door coupe
+Ford Mustang coupe,2020,roof_strength,Good,4,,2-door coupe
+Ford Mustang coupe,2020,head_restraints,Good,4,,2-door coupe
+Chevrolet Camaro coupe,2020,small_overlap_driver,Good,4,,2-door coupe
+Chevrolet Camaro coupe,2020,moderate_overlap_front,Good,4,,2-door coupe
+Chevrolet Camaro coupe,2020,side_original,Good,4,,2-door coupe
+Chevrolet Camaro coupe,2020,roof_strength,Acceptable,3,,2-door coupe
+Chevrolet Camaro coupe,2020,head_restraints,Good,4,,2-door coupe
+Honda Fit,2020,moderate_overlap_front,Good,4,,4-door wagon
+Honda Fit,2020,side_original,Good,4,,4-door wagon
+Honda Fit,2020,roof_strength,Good,4,,4-door wagon
+Honda Fit,2020,head_restraints,Good,4,,4-door wagon
+Kia Niro hybrid,2020,small_overlap_driver,Good,4,,4-door wagon
+Kia Niro hybrid,2020,small_overlap_passenger,Good,4,,4-door wagon
+Kia Niro hybrid,2020,moderate_overlap_front,Good,4,,4-door wagon
+Kia Niro hybrid,2020,side_original,Good,4,,4-door wagon
+Kia Niro hybrid,2020,roof_strength,Good,4,,4-door wagon
+Kia Niro hybrid,2020,head_restraints,Good,4,,4-door wagon
+Kia Soul,2020,small_overlap_driver,Good,4,,4-door wagon
+Kia Soul,2020,small_overlap_passenger,Good,4,,4-door wagon
+Kia Soul,2020,moderate_overlap_front,Good,4,,4-door wagon
+Kia Soul,2020,side_original,Good,4,,4-door wagon
+Kia Soul,2020,roof_strength,Good,4,,4-door wagon
+Kia Soul,2020,head_restraints,Good,4,,4-door wagon
+Subaru Impreza wagon,2020,small_overlap_driver,Good,4,,4-door wagon
+Subaru Impreza wagon,2020,small_overlap_passenger,Good,4,,4-door wagon
+Subaru Impreza wagon,2020,moderate_overlap_front,Good,4,,4-door wagon
+Subaru Impreza wagon,2020,side_original,Good,4,,4-door wagon
+Subaru Impreza wagon,2020,side_updated,Poor,1,,4-door wagon
+Subaru Impreza wagon,2020,roof_strength,Good,4,,4-door wagon
+Subaru Impreza wagon,2020,head_restraints,Good,4,,4-door wagon
+Subaru Outback,2020,small_overlap_driver,Good,4,,4-door wagon
+Subaru Outback,2020,small_overlap_passenger,Good,4,,4-door wagon
+Subaru Outback,2020,moderate_overlap_front,Good,4,,4-door wagon
+Subaru Outback,2020,side_original,Good,4,,4-door wagon
+Subaru Outback,2020,side_updated,Good,4,,4-door wagon
+Subaru Outback,2020,roof_strength,Good,4,,4-door wagon
+Subaru Outback,2020,head_restraints,Good,4,,4-door wagon
+Kia Sedona,2020,small_overlap_driver,Good,4,,minivan
+Kia Sedona,2020,small_overlap_passenger,Acceptable,3,,minivan
+Kia Sedona,2020,moderate_overlap_front,Good,4,,minivan
+Kia Sedona,2020,side_original,Good,4,,minivan
+Kia Sedona,2020,roof_strength,Good,4,,minivan
+Kia Sedona,2020,head_restraints,Good,4,,minivan
+Toyota Sienna,2020,small_overlap_driver,Acceptable,3,,minivan
+Toyota Sienna,2020,small_overlap_passenger,Marginal,2,,minivan
+Toyota Sienna,2020,moderate_overlap_front,Good,4,,minivan
+Toyota Sienna,2020,side_original,Good,4,,minivan
+Toyota Sienna,2020,roof_strength,Good,4,,minivan
+Toyota Sienna,2020,head_restraints,Good,4,,minivan
+Honda Odyssey,2020,small_overlap_driver,Good,4,,minivan
+Honda Odyssey,2020,small_overlap_passenger,Good,4,,minivan
+Honda Odyssey,2020,moderate_overlap_front,Good,4,,minivan
+Honda Odyssey,2020,side_original,Good,4,,minivan
+Honda Odyssey,2020,side_updated,Good,4,,minivan
+Honda Odyssey,2020,roof_strength,Good,4,,minivan
+Honda Odyssey,2020,head_restraints,Good,4,,minivan
+Dodge Grand Caravan,2020,small_overlap_driver,Poor,1,,minivan
+Dodge Grand Caravan,2020,moderate_overlap_front,Good,4,,minivan
+Dodge Grand Caravan,2020,side_original,Good,4,,minivan
+Dodge Grand Caravan,2020,roof_strength,Good,4,,minivan
+Dodge Grand Caravan,2020,head_restraints,Good,4,,minivan
+Chevrolet Colorado Crew Cab,2020,small_overlap_driver,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2020,small_overlap_passenger,Marginal,2,,crew cab pickup
+Chevrolet Colorado Crew Cab,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2020,side_original,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2020,side_updated,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2020,roof_strength,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2020,head_restraints,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2020,small_overlap_driver,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2020,small_overlap_passenger,Marginal,2,,crew cab pickup
+GMC Canyon Crew Cab,2020,moderate_overlap_front,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2020,side_original,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2020,side_updated,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2020,roof_strength,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2020,head_restraints,Good,4,,crew cab pickup
+Chevrolet Colorado Extended Cab,2020,small_overlap_driver,Acceptable,3,,extended cab pickup
+Chevrolet Colorado Extended Cab,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Chevrolet Colorado Extended Cab,2020,side_original,Acceptable,3,,extended cab pickup
+Chevrolet Colorado Extended Cab,2020,roof_strength,Good,4,,extended cab pickup
+Chevrolet Colorado Extended Cab,2020,head_restraints,Good,4,,extended cab pickup
+Ford Ranger Crew Cab,2020,small_overlap_driver,Good,4,,crew cab pickup
+Ford Ranger Crew Cab,2020,small_overlap_passenger,Acceptable,3,,crew cab pickup
+Ford Ranger Crew Cab,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Ford Ranger Crew Cab,2020,side_original,Good,4,,crew cab pickup
+Ford Ranger Crew Cab,2020,side_updated,Acceptable,3,,crew cab pickup
+Ford Ranger Crew Cab,2020,roof_strength,Good,4,,crew cab pickup
+Ford Ranger Crew Cab,2020,head_restraints,Good,4,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2020,small_overlap_driver,Marginal,2,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2020,small_overlap_passenger,Marginal,2,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2020,side_original,Good,4,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2020,roof_strength,Good,4,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2020,head_restraints,Acceptable,3,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2020,small_overlap_driver,Good,4,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2020,small_overlap_passenger,Marginal,2,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2020,side_original,Good,4,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2020,side_updated,Acceptable,3,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2020,roof_strength,Good,4,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2020,head_restraints,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2020,small_overlap_driver,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2020,small_overlap_passenger,Marginal,2,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2020,moderate_overlap_front,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2020,side_original,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2020,side_updated,Acceptable,3,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2020,roof_strength,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2020,head_restraints,Good,4,,crew cab pickup
+Jeep Renegade,2020,small_overlap_driver,Good,4,,4-door SUV
+Jeep Renegade,2020,small_overlap_passenger,Acceptable,3,,4-door SUV
+Jeep Renegade,2020,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Renegade,2020,side_original,Good,4,,4-door SUV
+Jeep Renegade,2020,side_updated,Marginal,2,,4-door SUV
+Jeep Renegade,2020,roof_strength,Good,4,,4-door SUV
+Jeep Renegade,2020,head_restraints,Good,4,,4-door SUV
+Honda CR-V,2020,small_overlap_driver,Good,4,,4-door SUV
+Honda CR-V,2020,small_overlap_passenger,Good,4,,4-door SUV
+Honda CR-V,2020,moderate_overlap_front,Good,4,,4-door SUV
+Honda CR-V,2020,side_original,Good,4,,4-door SUV
+Honda CR-V,2020,side_updated,Acceptable,3,,4-door SUV
+Honda CR-V,2020,roof_strength,Good,4,,4-door SUV
+Honda CR-V,2020,head_restraints,Good,4,,4-door SUV
+Jeep Compass,2020,small_overlap_driver,Good,4,,4-door SUV
+Jeep Compass,2020,small_overlap_passenger,Good,4,,4-door SUV
+Jeep Compass,2020,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Compass,2020,side_original,Good,4,,4-door SUV
+Jeep Compass,2020,side_updated,Marginal,2,,4-door SUV
+Jeep Compass,2020,roof_strength,Good,4,,4-door SUV
+Jeep Compass,2020,head_restraints,Good,4,,4-door SUV
+Nissan Rogue,2020,small_overlap_driver,Good,4,,4-door SUV
+Nissan Rogue,2020,small_overlap_passenger,Acceptable,3,,4-door SUV
+Nissan Rogue,2020,moderate_overlap_front,Good,4,,4-door SUV
+Nissan Rogue,2020,side_original,Good,4,,4-door SUV
+Nissan Rogue,2020,roof_strength,Good,4,,4-door SUV
+Nissan Rogue,2020,head_restraints,Good,4,,4-door SUV
+Chevrolet Equinox,2020,small_overlap_driver,Good,4,,4-door SUV
+Chevrolet Equinox,2020,small_overlap_passenger,Good,4,,4-door SUV
+Chevrolet Equinox,2020,moderate_overlap_front,Good,4,,4-door SUV
+Chevrolet Equinox,2020,side_original,Good,4,,4-door SUV
+Chevrolet Equinox,2020,side_updated,Marginal,2,,4-door SUV
+Chevrolet Equinox,2020,roof_strength,Good,4,,4-door SUV
+Chevrolet Equinox,2020,head_restraints,Good,4,,4-door SUV
+Chevrolet Trax,2020,small_overlap_driver,Good,4,,4-door SUV
+Chevrolet Trax,2020,small_overlap_passenger,Acceptable,3,,4-door SUV
+Chevrolet Trax,2020,moderate_overlap_front,Good,4,,4-door SUV
+Chevrolet Trax,2020,side_original,Good,4,,4-door SUV
+Chevrolet Trax,2020,side_updated,Acceptable,3,,4-door SUV
+Chevrolet Trax,2020,roof_strength,Good,4,,4-door SUV
+Chevrolet Trax,2020,head_restraints,Good,4,,4-door SUV
+Honda HR-V,2020,small_overlap_driver,Good,4,,4-door SUV
+Honda HR-V,2020,small_overlap_passenger,Good,4,,4-door SUV
+Honda HR-V,2020,moderate_overlap_front,Good,4,,4-door SUV
+Honda HR-V,2020,side_original,Good,4,,4-door SUV
+Honda HR-V,2020,side_updated,Poor,1,,4-door SUV
+Honda HR-V,2020,roof_strength,Good,4,,4-door SUV
+Honda HR-V,2020,head_restraints,Good,4,,4-door SUV
+Toyota RAV4,2020,small_overlap_driver,Good,4,,4-door SUV
+Toyota RAV4,2020,small_overlap_passenger,Good,4,,4-door SUV
+Toyota RAV4,2020,moderate_overlap_front,Good,4,,4-door SUV
+Toyota RAV4,2020,side_original,Good,4,,4-door SUV
+Toyota RAV4,2020,side_updated,Acceptable,3,,4-door SUV
+Toyota RAV4,2020,roof_strength,Good,4,,4-door SUV
+Toyota RAV4,2020,head_restraints,Good,4,,4-door SUV
+Mitsubishi Outlander Sport,2020,small_overlap_driver,Acceptable,3,,4-door SUV
+Mitsubishi Outlander Sport,2020,moderate_overlap_front,Good,4,,4-door SUV
+Mitsubishi Outlander Sport,2020,side_original,Good,4,,4-door SUV
+Mitsubishi Outlander Sport,2020,roof_strength,Good,4,,4-door SUV
+Mitsubishi Outlander Sport,2020,head_restraints,Good,4,,4-door SUV
+Subaru Forester,2020,small_overlap_driver,Good,4,,4-door SUV
+Subaru Forester,2020,small_overlap_passenger,Good,4,,4-door SUV
+Subaru Forester,2020,moderate_overlap_front,Good,4,,4-door SUV
+Subaru Forester,2020,side_original,Good,4,,4-door SUV
+Subaru Forester,2020,side_updated,Acceptable,3,,4-door SUV
+Subaru Forester,2020,roof_strength,Good,4,,4-door SUV
+Subaru Forester,2020,head_restraints,Good,4,,4-door SUV
+Hyundai Santa Fe,2020,small_overlap_driver,Good,4,,4-door SUV
+Hyundai Santa Fe,2020,small_overlap_passenger,Good,4,,4-door SUV
+Hyundai Santa Fe,2020,moderate_overlap_front,Good,4,,4-door SUV
+Hyundai Santa Fe,2020,side_original,Good,4,,4-door SUV
+Hyundai Santa Fe,2020,roof_strength,Good,4,,4-door SUV
+Hyundai Santa Fe,2020,head_restraints,Good,4,,4-door SUV
+Ford Escape,2020,small_overlap_driver,Good,4,,4-door SUV
+Ford Escape,2020,small_overlap_passenger,Good,4,,4-door SUV
+Ford Escape,2020,moderate_overlap_front,Good,4,,4-door SUV
+Ford Escape,2020,side_original,Good,4,,4-door SUV
+Ford Escape,2020,side_updated,Marginal,2,,4-door SUV
+Ford Escape,2020,roof_strength,Good,4,,4-door SUV
+Ford Escape,2020,head_restraints,Good,4,,4-door SUV
+Toyota C-HR,2020,small_overlap_driver,Good,4,,4-door SUV
+Toyota C-HR,2020,small_overlap_passenger,Good,4,,4-door SUV
+Toyota C-HR,2020,moderate_overlap_front,Good,4,,4-door SUV
+Toyota C-HR,2020,side_original,Good,4,,4-door SUV
+Toyota C-HR,2020,roof_strength,Good,4,,4-door SUV
+Toyota C-HR,2020,head_restraints,Good,4,,4-door SUV
+Hyundai Tucson,2020,small_overlap_driver,Good,4,,4-door SUV
+Hyundai Tucson,2020,small_overlap_passenger,Good,4,,4-door SUV
+Hyundai Tucson,2020,moderate_overlap_front,Good,4,,4-door SUV
+Hyundai Tucson,2020,side_original,Good,4,,4-door SUV
+Hyundai Tucson,2020,side_updated,Marginal,2,,4-door SUV
+Hyundai Tucson,2020,roof_strength,Good,4,,4-door SUV
+Hyundai Tucson,2020,head_restraints,Good,4,,4-door SUV
+Mitsubishi Outlander,2020,small_overlap_driver,Good,4,,4-door SUV
+Mitsubishi Outlander,2020,small_overlap_passenger,Good,4,,4-door SUV
+Mitsubishi Outlander,2020,moderate_overlap_front,Good,4,,4-door SUV
+Mitsubishi Outlander,2020,side_original,Good,4,,4-door SUV
+Mitsubishi Outlander,2020,roof_strength,Good,4,,4-door SUV
+Mitsubishi Outlander,2020,head_restraints,Good,4,,4-door SUV
+Jeep Grand Cherokee,2020,small_overlap_driver,Marginal,2,,4-door SUV
+Jeep Grand Cherokee,2020,small_overlap_passenger,Poor,1,,4-door SUV
+Jeep Grand Cherokee,2020,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Grand Cherokee,2020,side_original,Good,4,,4-door SUV
+Jeep Grand Cherokee,2020,roof_strength,Good,4,,4-door SUV
+Jeep Grand Cherokee,2020,head_restraints,Good,4,,4-door SUV
+Honda Pilot,2020,small_overlap_driver,Good,4,,4-door SUV
+Honda Pilot,2020,small_overlap_passenger,Acceptable,3,,4-door SUV
+Honda Pilot,2020,moderate_overlap_front,Good,4,,4-door SUV
+Honda Pilot,2020,side_original,Good,4,,4-door SUV
+Honda Pilot,2020,side_updated,Marginal,2,,4-door SUV
+Honda Pilot,2020,roof_strength,Good,4,,4-door SUV
+Honda Pilot,2020,head_restraints,Good,4,,4-door SUV
+Chevrolet Traverse,2020,small_overlap_driver,Good,4,,4-door SUV
+Chevrolet Traverse,2020,small_overlap_passenger,Good,4,,4-door SUV
+Chevrolet Traverse,2020,moderate_overlap_front,Good,4,,4-door SUV
+Chevrolet Traverse,2020,side_original,Good,4,,4-door SUV
+Chevrolet Traverse,2020,side_updated,Acceptable,3,,4-door SUV
+Chevrolet Traverse,2020,roof_strength,Good,4,,4-door SUV
+Chevrolet Traverse,2020,head_restraints,Good,4,,4-door SUV
+GMC Acadia,2020,small_overlap_driver,Good,4,,4-door SUV
+GMC Acadia,2020,small_overlap_passenger,Good,4,,4-door SUV
+GMC Acadia,2020,moderate_overlap_front,Good,4,,4-door SUV
+GMC Acadia,2020,side_original,Good,4,,4-door SUV
+GMC Acadia,2020,side_updated,Poor,1,,4-door SUV
+GMC Acadia,2020,roof_strength,Good,4,,4-door SUV
+GMC Acadia,2020,head_restraints,Good,4,,4-door SUV
+Nissan Murano,2020,small_overlap_driver,Good,4,,4-door SUV
+Nissan Murano,2020,small_overlap_passenger,Good,4,,4-door SUV
+Nissan Murano,2020,moderate_overlap_front,Good,4,,4-door SUV
+Nissan Murano,2020,side_original,Good,4,,4-door SUV
+Nissan Murano,2020,side_updated,Marginal,2,,4-door SUV
+Nissan Murano,2020,roof_strength,Good,4,,4-door SUV
+Nissan Murano,2020,head_restraints,Good,4,,4-door SUV
+Subaru Ascent,2020,small_overlap_driver,Good,4,,4-door SUV
+Subaru Ascent,2020,small_overlap_passenger,Good,4,,4-door SUV
+Subaru Ascent,2020,moderate_overlap_front,Good,4,,4-door SUV
+Subaru Ascent,2020,side_original,Good,4,,4-door SUV
+Subaru Ascent,2020,side_updated,Good,4,,4-door SUV
+Subaru Ascent,2020,roof_strength,Good,4,,4-door SUV
+Subaru Ascent,2020,head_restraints,Good,4,,4-door SUV
+Buick Enclave,2020,small_overlap_driver,Good,4,,4-door SUV
+Buick Enclave,2020,small_overlap_passenger,Good,4,,4-door SUV
+Buick Enclave,2020,moderate_overlap_front,Good,4,,4-door SUV
+Buick Enclave,2020,side_original,Good,4,,4-door SUV
+Buick Enclave,2020,side_updated,Acceptable,3,,4-door SUV
+Buick Enclave,2020,roof_strength,Good,4,,4-door SUV
+Buick Enclave,2020,head_restraints,Good,4,,4-door SUV
+Kia Sorento,2020,small_overlap_driver,Good,4,,4-door SUV
+Kia Sorento,2020,small_overlap_passenger,Good,4,,4-door SUV
+Kia Sorento,2020,moderate_overlap_front,Good,4,,4-door SUV
+Kia Sorento,2020,side_original,Good,4,,4-door SUV
+Kia Sorento,2020,roof_strength,Good,4,,4-door SUV
+Kia Sorento,2020,head_restraints,Good,4,,4-door SUV
+Nissan Pathfinder,2020,small_overlap_driver,Good,4,,4-door SUV
+Nissan Pathfinder,2020,small_overlap_passenger,Acceptable,3,,4-door SUV
+Nissan Pathfinder,2020,moderate_overlap_front,Good,4,,4-door SUV
+Nissan Pathfinder,2020,side_original,Good,4,,4-door SUV
+Nissan Pathfinder,2020,roof_strength,Good,4,,4-door SUV
+Nissan Pathfinder,2020,head_restraints,Good,4,,4-door SUV
+Dodge Journey,2020,small_overlap_driver,Poor,1,,4-door SUV
+Dodge Journey,2020,moderate_overlap_front,Good,4,,4-door SUV
+Dodge Journey,2020,side_original,Good,4,,4-door SUV
+Dodge Journey,2020,roof_strength,Good,4,,4-door SUV
+Dodge Journey,2020,head_restraints,Good,4,,4-door SUV
+Ford Explorer,2020,small_overlap_driver,Good,4,,4-door SUV
+Ford Explorer,2020,small_overlap_passenger,Good,4,,4-door SUV
+Ford Explorer,2020,moderate_overlap_front,Good,4,,4-door SUV
+Ford Explorer,2020,side_original,Good,4,,4-door SUV
+Ford Explorer,2020,side_updated,Good,4,,4-door SUV
+Ford Explorer,2020,roof_strength,Good,4,,4-door SUV
+Ford Explorer,2020,head_restraints,Good,4,,4-door SUV
+Jeep Cherokee,2020,small_overlap_driver,Good,4,,4-door SUV
+Jeep Cherokee,2020,small_overlap_passenger,Good,4,,4-door SUV
+Jeep Cherokee,2020,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Cherokee,2020,side_original,Good,4,,4-door SUV
+Jeep Cherokee,2020,roof_strength,Good,4,,4-door SUV
+Jeep Cherokee,2020,head_restraints,Good,4,,4-door SUV
+Volkswagen Atlas,2020,small_overlap_driver,Good,4,,4-door SUV
+Volkswagen Atlas,2020,small_overlap_passenger,Good,4,,4-door SUV
+Volkswagen Atlas,2020,moderate_overlap_front,Good,4,,4-door SUV
+Volkswagen Atlas,2020,side_original,Good,4,,4-door SUV
+Volkswagen Atlas,2020,side_updated,Good,4,,4-door SUV
+Volkswagen Atlas,2020,roof_strength,Good,4,,4-door SUV
+Volkswagen Atlas,2020,head_restraints,Good,4,,4-door SUV
+Ford Edge,2020,small_overlap_driver,Good,4,,4-door SUV
+Ford Edge,2020,small_overlap_passenger,Good,4,,4-door SUV
+Ford Edge,2020,moderate_overlap_front,Good,4,,4-door SUV
+Ford Edge,2020,side_original,Good,4,,4-door SUV
+Ford Edge,2020,roof_strength,Good,4,,4-door SUV
+Ford Edge,2020,head_restraints,Good,4,,4-door SUV
+Chevrolet Blazer,2020,small_overlap_driver,Good,4,,4-door SUV
+Chevrolet Blazer,2020,small_overlap_passenger,Good,4,,4-door SUV
+Chevrolet Blazer,2020,moderate_overlap_front,Good,4,,4-door SUV
+Chevrolet Blazer,2020,side_original,Good,4,,4-door SUV
+Chevrolet Blazer,2020,roof_strength,Good,4,,4-door SUV
+Chevrolet Blazer,2020,head_restraints,Good,4,,4-door SUV
+Jeep Wrangler 4-door,2020,small_overlap_driver,Marginal,2,,4-door SUV
+Jeep Wrangler 4-door,2020,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Wrangler 4-door,2020,side_original,Good,4,,4-door SUV
+Jeep Wrangler 4-door,2020,side_updated,Marginal,2,,4-door SUV
+Jeep Wrangler 4-door,2020,roof_strength,Good,4,,4-door SUV
+Jeep Wrangler 4-door,2020,head_restraints,Good,4,,4-door SUV
+Dodge Durango,2020,small_overlap_driver,Marginal,2,,4-door SUV
+Dodge Durango,2020,moderate_overlap_front,Good,4,,4-door SUV
+Dodge Durango,2020,side_original,Good,4,,4-door SUV
+Dodge Durango,2020,roof_strength,Good,4,,4-door SUV
+Dodge Durango,2020,head_restraints,Good,4,,4-door SUV
+Buick Encore,2020,small_overlap_driver,Good,4,,4-door SUV
+Buick Encore,2020,small_overlap_passenger,Acceptable,3,,4-door SUV
+Buick Encore,2020,moderate_overlap_front,Good,4,,4-door SUV
+Buick Encore,2020,side_original,Good,4,,4-door SUV
+Buick Encore,2020,side_updated,Acceptable,3,,4-door SUV
+Buick Encore,2020,roof_strength,Good,4,,4-door SUV
+Buick Encore,2020,head_restraints,Good,4,,4-door SUV
+Volvo XC60,2020,small_overlap_driver,Good,4,,4-door SUV
+Volvo XC60,2020,small_overlap_passenger,Good,4,,4-door SUV
+Volvo XC60,2020,moderate_overlap_front,Good,4,,4-door SUV
+Volvo XC60,2020,side_original,Good,4,,4-door SUV
+Volvo XC60,2020,side_updated,Acceptable,3,,4-door SUV
+Volvo XC60,2020,roof_strength,Good,4,,4-door SUV
+Volvo XC60,2020,head_restraints,Good,4,,4-door SUV
+BMW X3,2020,small_overlap_driver,Good,4,,4-door SUV
+BMW X3,2020,small_overlap_passenger,Good,4,,4-door SUV
+BMW X3,2020,moderate_overlap_front,Good,4,,4-door SUV
+BMW X3,2020,side_original,Good,4,,4-door SUV
+BMW X3,2020,roof_strength,Good,4,,4-door SUV
+BMW X3,2020,head_restraints,Good,4,,4-door SUV
+Acura MDX,2020,small_overlap_driver,Good,4,,4-door SUV
+Acura MDX,2020,moderate_overlap_front,Good,4,,4-door SUV
+Acura MDX,2020,side_original,Good,4,,4-door SUV
+Acura MDX,2020,roof_strength,Good,4,,4-door SUV
+Acura MDX,2020,head_restraints,Good,4,,4-door SUV
+Volvo XC90,2020,small_overlap_driver,Good,4,,4-door SUV
+Volvo XC90,2020,small_overlap_passenger,Good,4,,4-door SUV
+Volvo XC90,2020,moderate_overlap_front,Good,4,,4-door SUV
+Volvo XC90,2020,side_original,Good,4,,4-door SUV
+Volvo XC90,2020,roof_strength,Good,4,,4-door SUV
+Volvo XC90,2020,head_restraints,Good,4,,4-door SUV
+Acura RDX,2020,small_overlap_driver,Good,4,,4-door SUV
+Acura RDX,2020,small_overlap_passenger,Good,4,,4-door SUV
+Acura RDX,2020,moderate_overlap_front,Good,4,,4-door SUV
+Acura RDX,2020,side_original,Good,4,,4-door SUV
+Acura RDX,2020,side_updated,Good,4,,4-door SUV
+Acura RDX,2020,roof_strength,Good,4,,4-door SUV
+Acura RDX,2020,head_restraints,Good,4,,4-door SUV
+Buick Envision,2020,small_overlap_driver,Good,4,,4-door SUV
+Buick Envision,2020,moderate_overlap_front,Good,4,,4-door SUV
+Buick Envision,2020,side_original,Good,4,,4-door SUV
+Buick Envision,2020,roof_strength,Good,4,,4-door SUV
+Buick Envision,2020,head_restraints,Good,4,,4-door SUV
+BMW X5,2020,small_overlap_driver,Good,4,,4-door SUV
+BMW X5,2020,small_overlap_passenger,Good,4,,4-door SUV
+BMW X5,2020,moderate_overlap_front,Good,4,,4-door SUV
+BMW X5,2020,side_original,Good,4,,4-door SUV
+BMW X5,2020,side_updated,Good,4,,4-door SUV
+BMW X5,2020,roof_strength,Good,4,,4-door SUV
+BMW X5,2020,head_restraints,Good,4,,4-door SUV
+Lincoln MKZ,2017,small_overlap_driver,Good,4,,4-door sedan
+Lincoln MKZ,2017,small_overlap_passenger,Good,4,,4-door sedan
+Lincoln MKZ,2017,moderate_overlap_front,Good,4,,4-door sedan
+Lincoln MKZ,2017,side_original,Good,4,,4-door sedan
+Lincoln MKZ,2017,roof_strength,Good,4,,4-door sedan
+Lincoln MKZ,2017,head_restraints,Good,4,,4-door sedan
+Acura TLX,2017,small_overlap_driver,Acceptable,3,,4-door sedan
+Acura TLX,2017,moderate_overlap_front,Good,4,,4-door sedan
+Acura TLX,2017,side_original,Good,4,,4-door sedan
+Acura TLX,2017,roof_strength,Good,4,,4-door sedan
+Acura TLX,2017,head_restraints,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2017,small_overlap_driver,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2017,moderate_overlap_front,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2017,side_original,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2017,roof_strength,Good,4,,4-door sedan
+Mercedes-Benz C-Class sedan,2017,head_restraints,Good,4,,4-door sedan
+Lexus CT 200h,2017,small_overlap_driver,Good,4,,4-door hatchback
+Lexus CT 200h,2017,moderate_overlap_front,Good,4,,4-door hatchback
+Lexus CT 200h,2017,side_original,Good,4,,4-door hatchback
+Lexus CT 200h,2017,roof_strength,Good,4,,4-door hatchback
+Lexus CT 200h,2017,head_restraints,Good,4,,4-door hatchback
+Infiniti Q50,2017,moderate_overlap_front,Good,4,,4-door sedan
+Infiniti Q50,2017,side_original,Good,4,,4-door sedan
+Infiniti Q50,2017,roof_strength,Good,4,,4-door sedan
+Infiniti Q50,2017,head_restraints,Good,4,,4-door sedan
+Audi A6,2017,small_overlap_driver,Good,4,,4-door sedan
+Audi A6,2017,moderate_overlap_front,Good,4,,4-door sedan
+Audi A6,2017,side_original,Good,4,,4-door sedan
+Audi A6,2017,roof_strength,Good,4,,4-door sedan
+Audi A6,2017,head_restraints,Good,4,,4-door sedan
+Cadillac XTS,2017,moderate_overlap_front,Good,4,,4-door sedan
+Cadillac XTS,2017,side_original,Good,4,,4-door sedan
+Cadillac XTS,2017,roof_strength,Good,4,,4-door sedan
+Cadillac XTS,2017,head_restraints,Good,4,,4-door sedan
+Ford Mustang coupe,2017,small_overlap_driver,Acceptable,3,,2-door coupe
+Ford Mustang coupe,2017,moderate_overlap_front,Good,4,,2-door coupe
+Ford Mustang coupe,2017,side_original,Good,4,,2-door coupe
+Ford Mustang coupe,2017,roof_strength,Good,4,,2-door coupe
+Ford Mustang coupe,2017,head_restraints,Good,4,,2-door coupe
+Chevrolet Camaro coupe,2017,small_overlap_driver,Good,4,,2-door coupe
+Chevrolet Camaro coupe,2017,moderate_overlap_front,Good,4,,2-door coupe
+Chevrolet Camaro coupe,2017,side_original,Good,4,,2-door coupe
+Chevrolet Camaro coupe,2017,roof_strength,Acceptable,3,,2-door coupe
+Chevrolet Camaro coupe,2017,head_restraints,Good,4,,2-door coupe
+Ford Fiesta,2017,small_overlap_driver,Marginal,2,,4-door sedan
+Ford Fiesta,2017,moderate_overlap_front,Good,4,,4-door sedan
+Ford Fiesta,2017,side_original,Good,4,,4-door sedan
+Ford Fiesta,2017,roof_strength,Good,4,,4-door sedan
+Ford Fiesta,2017,head_restraints,Good,4,,4-door sedan
+Chevrolet Sonic,2017,small_overlap_driver,Good,4,,4-door sedan
+Chevrolet Sonic,2017,moderate_overlap_front,Good,4,,4-door sedan
+Chevrolet Sonic,2017,side_original,Good,4,,4-door sedan
+Chevrolet Sonic,2017,roof_strength,Good,4,,4-door sedan
+Chevrolet Sonic,2017,head_restraints,Good,4,,4-door sedan
+Kia Soul,2017,small_overlap_driver,Good,4,,4-door wagon
+Kia Soul,2017,small_overlap_passenger,Acceptable,3,,4-door wagon
+Kia Soul,2017,moderate_overlap_front,Good,4,,4-door wagon
+Kia Soul,2017,side_original,Good,4,,4-door wagon
+Kia Soul,2017,roof_strength,Good,4,,4-door wagon
+Kia Soul,2017,head_restraints,Good,4,,4-door wagon
+Ford C-Max hybrid,2017,small_overlap_driver,Acceptable,3,,4-door wagon
+Ford C-Max hybrid,2017,moderate_overlap_front,Good,4,,4-door wagon
+Ford C-Max hybrid,2017,side_original,Good,4,,4-door wagon
+Ford C-Max hybrid,2017,roof_strength,Good,4,,4-door wagon
+Ford C-Max hybrid,2017,head_restraints,Good,4,,4-door wagon
+Ford Focus,2017,small_overlap_driver,Acceptable,3,,4-door sedan
+Ford Focus,2017,moderate_overlap_front,Good,4,,4-door sedan
+Ford Focus,2017,side_original,Good,4,,4-door sedan
+Ford Focus,2017,roof_strength,Good,4,,4-door sedan
+Ford Focus,2017,head_restraints,Good,4,,4-door sedan
+Toyota Prius v,2017,small_overlap_driver,Good,4,,4-door wagon
+Toyota Prius v,2017,moderate_overlap_front,Good,4,,4-door wagon
+Toyota Prius v,2017,side_original,Good,4,,4-door wagon
+Toyota Prius v,2017,roof_strength,Good,4,,4-door wagon
+Toyota Prius v,2017,head_restraints,Good,4,,4-door wagon
+Subaru Outback,2017,small_overlap_driver,Good,4,,4-door wagon
+Subaru Outback,2017,moderate_overlap_front,Good,4,,4-door wagon
+Subaru Outback,2017,side_original,Good,4,,4-door wagon
+Subaru Outback,2017,roof_strength,Good,4,,4-door wagon
+Subaru Outback,2017,head_restraints,Good,4,,4-door wagon
+Honda Odyssey,2017,small_overlap_driver,Good,4,,minivan
+Honda Odyssey,2017,moderate_overlap_front,Good,4,,minivan
+Honda Odyssey,2017,side_original,Good,4,,minivan
+Honda Odyssey,2017,roof_strength,Good,4,,minivan
+Honda Odyssey,2017,head_restraints,Good,4,,minivan
+Toyota Sienna,2017,small_overlap_driver,Acceptable,3,,minivan
+Toyota Sienna,2017,small_overlap_passenger,Marginal,2,,minivan
+Toyota Sienna,2017,moderate_overlap_front,Good,4,,minivan
+Toyota Sienna,2017,side_original,Good,4,,minivan
+Toyota Sienna,2017,roof_strength,Good,4,,minivan
+Toyota Sienna,2017,head_restraints,Good,4,,minivan
+Dodge Grand Caravan,2017,small_overlap_driver,Poor,1,,minivan
+Dodge Grand Caravan,2017,moderate_overlap_front,Good,4,,minivan
+Dodge Grand Caravan,2017,side_original,Good,4,,minivan
+Dodge Grand Caravan,2017,roof_strength,Good,4,,minivan
+Dodge Grand Caravan,2017,head_restraints,Good,4,,minivan
+Kia Sedona,2017,small_overlap_driver,Good,4,,minivan
+Kia Sedona,2017,moderate_overlap_front,Good,4,,minivan
+Kia Sedona,2017,side_original,Good,4,,minivan
+Kia Sedona,2017,roof_strength,Good,4,,minivan
+Kia Sedona,2017,head_restraints,Good,4,,minivan
+Chevrolet Colorado Crew Cab,2017,small_overlap_driver,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2017,small_overlap_passenger,Marginal,2,,crew cab pickup
+Chevrolet Colorado Crew Cab,2017,moderate_overlap_front,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2017,side_original,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2017,side_updated,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2017,roof_strength,Good,4,,crew cab pickup
+Chevrolet Colorado Crew Cab,2017,head_restraints,Good,4,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2017,small_overlap_driver,Marginal,2,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2017,small_overlap_passenger,Marginal,2,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2017,moderate_overlap_front,Good,4,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2017,side_original,Good,4,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2017,roof_strength,Good,4,,crew cab pickup
+Nissan Frontier Crew Cab short bed,2017,head_restraints,Acceptable,3,,crew cab pickup
+Chevrolet Colorado Extended Cab,2017,small_overlap_driver,Acceptable,3,,extended cab pickup
+Chevrolet Colorado Extended Cab,2017,moderate_overlap_front,Good,4,,extended cab pickup
+Chevrolet Colorado Extended Cab,2017,side_original,Acceptable,3,,extended cab pickup
+Chevrolet Colorado Extended Cab,2017,roof_strength,Good,4,,extended cab pickup
+Chevrolet Colorado Extended Cab,2017,head_restraints,Good,4,,extended cab pickup
+GMC Canyon Crew Cab,2017,small_overlap_driver,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2017,small_overlap_passenger,Marginal,2,,crew cab pickup
+GMC Canyon Crew Cab,2017,moderate_overlap_front,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2017,side_original,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2017,side_updated,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2017,roof_strength,Good,4,,crew cab pickup
+GMC Canyon Crew Cab,2017,head_restraints,Good,4,,crew cab pickup
+Ford F-150,2017,small_overlap_driver,Good,4,,crew cab pickup
+Ford F-150,2017,small_overlap_passenger,Good,4,,crew cab pickup
+Ford F-150,2017,moderate_overlap_front,Good,4,,crew cab pickup
+Ford F-150,2017,side_original,Good,4,,crew cab pickup
+Ford F-150,2017,roof_strength,Good,4,,crew cab pickup
+Ford F-150,2017,head_restraints,Good,4,,crew cab pickup
+Chevrolet Silverado 1500 Extended Cab,2017,small_overlap_driver,Acceptable,3,,extended cab pickup
+Chevrolet Silverado 1500 Extended Cab,2017,moderate_overlap_front,Good,4,,extended cab pickup
+Chevrolet Silverado 1500 Extended Cab,2017,side_original,Good,4,,extended cab pickup
+Chevrolet Silverado 1500 Extended Cab,2017,roof_strength,Good,4,,extended cab pickup
+Chevrolet Silverado 1500 Extended Cab,2017,head_restraints,Good,4,,extended cab pickup
+Chevrolet Silverado 1500 Crew Cab,2017,small_overlap_driver,Marginal,2,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2017,moderate_overlap_front,Good,4,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2017,side_original,Good,4,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2017,roof_strength,Good,4,,crew cab pickup
+Chevrolet Silverado 1500 Crew Cab,2017,head_restraints,Good,4,,crew cab pickup
+GMC Sierra 1500 Extended Cab,2017,small_overlap_driver,Acceptable,3,,extended cab pickup
+GMC Sierra 1500 Extended Cab,2017,moderate_overlap_front,Good,4,,extended cab pickup
+GMC Sierra 1500 Extended Cab,2017,side_original,Good,4,,extended cab pickup
+GMC Sierra 1500 Extended Cab,2017,roof_strength,Good,4,,extended cab pickup
+GMC Sierra 1500 Extended Cab,2017,head_restraints,Good,4,,extended cab pickup
+Chevrolet Silverado 1500,2017,small_overlap_driver,Marginal,2,,crew cab pickup
+Chevrolet Silverado 1500,2017,moderate_overlap_front,Good,4,,crew cab pickup
+Chevrolet Silverado 1500,2017,side_original,Good,4,,crew cab pickup
+Chevrolet Silverado 1500,2017,roof_strength,Good,4,,crew cab pickup
+Chevrolet Silverado 1500,2017,head_restraints,Good,4,,crew cab pickup
+Ford F-150 Crew Cab,2017,small_overlap_driver,Good,4,,crew cab pickup
+Ford F-150 Crew Cab,2017,small_overlap_passenger,Good,4,,crew cab pickup
+Ford F-150 Crew Cab,2017,moderate_overlap_front,Good,4,,crew cab pickup
+Ford F-150 Crew Cab,2017,side_original,Good,4,,crew cab pickup
+Ford F-150 Crew Cab,2017,roof_strength,Good,4,,crew cab pickup
+Ford F-150 Crew Cab,2017,head_restraints,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2017,small_overlap_driver,Marginal,2,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2017,moderate_overlap_front,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2017,side_original,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2017,roof_strength,Good,4,,crew cab pickup
+GMC Sierra 1500 Crew Cab,2017,head_restraints,Good,4,,crew cab pickup
+Hyundai Tucson,2017,small_overlap_driver,Good,4,,4-door SUV
+Hyundai Tucson,2017,small_overlap_passenger,Good,4,,4-door SUV
+Hyundai Tucson,2017,moderate_overlap_front,Good,4,,4-door SUV
+Hyundai Tucson,2017,side_original,Good,4,,4-door SUV
+Hyundai Tucson,2017,side_updated,Marginal,2,,4-door SUV
+Hyundai Tucson,2017,roof_strength,Good,4,,4-door SUV
+Hyundai Tucson,2017,head_restraints,Good,4,,4-door SUV
+Mitsubishi Outlander Sport,2017,small_overlap_driver,Acceptable,3,,4-door SUV
+Mitsubishi Outlander Sport,2017,small_overlap_passenger,Marginal,2,,4-door SUV
+Mitsubishi Outlander Sport,2017,moderate_overlap_front,Good,4,,4-door SUV
+Mitsubishi Outlander Sport,2017,side_original,Good,4,,4-door SUV
+Mitsubishi Outlander Sport,2017,roof_strength,Good,4,,4-door SUV
+Mitsubishi Outlander Sport,2017,head_restraints,Good,4,,4-door SUV
+Toyota RAV4,2017,small_overlap_driver,Good,4,,4-door SUV
+Toyota RAV4,2017,small_overlap_passenger,Poor,1,,4-door SUV
+Toyota RAV4,2017,moderate_overlap_front,Good,4,,4-door SUV
+Toyota RAV4,2017,side_original,Good,4,,4-door SUV
+Toyota RAV4,2017,roof_strength,Good,4,,4-door SUV
+Toyota RAV4,2017,head_restraints,Good,4,,4-door SUV
+Subaru Forester,2017,small_overlap_driver,Good,4,,4-door SUV
+Subaru Forester,2017,small_overlap_passenger,Marginal,2,,4-door SUV
+Subaru Forester,2017,moderate_overlap_front,Good,4,,4-door SUV
+Subaru Forester,2017,side_original,Good,4,,4-door SUV
+Subaru Forester,2017,roof_strength,Good,4,,4-door SUV
+Subaru Forester,2017,head_restraints,Good,4,,4-door SUV
+Jeep Renegade,2017,small_overlap_driver,Acceptable,3,,4-door SUV
+Jeep Renegade,2017,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Renegade,2017,side_original,Good,4,,4-door SUV
+Jeep Renegade,2017,roof_strength,Good,4,,4-door SUV
+Jeep Patriot,2017,small_overlap_driver,Poor,1,,4-door SUV
+Jeep Patriot,2017,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Patriot,2017,side_original,Good,4,,4-door SUV
+Jeep Patriot,2017,roof_strength,Good,4,,4-door SUV
+Jeep Patriot,2017,head_restraints,Good,4,,4-door SUV
+Mitsubishi Outlander,2017,small_overlap_driver,Good,4,,4-door SUV
+Mitsubishi Outlander,2017,small_overlap_passenger,Good,4,,4-door SUV
+Mitsubishi Outlander,2017,moderate_overlap_front,Good,4,,4-door SUV
+Mitsubishi Outlander,2017,side_original,Good,4,,4-door SUV
+Mitsubishi Outlander,2017,roof_strength,Good,4,,4-door SUV
+Mitsubishi Outlander,2017,head_restraints,Good,4,,4-door SUV
+Nissan Rogue,2017,small_overlap_driver,Good,4,,4-door SUV
+Nissan Rogue,2017,moderate_overlap_front,Good,4,,4-door SUV
+Nissan Rogue,2017,side_original,Good,4,,4-door SUV
+Nissan Rogue,2017,roof_strength,Good,4,,4-door SUV
+Nissan Rogue,2017,head_restraints,Good,4,,4-door SUV
+Jeep Compass,2017,small_overlap_driver,Good,4,,4-door SUV
+Jeep Compass,2017,small_overlap_passenger,Good,4,,4-door SUV
+Jeep Compass,2017,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Compass,2017,side_original,Good,4,,4-door SUV
+Jeep Compass,2017,side_updated,Marginal,2,,4-door SUV
+Jeep Compass,2017,roof_strength,Good,4,,4-door SUV
+Jeep Compass,2017,head_restraints,Good,4,,4-door SUV
+Jeep Wrangler 2-door,2017,small_overlap_driver,Marginal,2,,2-door SUV
+Jeep Wrangler 2-door,2017,moderate_overlap_front,Good,4,,2-door SUV
+Jeep Wrangler 2-door,2017,side_original,Poor,1,,2-door SUV
+Honda HR-V,2017,small_overlap_driver,Acceptable,3,,4-door SUV
+Honda HR-V,2017,moderate_overlap_front,Good,4,,4-door SUV
+Honda HR-V,2017,side_original,Good,4,,4-door SUV
+Honda HR-V,2017,side_updated,Poor,1,,4-door SUV
+Honda HR-V,2017,roof_strength,Good,4,,4-door SUV
+Honda HR-V,2017,head_restraints,Good,4,,4-door SUV
+Honda CR-V,2017,small_overlap_driver,Good,4,,4-door SUV
+Honda CR-V,2017,small_overlap_passenger,Good,4,,4-door SUV
+Honda CR-V,2017,moderate_overlap_front,Good,4,,4-door SUV
+Honda CR-V,2017,side_original,Good,4,,4-door SUV
+Honda CR-V,2017,side_updated,Acceptable,3,,4-door SUV
+Honda CR-V,2017,roof_strength,Good,4,,4-door SUV
+Honda CR-V,2017,head_restraints,Good,4,,4-door SUV
+Ford Escape,2017,small_overlap_driver,Acceptable,3,,4-door SUV
+Ford Escape,2017,small_overlap_passenger,Poor,1,,4-door SUV
+Ford Escape,2017,moderate_overlap_front,Good,4,,4-door SUV
+Ford Escape,2017,side_original,Good,4,,4-door SUV
+Ford Escape,2017,roof_strength,Good,4,,4-door SUV
+Ford Escape,2017,head_restraints,Good,4,,4-door SUV
+Volkswagen Tiguan,2017,small_overlap_driver,Marginal,2,,4-door SUV
+Volkswagen Tiguan,2017,moderate_overlap_front,Good,4,,4-door SUV
+Volkswagen Tiguan,2017,side_original,Good,4,,4-door SUV
+Volkswagen Tiguan,2017,roof_strength,Good,4,,4-door SUV
+Volkswagen Tiguan,2017,head_restraints,Good,4,,4-door SUV
+Chevrolet Trax,2017,small_overlap_driver,Good,4,,4-door SUV
+Chevrolet Trax,2017,small_overlap_passenger,Acceptable,3,,4-door SUV
+Chevrolet Trax,2017,moderate_overlap_front,Good,4,,4-door SUV
+Chevrolet Trax,2017,side_original,Good,4,,4-door SUV
+Chevrolet Trax,2017,side_updated,Acceptable,3,,4-door SUV
+Chevrolet Trax,2017,roof_strength,Good,4,,4-door SUV
+Chevrolet Trax,2017,head_restraints,Good,4,,4-door SUV
+Jeep Cherokee,2017,small_overlap_driver,Marginal,2,,4-door SUV
+Jeep Cherokee,2017,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Cherokee,2017,side_original,Good,4,,4-door SUV
+Jeep Cherokee,2017,roof_strength,Good,4,,4-door SUV
+Jeep Cherokee,2017,head_restraints,Good,4,,4-door SUV
+Kia Sorento,2017,small_overlap_driver,Good,4,,4-door SUV
+Kia Sorento,2017,moderate_overlap_front,Good,4,,4-door SUV
+Kia Sorento,2017,side_original,Good,4,,4-door SUV
+Kia Sorento,2017,roof_strength,Good,4,,4-door SUV
+Kia Sorento,2017,head_restraints,Good,4,,4-door SUV
+Ford Explorer,2017,small_overlap_driver,Marginal,2,,4-door SUV
+Ford Explorer,2017,small_overlap_passenger,Poor,1,,4-door SUV
+Ford Explorer,2017,moderate_overlap_front,Good,4,,4-door SUV
+Ford Explorer,2017,side_original,Good,4,,4-door SUV
+Ford Explorer,2017,roof_strength,Good,4,,4-door SUV
+GMC Terrain,2017,small_overlap_driver,Good,4,,4-door SUV
+GMC Terrain,2017,moderate_overlap_front,Good,4,,4-door SUV
+GMC Terrain,2017,side_original,Good,4,,4-door SUV
+GMC Terrain,2017,roof_strength,Good,4,,4-door SUV
+GMC Terrain,2017,head_restraints,Good,4,,4-door SUV
+Ford Edge,2017,small_overlap_driver,Acceptable,3,,4-door SUV
+Ford Edge,2017,moderate_overlap_front,Good,4,,4-door SUV
+Ford Edge,2017,side_original,Good,4,,4-door SUV
+Ford Edge,2017,roof_strength,Good,4,,4-door SUV
+Ford Edge,2017,head_restraints,Good,4,,4-door SUV
+Ford Flex,2017,small_overlap_driver,Acceptable,3,,4-door SUV
+Ford Flex,2017,moderate_overlap_front,Good,4,,4-door SUV
+Ford Flex,2017,side_original,Good,4,,4-door SUV
+Ford Flex,2017,roof_strength,Good,4,,4-door SUV
+Ford Flex,2017,head_restraints,Good,4,,4-door SUV
+Nissan Murano,2017,small_overlap_driver,Good,4,,4-door SUV
+Nissan Murano,2017,moderate_overlap_front,Good,4,,4-door SUV
+Nissan Murano,2017,side_original,Good,4,,4-door SUV
+Nissan Murano,2017,roof_strength,Good,4,,4-door SUV
+Nissan Murano,2017,head_restraints,Good,4,,4-door SUV
+Hyundai Santa Fe,2017,small_overlap_driver,Good,4,,4-door SUV
+Hyundai Santa Fe,2017,small_overlap_passenger,Acceptable,3,,4-door SUV
+Hyundai Santa Fe,2017,moderate_overlap_front,Good,4,,4-door SUV
+Hyundai Santa Fe,2017,side_original,Good,4,,4-door SUV
+Hyundai Santa Fe,2017,roof_strength,Good,4,,4-door SUV
+Hyundai Santa Fe,2017,head_restraints,Good,4,,4-door SUV
+Jeep Grand Cherokee,2017,small_overlap_driver,Marginal,2,,4-door SUV
+Jeep Grand Cherokee,2017,small_overlap_passenger,Poor,1,,4-door SUV
+Jeep Grand Cherokee,2017,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Grand Cherokee,2017,side_original,Good,4,,4-door SUV
+Jeep Grand Cherokee,2017,roof_strength,Good,4,,4-door SUV
+Jeep Grand Cherokee,2017,head_restraints,Good,4,,4-door SUV
+Hyundai Santa Fe Sport,2017,small_overlap_driver,Good,4,,4-door SUV
+Hyundai Santa Fe Sport,2017,small_overlap_passenger,Acceptable,3,,4-door SUV
+Hyundai Santa Fe Sport,2017,moderate_overlap_front,Good,4,,4-door SUV
+Hyundai Santa Fe Sport,2017,side_original,Good,4,,4-door SUV
+Hyundai Santa Fe Sport,2017,roof_strength,Good,4,,4-door SUV
+Hyundai Santa Fe Sport,2017,head_restraints,Good,4,,4-door SUV
+Honda Pilot,2017,small_overlap_driver,Good,4,,4-door SUV
+Honda Pilot,2017,small_overlap_passenger,Acceptable,3,,4-door SUV
+Honda Pilot,2017,moderate_overlap_front,Good,4,,4-door SUV
+Honda Pilot,2017,side_original,Good,4,,4-door SUV
+Honda Pilot,2017,side_updated,Marginal,2,,4-door SUV
+Honda Pilot,2017,roof_strength,Good,4,,4-door SUV
+Honda Pilot,2017,head_restraints,Good,4,,4-door SUV
+Dodge Journey,2017,small_overlap_driver,Poor,1,,4-door SUV
+Dodge Journey,2017,moderate_overlap_front,Good,4,,4-door SUV
+Dodge Journey,2017,side_original,Good,4,,4-door SUV
+Dodge Journey,2017,roof_strength,Good,4,,4-door SUV
+Dodge Journey,2017,head_restraints,Good,4,,4-door SUV
+Chevrolet Equinox,2017,small_overlap_driver,Good,4,,4-door SUV
+Chevrolet Equinox,2017,moderate_overlap_front,Good,4,,4-door SUV
+Chevrolet Equinox,2017,side_original,Good,4,,4-door SUV
+Chevrolet Equinox,2017,roof_strength,Good,4,,4-door SUV
+Chevrolet Equinox,2017,head_restraints,Good,4,,4-door SUV
+Toyota 4Runner,2017,small_overlap_driver,Marginal,2,,4-door SUV
+Toyota 4Runner,2017,moderate_overlap_front,Good,4,,4-door SUV
+Toyota 4Runner,2017,side_original,Good,4,,4-door SUV
+Toyota 4Runner,2017,roof_strength,Good,4,,4-door SUV
+Toyota 4Runner,2017,head_restraints,Good,4,,4-door SUV
+Nissan Pathfinder,2017,small_overlap_driver,Good,4,,4-door SUV
+Nissan Pathfinder,2017,small_overlap_passenger,Acceptable,3,,4-door SUV
+Nissan Pathfinder,2017,moderate_overlap_front,Good,4,,4-door SUV
+Nissan Pathfinder,2017,side_original,Good,4,,4-door SUV
+Nissan Pathfinder,2017,roof_strength,Good,4,,4-door SUV
+Nissan Pathfinder,2017,head_restraints,Good,4,,4-door SUV
+Jeep Wrangler 4-door,2017,small_overlap_driver,Good,4,,4-door SUV
+Jeep Wrangler 4-door,2017,moderate_overlap_front,Good,4,,4-door SUV
+Jeep Wrangler 4-door,2017,side_original,Marginal,2,,4-door SUV
+Chevrolet Traverse,2017,moderate_overlap_front,Good,4,,4-door SUV
+Chevrolet Traverse,2017,side_original,Good,4,,4-door SUV
+Chevrolet Traverse,2017,roof_strength,Good,4,,4-door SUV
+Chevrolet Traverse,2017,head_restraints,Good,4,,4-door SUV
+Buick Enclave,2017,moderate_overlap_front,Good,4,,4-door SUV
+Buick Enclave,2017,side_original,Good,4,,4-door SUV
+Buick Enclave,2017,roof_strength,Good,4,,4-door SUV
+Buick Enclave,2017,head_restraints,Good,4,,4-door SUV
+Dodge Durango,2017,small_overlap_driver,Marginal,2,,4-door SUV
+Dodge Durango,2017,moderate_overlap_front,Good,4,,4-door SUV
+Dodge Durango,2017,side_original,Good,4,,4-door SUV
+Dodge Durango,2017,roof_strength,Good,4,,4-door SUV
+Dodge Durango,2017,head_restraints,Good,4,,4-door SUV
+Buick Encore,2017,small_overlap_driver,Good,4,,4-door SUV
+Buick Encore,2017,small_overlap_passenger,Acceptable,3,,4-door SUV
+Buick Encore,2017,moderate_overlap_front,Good,4,,4-door SUV
+Buick Encore,2017,side_original,Good,4,,4-door SUV
+Buick Encore,2017,side_updated,Acceptable,3,,4-door SUV
+Buick Encore,2017,roof_strength,Good,4,,4-door SUV
+Buick Encore,2017,head_restraints,Good,4,,4-door SUV
+Infiniti QX60,2017,small_overlap_driver,Good,4,,4-door SUV
+Infiniti QX60,2017,small_overlap_passenger,Acceptable,3,,4-door SUV
+Infiniti QX60,2017,moderate_overlap_front,Good,4,,4-door SUV
+Infiniti QX60,2017,side_original,Good,4,,4-door SUV
+Infiniti QX60,2017,roof_strength,Good,4,,4-door SUV
+Infiniti QX60,2017,head_restraints,Good,4,,4-door SUV
+BMW X3,2017,moderate_overlap_front,Good,4,,4-door SUV
+BMW X3,2017,side_original,Good,4,,4-door SUV
+BMW X3,2017,roof_strength,Good,4,,4-door SUV
+BMW X3,2017,head_restraints,Good,4,,4-door SUV
+Acura RDX,2017,small_overlap_driver,Good,4,,4-door SUV
+Acura RDX,2017,moderate_overlap_front,Good,4,,4-door SUV
+Acura RDX,2017,side_original,Good,4,,4-door SUV
+Acura RDX,2017,roof_strength,Good,4,,4-door SUV
+Acura RDX,2017,head_restraints,Good,4,,4-door SUV
+Volvo XC60,2017,small_overlap_driver,Good,4,,4-door SUV
+Volvo XC60,2017,moderate_overlap_front,Good,4,,4-door SUV
+Volvo XC60,2017,side_original,Good,4,,4-door SUV
+Volvo XC60,2017,roof_strength,Good,4,,4-door SUV
+Volvo XC60,2017,head_restraints,Good,4,,4-door SUV
+BMW X5,2017,moderate_overlap_front,Good,4,,4-door SUV
+BMW X5,2017,side_original,Good,4,,4-door SUV
+Mitsubishi Mirage G4,2024,moderate_overlap_front,Good,4,,4-door sedan
+Honda Accord hybrid,2020,small_overlap_driver,Good,4,,4-door sedan
+Honda Accord hybrid,2020,small_overlap_passenger,Good,4,,4-door sedan
+Honda Accord hybrid,2020,moderate_overlap_front,Good,4,,4-door sedan
+Honda Accord hybrid,2020,side_original,Good,4,,4-door sedan
+Honda Accord hybrid,2020,side_updated,Marginal,2,,4-door sedan
+Honda Accord hybrid,2020,roof_strength,Good,4,,4-door sedan
+Honda Accord hybrid,2020,head_restraints,Good,4,,4-door sedan
+Ford Fusion hybrid,2020,small_overlap_driver,Good,4,,4-door sedan
+Ford Fusion hybrid,2020,small_overlap_passenger,Good,4,,4-door sedan
+Ford Fusion hybrid,2020,moderate_overlap_front,Good,4,,4-door sedan
+Ford Fusion hybrid,2020,side_original,Good,4,,4-door sedan
+Ford Fusion hybrid,2020,roof_strength,Good,4,,4-door sedan
+Toyota Camry hybrid,2020,small_overlap_driver,Good,4,,4-door sedan
+Toyota Camry hybrid,2020,small_overlap_passenger,Good,4,,4-door sedan
+Toyota Camry hybrid,2020,moderate_overlap_front,Good,4,,4-door sedan
+Toyota Camry hybrid,2020,side_original,Good,4,,4-door sedan
+Toyota Camry hybrid,2020,side_updated,Poor,1,,4-door sedan
+Toyota Camry hybrid,2020,roof_strength,Good,4,,4-door sedan
+Toyota Camry hybrid,2020,head_restraints,Good,4,,4-door sedan
+Dodge Charger HEMI,2020,small_overlap_driver,Marginal,2,,4-door sedan
+Dodge Charger HEMI,2020,moderate_overlap_front,Good,4,,4-door sedan
+Dodge Charger HEMI,2020,side_original,Good,4,,4-door sedan
+Dodge Charger HEMI,2020,roof_strength,Good,4,,4-door sedan
+Dodge Charger HEMI,2020,head_restraints,Good,4,,4-door sedan
+Genesis G80,2024,moderate_overlap_front,Good,4,,4-door sedan
+Genesis G80,2024,moderate_overlap_front_updated,Good,4,,4-door sedan
+Genesis G80,2024,side_updated,Good,4,,4-door sedan
+Ford Mustang GT coupe,2020,small_overlap_driver,Acceptable,3,,2-door coupe
+Ford Mustang GT coupe,2020,moderate_overlap_front,Good,4,,2-door coupe
+Ford Mustang GT coupe,2020,side_original,Good,4,,2-door coupe
+Ford Mustang GT coupe,2020,roof_strength,Good,4,,2-door coupe
+Ford Mustang GT coupe,2020,head_restraints,Good,4,,2-door coupe
+Chevrolet Camaro convertible,2020,small_overlap_driver,Good,4,,2-door coupe
+Chevrolet Camaro convertible,2020,moderate_overlap_front,Good,4,,2-door coupe
+Chevrolet Camaro convertible,2020,side_original,Good,4,,2-door coupe
+Chevrolet Camaro convertible,2020,roof_strength,Acceptable,3,,2-door coupe
+Chevrolet Camaro convertible,2020,head_restraints,Good,4,,2-door coupe
+Jeep Gladiator,2026,moderate_overlap_front_updated,Good,4,,crew cab pickup
+Jeep Gladiator,2026,side_updated,Good,4,,crew cab pickup
+Toyota RAV4 hybrid,2025,side_updated,Acceptable,3,,4-door SUV
+Chevrolet Tahoe,2026,moderate_overlap_front_updated,Poor,1,,4-door SUV
+Chevrolet Tahoe,2026,side_updated,Good,4,,4-door SUV
+Audi Q5,2025,moderate_overlap_front_updated,Good,4,,4-door SUV
+Audi Q5,2025,side_updated,Good,4,,4-door SUV
+Ford Mustang GT coupe,2017,small_overlap_driver,Acceptable,3,,2-door coupe
+Ford Mustang GT coupe,2017,moderate_overlap_front,Good,4,,2-door coupe
+Ford Mustang GT coupe,2017,side_original,Good,4,,2-door coupe
+Ford Mustang GT coupe,2017,roof_strength,Good,4,,2-door coupe
+Ford Mustang GT coupe,2017,head_restraints,Good,4,,2-door coupe
+Hyundai Accent,2020,small_overlap_driver,Good,4,,4-door sedan
+Hyundai Accent,2020,small_overlap_passenger,Acceptable,3,,4-door sedan
+Hyundai Accent,2020,moderate_overlap_front,Good,4,,4-door sedan
+Hyundai Accent,2020,side_original,Good,4,,4-door sedan
+Hyundai Accent,2020,roof_strength,Good,4,,4-door sedan
+Hyundai Accent,2020,head_restraints,Good,4,,4-door sedan
+Subaru WRX,2020,small_overlap_driver,Good,4,,4-door sedan
+Subaru WRX,2020,small_overlap_passenger,Good,4,,4-door sedan
+Subaru WRX,2020,moderate_overlap_front,Good,4,,4-door sedan
+Subaru WRX,2020,side_original,Good,4,,4-door sedan
+Subaru WRX,2020,roof_strength,Good,4,,4-door sedan
+Subaru WRX,2020,head_restraints,Good,4,,4-door sedan
+Chrysler Pacifica,2020,small_overlap_driver,Good,4,,minivan
+Chrysler Pacifica,2020,small_overlap_passenger,Good,4,,minivan
+Chrysler Pacifica,2020,moderate_overlap_front,Good,4,,minivan
+Chrysler Pacifica,2020,side_original,Good,4,,minivan
+Chrysler Pacifica,2020,roof_strength,Good,4,,minivan
+Chrysler Pacifica,2020,head_restraints,Good,4,,minivan
+Toyota Tacoma Double Cab long bed,2020,small_overlap_driver,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab long bed,2020,small_overlap_passenger,Acceptable,3,,crew cab pickup
+Toyota Tacoma Double Cab long bed,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab long bed,2020,side_original,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab long bed,2020,side_updated,Marginal,2,,crew cab pickup
+Toyota Tacoma Double Cab long bed,2020,roof_strength,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab long bed,2020,head_restraints,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab short bed,2020,small_overlap_driver,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab short bed,2020,small_overlap_passenger,Acceptable,3,,crew cab pickup
+Toyota Tacoma Double Cab short bed,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab short bed,2020,side_original,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab short bed,2020,side_updated,Marginal,2,,crew cab pickup
+Toyota Tacoma Double Cab short bed,2020,roof_strength,Good,4,,crew cab pickup
+Toyota Tacoma Double Cab short bed,2020,head_restraints,Good,4,,crew cab pickup
+Nissan Frontier King Cab,2020,small_overlap_driver,Marginal,2,,crew cab pickup
+Nissan Frontier King Cab,2020,small_overlap_passenger,Marginal,2,,crew cab pickup
+Nissan Frontier King Cab,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Nissan Frontier King Cab,2020,side_original,Good,4,,crew cab pickup
+Nissan Frontier King Cab,2020,roof_strength,Good,4,,crew cab pickup
+Nissan Frontier King Cab,2020,head_restraints,Acceptable,3,,crew cab pickup
+Ford F-150 SuperCab,2020,small_overlap_driver,Good,4,,crew cab pickup
+Ford F-150 SuperCab,2020,small_overlap_passenger,Good,4,,crew cab pickup
+Ford F-150 SuperCab,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Ford F-150 SuperCab,2020,side_original,Good,4,,crew cab pickup
+Ford F-150 SuperCab,2020,roof_strength,Good,4,,crew cab pickup
+Ford F-150 SuperCab,2020,head_restraints,Good,4,,crew cab pickup
+Ford F-150 SuperCrew,2020,small_overlap_driver,Good,4,,crew cab pickup
+Ford F-150 SuperCrew,2020,small_overlap_passenger,Good,4,,crew cab pickup
+Ford F-150 SuperCrew,2020,moderate_overlap_front,Good,4,,crew cab pickup
+Ford F-150 SuperCrew,2020,side_original,Good,4,,crew cab pickup
+Ford F-150 SuperCrew,2020,roof_strength,Good,4,,crew cab pickup
+Ford F-150 SuperCrew,2020,head_restraints,Good,4,,crew cab pickup
+Toyota Tundra Double Cab short bed,2020,small_overlap_driver,Acceptable,3,,extended cab pickup
+Toyota Tundra Double Cab short bed,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Toyota Tundra Double Cab short bed,2020,side_original,Good,4,,extended cab pickup
+Toyota Tundra Double Cab short bed,2020,roof_strength,Good,4,,extended cab pickup
+Toyota Tundra Double Cab short bed,2020,head_restraints,Good,4,,extended cab pickup
+Ram 1500 Classic Crew Cab short bed,2020,small_overlap_driver,Good,4,,extended cab pickup
+Ram 1500 Classic Crew Cab short bed,2020,small_overlap_passenger,Good,4,,extended cab pickup
+Ram 1500 Classic Crew Cab short bed,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Ram 1500 Classic Crew Cab short bed,2020,side_original,Good,4,,extended cab pickup
+Ram 1500 Classic Crew Cab short bed,2020,roof_strength,Good,4,,extended cab pickup
+Ram 1500 Classic Crew Cab short bed,2020,head_restraints,Good,4,,extended cab pickup
+Ram 1500 Crew Cab short bed,2020,small_overlap_driver,Good,4,,extended cab pickup
+Ram 1500 Crew Cab short bed,2020,small_overlap_passenger,Good,4,,extended cab pickup
+Ram 1500 Crew Cab short bed,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Ram 1500 Crew Cab short bed,2020,side_original,Good,4,,extended cab pickup
+Ram 1500 Crew Cab short bed,2020,roof_strength,Good,4,,extended cab pickup
+Ram 1500 Crew Cab short bed,2020,head_restraints,Good,4,,extended cab pickup
+Ram 1500 Quad Cab,2020,small_overlap_driver,Good,4,,extended cab pickup
+Ram 1500 Quad Cab,2020,small_overlap_passenger,Good,4,,extended cab pickup
+Ram 1500 Quad Cab,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Ram 1500 Quad Cab,2020,side_original,Good,4,,extended cab pickup
+Ram 1500 Quad Cab,2020,roof_strength,Good,4,,extended cab pickup
+Ram 1500 Quad Cab,2020,head_restraints,Good,4,,extended cab pickup
+Ram 1500 Classic Quad Cab,2020,small_overlap_driver,Good,4,,extended cab pickup
+Ram 1500 Classic Quad Cab,2020,small_overlap_passenger,Good,4,,extended cab pickup
+Ram 1500 Classic Quad Cab,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Ram 1500 Classic Quad Cab,2020,side_original,Good,4,,extended cab pickup
+Ram 1500 Classic Quad Cab,2020,roof_strength,Good,4,,extended cab pickup
+Ram 1500 Classic Quad Cab,2020,head_restraints,Good,4,,extended cab pickup
+Toyota Tundra Crew Max,2020,small_overlap_driver,Acceptable,3,,extended cab pickup
+Toyota Tundra Crew Max,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Toyota Tundra Crew Max,2020,side_original,Good,4,,extended cab pickup
+Toyota Tundra Crew Max,2020,roof_strength,Good,4,,extended cab pickup
+Toyota Tundra Crew Max,2020,head_restraints,Good,4,,extended cab pickup
+Ram 2500 Mega Cab,2020,small_overlap_driver,Good,4,,extended cab pickup
+Ram 2500 Mega Cab,2020,small_overlap_passenger,Good,4,,extended cab pickup
+Ram 2500 Mega Cab,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Ram 2500 Mega Cab,2020,side_original,Good,4,,extended cab pickup
+Ram 2500 Mega Cab,2020,roof_strength,Good,4,,extended cab pickup
+Ram 2500 Mega Cab,2020,head_restraints,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2020,small_overlap_driver,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2020,small_overlap_passenger,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2020,moderate_overlap_front,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2020,side_original,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2020,roof_strength,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2020,head_restraints,Good,4,,extended cab pickup
+Chevrolet Silverado 2500 Extended Cab,2017,small_overlap_driver,Acceptable,3,,extended cab pickup
+Chevrolet Silverado 2500 Extended Cab,2017,moderate_overlap_front,Good,4,,extended cab pickup
+Chevrolet Silverado 2500 Extended Cab,2017,side_original,Good,4,,extended cab pickup
+Chevrolet Silverado 2500 Extended Cab,2017,roof_strength,Good,4,,extended cab pickup
+Chevrolet Silverado 2500 Extended Cab,2017,head_restraints,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2017,small_overlap_driver,Marginal,2,,extended cab pickup
+Ram 3500 Crew Cab long bed,2017,moderate_overlap_front,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2017,side_original,Good,4,,extended cab pickup
+Ram 3500 Crew Cab long bed,2017,roof_strength,Marginal,2,,extended cab pickup
+Ram 3500 Crew Cab long bed,2017,head_restraints,Good,4,,extended cab pickup
+Ram 2500 Crew Cab long bed,2017,small_overlap_driver,Marginal,2,,extended cab pickup
+Ram 2500 Crew Cab long bed,2017,moderate_overlap_front,Good,4,,extended cab pickup
+Ram 2500 Crew Cab long bed,2017,side_original,Good,4,,extended cab pickup
+Ram 2500 Crew Cab long bed,2017,roof_strength,Marginal,2,,extended cab pickup
+Ram 2500 Crew Cab long bed,2017,head_restraints,Good,4,,extended cab pickup
+GMC Sierra 2500 Crew Cab,2017,small_overlap_driver,Marginal,2,,crew cab pickup
+GMC Sierra 2500 Crew Cab,2017,moderate_overlap_front,Good,4,,crew cab pickup
+GMC Sierra 2500 Crew Cab,2017,side_original,Good,4,,crew cab pickup
+GMC Sierra 2500 Crew Cab,2017,roof_strength,Good,4,,crew cab pickup
+GMC Sierra 2500 Crew Cab,2017,head_restraints,Good,4,,crew cab pickup
+Chevrolet Silverado 2500 Crew Cab,2017,small_overlap_driver,Marginal,2,,crew cab pickup
+Chevrolet Silverado 2500 Crew Cab,2017,moderate_overlap_front,Good,4,,crew cab pickup
+Chevrolet Silverado 2500 Crew Cab,2017,side_original,Good,4,,crew cab pickup
+Chevrolet Silverado 2500 Crew Cab,2017,roof_strength,Good,4,,crew cab pickup
+Chevrolet Silverado 2500 Crew Cab,2017,head_restraints,Good,4,,crew cab pickup
+Toyota Highlander,2026,moderate_overlap_front_updated,Good,4,,4-door SUV
+Toyota Highlander,2026,side_updated,Good,4,,4-door SUV
+Ford Expedition,2026,moderate_overlap_front_updated,Marginal,2,,4-door SUV
+Ford Expedition,2026,side_updated,Good,4,,4-door SUV
