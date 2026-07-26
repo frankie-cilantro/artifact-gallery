@@ -1,0 +1,20 @@
+# Hand-maintained entity-resolution crosswalk. EVERY IIHS death-rate row must
+# resolve here or `make resolve` fails loudly (silent drops bias toward
+# mainstream models). FARS make/model codes per the FARS Analytical User's
+# Manual coding tables. Seed rows below — extend as ingest surfaces new rows.
+iihs_name,fars_make_code,fars_model_code,vpic_body_class,drivetrain,class,luxury_flag
+Chevrolet Spark,20,17,Hatchback,2WD,minicars,0
+Mitsubishi Mirage,52,32,Hatchback,2WD,minicars,0
+Honda Civic,37,32,Sedan,2WD,small cars,0
+Toyota Corolla,49,32,Sedan,2WD,small cars,0
+Toyota Camry,49,31,Sedan,2WD,midsize cars,0
+Honda Accord,37,31,Sedan,2WD,midsize cars,0
+Toyota RAV4,49,404,Sport Utility Vehicle (SUV),4WD,small SUVs,0
+Honda CR-V,37,401,Sport Utility Vehicle (SUV),4WD,small SUVs,0
+Ford F-150,12,481,Pickup,4WD,large pickups,0
+Chevrolet Silverado 1500,20,481,Pickup,4WD,large pickups,0
+BMW 3 series,34,31,Sedan,2WD,midsize luxury cars,1
+Mercedes-Benz E-Class,42,32,Sedan,2WD,large luxury cars,1
+Audi A6,69,33,Sedan,AWD,large luxury cars,1
+Lexus RX 350,49,421,Sport Utility Vehicle (SUV),AWD,midsize luxury SUVs,1
+Volvo XC90,48,402,Sport Utility Vehicle (SUV),AWD,midsize luxury SUVs,1
