@@ -20,8 +20,8 @@ OUT = RAW / "fars"
 TABLES = ["accident", "vehicle", "person"]
 
 KEEP = {
-    "accident": ["ST_CASE", "YEAR", "FUNC_SYS", "SP_LIMIT", "VE_TOTAL",
-                 "HOUR", "LGT_COND"],
+    "accident": ["ST_CASE", "YEAR", "FUNC_SYS", "RUR_URB", "SP_LIMIT",
+                 "VE_TOTAL", "HOUR", "LGT_COND"],
     "vehicle": ["ST_CASE", "VEH_NO", "VIN", "MAKE", "MODEL", "MOD_YEAR",
                 "IMPACT1", "ROLLOVER", "DEATHS", "VSPD_LIM"],
     "person": ["ST_CASE", "VEH_NO", "PER_NO", "PER_TYP", "AGE", "SEX",
@@ -30,7 +30,8 @@ KEEP = {
 
 
 def _read_table(zf: zipfile.ZipFile, table: str) -> pd.DataFrame:
-    name = next((n for n in zf.namelist() if n.lower().startswith(table) and
+    name = next((n for n in zf.namelist()
+                 if n.lower().rsplit("/", 1)[-1].startswith(table) and
                  n.lower().endswith(".csv")), None)
     if name is None:
         raise FileNotFoundError(f"{table}.csv not in zip: {zf.namelist()[:10]}")
@@ -48,7 +49,7 @@ def run(years=FARS_YEARS) -> Path:
             print(f"FARS {year}: cached")
             continue
         url = f"{FARS_BASE}/{year}/National/FARS{year}NationalCSV.zip"
-        raw = fetch(url, name=f"fars_{year}", ext=".zip")
+        raw = fetch(url, name=f"fars_{year}", ext=".zip", reuse_snapshot=True)
         with zipfile.ZipFile(io.BytesIO(raw)) as zf:
             for table in TABLES:
                 df = _read_table(zf, table)

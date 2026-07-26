@@ -76,23 +76,40 @@ def load_crosswalk() -> pd.DataFrame:
     return xw
 
 
+# Cycles whose rows MUST resolve to FARS codes (the crash-level study window).
+# Older cycles keep the IIHS-native class/drivetrain fallback — their crash
+# years predate FARS coverage here and they only feed aggregate analyses.
+CRASH_CYCLES = {"MY2017", "MY2020"}
+
+
 def resolve() -> pd.DataFrame:
-    """Join death rates against the crosswalk; fail loudly on any unresolved row."""
+    """Join death rates against the crosswalk; fail loudly if any row in a
+    crash-study cycle (MY2017/MY2020) is unresolved. Older cycles may stay
+    unresolved and keep their IIHS-native class."""
     dr = pd.read_parquet(RAW / "iihs_death_rates" / "death_rates.parquet")
     dr["drivetrain"] = dr["drivetrain"].map(norm_drivetrain)
-    # the crosswalk's class assignment is authoritative (PDF-parsed pulls
-    # often lack it entirely)
-    dr = dr.drop(columns=["class"], errors="ignore")
+    # the crosswalk's class assignment is authoritative where present
+    # (PDF-parsed pulls often lack it entirely)
+    dr = dr.rename(columns={"class": "class_iihs"})
     xw = load_crosswalk()
     merged = dr.merge(xw, left_on=["nameplate", "drivetrain"],
                       right_on=["iihs_name", "drivetrain"], how="left",
                       indicator=True)
-    unresolved = merged[merged["_merge"] == "left_only"]
+    unresolved = merged[(merged["_merge"] == "left_only") &
+                        merged["cycle"].isin(CRASH_CYCLES)]
     if not unresolved.empty:
         listing = unresolved[["nameplate", "drivetrain", "cycle"]].to_string(index=False)
         raise SystemExit(
-            f"ENTITY RESOLUTION FAILED — {len(unresolved)} IIHS rows unresolved.\n"
+            f"ENTITY RESOLUTION FAILED — {len(unresolved)} IIHS rows unresolved "
+            f"in crash cycles {sorted(CRASH_CYCLES)}.\n"
             f"Silent drops bias toward mainstream models; add these to "
             f"{CROSSWALK_CSV}:\n{listing}"
         )
-    return merged.drop(columns=["_merge"])
+    n_old = int((merged["_merge"] == "left_only").sum())
+    if n_old:
+        print(f"note: {n_old} pre-MY2017 rows unresolved — using IIHS-native class")
+    merged["class"] = merged["class"].fillna(merged["class_iihs"])
+    merged["luxury_flag"] = merged["luxury_flag"].fillna(
+        merged["class"].str.contains("luxury", case=False, na=False)
+        .map({True: "1", False: "0"}))
+    return merged.drop(columns=["_merge", "class_iihs"])

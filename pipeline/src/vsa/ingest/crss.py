@@ -18,10 +18,10 @@ from .common import fetch
 OUT = RAW / "crss"
 
 KEEP_VEHICLE = ["CASENUM", "VEH_NO", "VIN", "MAKE", "MODEL", "MOD_YEAR",
-                "IMPACT1", "ROLLOVER", "WEIGHT"]
+                "IMPACT1", "ROLLOVER", "VSPD_LIM", "WEIGHT"]
 KEEP_PERSON = ["CASENUM", "VEH_NO", "PER_NO", "PER_TYP", "AGE", "SEX",
                "INJ_SEV", "REST_USE", "SEAT_POS", "WEIGHT"]
-KEEP_ACCIDENT = ["CASENUM", "VE_TOTAL", "SP_LIMIT", "FUNC_SYS", "WEIGHT"]
+KEEP_ACCIDENT = ["CASENUM", "VE_TOTAL", "URBANICITY", "WEIGHT"]
 
 
 def run(years=FARS_YEARS) -> Path:
@@ -33,13 +33,14 @@ def run(years=FARS_YEARS) -> Path:
             print(f"CRSS {year}: cached")
             continue
         url = f"{CRSS_BASE}/{year}/CRSS{year}CSV.zip"
-        raw = fetch(url, name=f"crss_{year}", ext=".zip")
+        raw = fetch(url, name=f"crss_{year}", ext=".zip", reuse_snapshot=True)
         with zipfile.ZipFile(io.BytesIO(raw)) as zf:
             for table, keep in [("accident", KEEP_ACCIDENT),
                                 ("vehicle", KEEP_VEHICLE),
                                 ("person", KEEP_PERSON)]:
                 name = next(n for n in zf.namelist()
-                            if n.lower().startswith(table) and n.lower().endswith(".csv"))
+                            if n.lower().rsplit("/", 1)[-1].startswith(table)
+                            and n.lower().endswith(".csv"))
                 df = pd.read_csv(zf.open(name), encoding="latin-1", low_memory=False)
                 df.columns = [c.upper() for c in df.columns]
                 df = df[[c for c in keep if c in df.columns]]

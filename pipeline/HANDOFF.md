@@ -77,6 +77,17 @@ results past a failing gate.
 | IIHS death rates (API sweep, 7 cycles) | ✅ done, gates 1–2 exact |
 | IIHS ratings (145/252 nameplates) | ✅ done; 51 misses logged in data/raw/iihs_ratings/ratings_misses.csv |
 | Analyses 4.1–4.4, 4.6, 4.7 | ✅ run on real data |
-| FARS / CRSS / vPIC / crosswalk / 4.5 / gates 3–4 | ⬜ this handoff |
+| FARS 2015–2023 + CRSS 2016–2023 ingest | ✅ done (102k FARS crash vehicles, 178k weighted CRSS involvements) |
+| Crosswalk (automated: FARS VINs → vPIC → fuzzy match) | ✅ 247 rows, every MY2017/MY2020 row resolves; builder in `src/vsa/tools/build_crosswalk.py`; HD pickups forced to the FARS 880 series |
+| Curb weights (vPIC) | ❌ structurally unavailable — vPIC publishes no curb weight for light vehicles (0 of hundreds of decoded study VINs). Class stands in for mass; stated in report. |
+| Survival model 4.5 | ✅ runs for real, all directions (rollover: no discriminating test) |
+| Gate 3 (side ≈70%) | ❌ FAILS — structurally untestable, not a crosswalk bug: side_original is at ceiling in BOTH cycles (1 Poor vehicle in 188); direction bucketing verified (left-side has highest driver-fatality share). side_updated covers only 58 vehicles, n=1106 left-side rows, no significant effect. |
+| Gate 4 (placebo) | ❌ FAILS — side rating significantly predicts *frontal* survival (p≈2e-6). Reported as residual confounding, per plan: rating coefficients must not be read as crashworthiness effects. |
 | Mileage correction 4.8 | ⬜ optional, needs hand-supplied VMT csv |
-| React gallery artifact | ⬜ only after numbers are stable |
+| React gallery artifact | ⬜ blocked: gates 3–4 failed, numbers must not ship as "effects" |
+
+**2026-07-26 crash-phase notes:** `validate` exits 1 by design (do not interpret
+past a failing gate). Report's "Data status" section states both failures in
+plain language. Road class harmonized to urban/rural (CRSS has no FUNC_SYS);
+speed limit comes from VSPD_LIM on the vehicle record in both sources; IIHS
+variants sharing a FARS code pair are assigned to the highest-exposure variant.

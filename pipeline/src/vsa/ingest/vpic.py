@@ -35,14 +35,35 @@ def decode(vins: list[str], session: requests.Session | None = None) -> pd.DataF
     return pd.DataFrame(rows)
 
 
+STUDY_MODEL_YEARS = range(2014, 2021)  # MY2017 + MY2020 pooled spans
+PREFIX_LEN = 11  # VIN positions 1-11 pin down make/model/trim/engine/year
+
+
+def study_vehicle_frames():
+    """Vehicle rows for crosswalk-matched FARS codes in the study model years."""
+    from ..crosswalk import load_crosswalk
+    xw = load_crosswalk()
+    codes = set(zip(xw["fars_make_code"].astype(int),
+                    xw["fars_model_code"].astype(int)))
+    for p in (sorted((RAW / "fars").glob("vehicle_*.parquet"))
+              + sorted((RAW / "crss").glob("vehicle_*.parquet"))):
+        df = pd.read_parquet(p, columns=["VIN", "MAKE", "MODEL", "MOD_YEAR"])
+        df = df[df["MOD_YEAR"].isin(STUDY_MODEL_YEARS)]
+        df = df[[mm in codes for mm in zip(df["MAKE"], df["MODEL"])]]
+        df = df[df["VIN"].astype(str).str.len() >= PREFIX_LEN]
+        df["vin_prefix"] = df["VIN"].astype(str).str[:PREFIX_LEN]
+        yield df
+
+
 def run() -> Path:
-    fars_dir = RAW / "fars"
+    """Decode deduped VIN prefixes of study vehicles only. Decoding every full
+    VIN in FARS+CRSS (~1.3M) would take days; the 11-char prefix carries the
+    spec-level identity curb weight depends on."""
     vins = set()
-    for p in sorted(fars_dir.glob("vehicle_*.parquet")) + sorted((RAW / "crss").glob("vehicle_*.parquet")):
-        df = pd.read_parquet(p, columns=["VIN"])
-        vins.update(df["VIN"].dropna().astype(str))
+    for df in study_vehicle_frames():
+        vins.update(df["vin_prefix"])
     if not vins:
-        raise SystemExit("no VINs found — run ingest-fars / ingest-crss first")
+        raise SystemExit("no VINs found — run ingest-fars / ingest-crss / resolve first")
     OUT.mkdir(parents=True, exist_ok=True)
     out = OUT / "vpic_decoded.parquet"
     done = pd.read_parquet(out)["vin"].tolist() if out.exists() else []

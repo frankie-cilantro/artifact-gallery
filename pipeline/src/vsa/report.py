@@ -53,6 +53,14 @@ road-type mix, or driving style, all large and unmeasured.</li>
 absent. Absence is not safety.</li>
 <li>Selection into vehicle class is not random and cannot be fully adjusted
 away. Nothing here is causal.</li>
+<li>FARS pools heavy-duty pickups (F-250/350, 2500/3500 series) under one
+medium/heavy code, and IIHS cab/bed/drivetrain variants sharing a FARS code
+pair are assigned to the highest-exposure variant — crash rows for those
+families are approximate at the variant level.</li>
+<li>Road class is harmonized to urban/rural — the only stratum FARS and CRSS
+share (CRSS carries no functional-class variable).</li>
+<li>vPIC publishes no curb weight for light vehicles, so mass enters only
+through vehicle class.</li>
 </ul>
 </body></html>""")
 
@@ -84,9 +92,31 @@ def _data_status() -> str:
             "correlation, variance decomposition) is skipped. Nothing in this "
             "report says anything about whether ratings predict deaths.</li>")
     if counts["fact_fars_crash"] and counts["fact_crss_involve"]:
-        items.append("<li><b>FARS + CRSS crash data: loaded.</b> The "
-                     "conditional survival model separates crashing from "
-                     "surviving a crash.</li>")
+        items.append(
+            f"<li><b>FARS + CRSS crash data: loaded</b> "
+            f"({counts['fact_fars_crash']:,} FARS crash vehicles, "
+            f"{counts['fact_crss_involve']:,} CRSS involvements, survey-weighted). "
+            "The conditional survival model runs for real. Two results need "
+            "plain words: <b>(1) the left-side test is data-thin, not clean.</b> "
+            "The original side test is at ceiling in BOTH study cycles "
+            "(96–99% Good; exactly one Poor-rated vehicle), so the published "
+            "&asymp;70% Good-vs-Poor effect — measured on 2000s fleets — is "
+            "structurally unobservable here, and validation gate 3 fails for "
+            "that reason, not because of entity resolution (left-side crashes "
+            "do show the highest driver-fatality share, as physics predicts). "
+            "The updated side test has variation but covers only 58 vehicles. "
+            "<b>(2) The placebo fails — that is a finding.</b> The side rating "
+            "significantly predicts <i>frontal</i> survival, which a side "
+            "structure cannot cause: better-rated vehicles are newer designs "
+            "bought by different drivers, i.e. residual confounding is "
+            "present, and rating coefficients here must not be read as "
+            "crashworthiness effects.</li>")
+        items.append(
+            "<li><b>Curb weights: unavailable.</b> vPIC does not publish curb "
+            "weight for light vehicles (verified: 0 of several hundred decoded "
+            "study VINs carried one), so the curb_weight block stays out of "
+            "the variance decomposition and survival controls; vehicle class "
+            "stands in for mass.</li>")
     else:
         items.append(
             "<li><b>FARS + CRSS crash-level data: NOT loaded.</b> This is the "
@@ -95,12 +125,12 @@ def _data_status() -> str:
             "shown here could just mean careful drivers buy highly-rated cars. "
             "The survival model and the placebo checks (validation gates 3-4) "
             "wait on this data plus the full FARS crosswalk.</li>")
-    items.append(
-        "<li><b>Curb weights (vPIC): NOT loaded</b> unless noted in the "
-        "variance table. Class absorbs some of the vehicle-mass effect, but "
-        "weight differences <i>within</i> a class are invisible, so the "
-        "ratings block may soak up credit that belongs to mass.</li>"
-        if counts["fact_fars_crash"] == 0 else "")
+    if counts["fact_fars_crash"] == 0:
+        items.append(
+            "<li><b>Curb weights (vPIC): NOT loaded.</b> Class absorbs some of "
+            "the vehicle-mass effect, but weight differences <i>within</i> a "
+            "class are invisible, so the ratings block may soak up credit that "
+            "belongs to mass.</li>")
     return "<ul>" + "".join(i for i in items if i) + "</ul>"
 
 

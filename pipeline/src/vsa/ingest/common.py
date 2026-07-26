@@ -29,7 +29,11 @@ def snapshot(name: str, content: bytes, meta: dict) -> Path:
 
 
 def fetch(url: str, *, name: str, ext: str, session: requests.Session | None = None,
-          timeout: int = 120, **kwargs) -> bytes:
+          timeout: int = 120, reuse_snapshot: bool = False, **kwargs) -> bytes:
+    if reuse_snapshot:
+        prior = sorted((RAW / name).glob(f"*{ext}")) if (RAW / name).exists() else []
+        if prior:
+            return prior[-1].read_bytes()
     s = session or requests.Session()
     r = s.get(url, timeout=timeout, **kwargs)
     r.raise_for_status()

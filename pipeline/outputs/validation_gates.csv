@@ -1,7 +1,7 @@
-gate,cycle,computed,target,pass,note,class
-1,MY2020,38.0,38.0,True,published-models exposure-weighted est 40.2,
-1,MY2017,36.0,36.0,True,published-models exposure-weighted est 29.4,
-2,,153.0,153.0,True,,minicars
-2,,4.0,4.0,True,,very large luxury cars
-3,,,,,SKIPPED — requires FARS/CRSS + full crosswalk (not loaded),
-4,,,,,SKIPPED — requires FARS/CRSS + full crosswalk (not loaded),
+gate,cycle,computed,target,pass,note,class,computed_reduction,placebo_p_value
+1,MY2020,38.0,38.0,True,published-models exposure-weighted est 40.2,,,
+1,MY2017,36.0,36.0,True,published-models exposure-weighted est 29.4,,,
+2,,153.0,153.0,True,,minicars,,
+2,,4.0,4.0,True,,very large luxury cars,,
+3,,,0.7,False,,,-0.29,
+4,,,,False,side rating must NOT predict frontal survival,,,0.0

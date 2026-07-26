@@ -58,16 +58,7 @@ def load() -> None:
     dim["make"] = dim["nameplate"].str.split().str[0]
     dim = dim.rename(columns={"model_years": "model_year_span"})
 
-    vpic = RAW / "vpic" / "vpic_decoded.parquet"
-    if vpic.exists():
-        w = pd.read_parquet(vpic)
-        w["curb_weight_lb"] = pd.to_numeric(w["curb_weight_lb"], errors="coerce")
-        weights = (w.groupby(["make", "model"], as_index=False)["curb_weight_lb"].median()
-                   .rename(columns={"curb_weight_lb": "curb_weight"}))
-        dim = dim.merge(weights, left_on="make", right_on="make", how="left") \
-                 .drop(columns=["model"], errors="ignore")
-    else:
-        dim["curb_weight"] = None
+    dim["curb_weight"] = _curb_weights(dim, resolved)
 
     con.execute("DELETE FROM dim_vehicle")
     con.register("dim_df", dim)
@@ -103,8 +94,34 @@ def load() -> None:
     print(f"loaded {DB_PATH}")
 
 
+def _curb_weights(dim: pd.DataFrame, resolved: pd.DataFrame) -> pd.Series:
+    """Median vPIC curb weight per nameplate, joined through the FARS code
+    pair: decoded VIN prefixes -> (MAKE, MODEL) codes -> crosswalk -> dim."""
+    vpic_path = RAW / "vpic" / "vpic_decoded.parquet"
+    if not vpic_path.exists() or "fars_make_code" not in resolved.columns:
+        return pd.Series([None] * len(dim), index=dim.index, dtype="float64")
+    from .ingest.vpic import study_vehicle_frames
+    dec = pd.read_parquet(vpic_path)
+    dec["curb_weight_lb"] = pd.to_numeric(dec["curb_weight_lb"], errors="coerce")
+    dec = dec.dropna(subset=["curb_weight_lb"])[["vin", "curb_weight_lb"]]
+    frames = [df[["vin_prefix", "MAKE", "MODEL"]] for df in study_vehicle_frames()]
+    veh = pd.concat(frames, ignore_index=True).merge(
+        dec, left_on="vin_prefix", right_on="vin")
+    per_code = (veh.groupby(["MAKE", "MODEL"])["curb_weight_lb"].median()
+                .rename("curb_weight").reset_index())
+    codes = (resolved[["nameplate", "fars_make_code", "fars_model_code"]]
+             .dropna().drop_duplicates("nameplate"))
+    codes[["fars_make_code", "fars_model_code"]] = \
+        codes[["fars_make_code", "fars_model_code"]].astype(int)
+    codes = codes.merge(per_code, left_on=["fars_make_code", "fars_model_code"],
+                        right_on=["MAKE", "MODEL"], how="left")
+    return dim["nameplate"].map(codes.set_index("nameplate")["curb_weight"])
+
+
 def _crash_frames(source_dir: Path, dim: pd.DataFrame, crss: bool):
+    from .crosswalk import norm_drivetrain
     xw = pd.read_parquet(RAW / "iihs_death_rates" / "death_rates.parquet")
+    xw["drivetrain"] = xw["drivetrain"].map(norm_drivetrain)
     exploded = explode_model_years(
         xw.merge(dim[["nameplate", "drivetrain", "model_year_span", "vehicle_key"]],
                  left_on=["nameplate", "drivetrain", "model_years"],
@@ -115,8 +132,16 @@ def _crash_frames(source_dir: Path, dim: pd.DataFrame, crss: bool):
     codes = load_crosswalk()
     key = exploded.merge(codes, left_on=["nameplate", "drivetrain"],
                          right_on=["iihs_name", "drivetrain"])
-    key = key[["vehicle_key", "fars_make_code", "fars_model_code", "model_year"]] \
-        .astype({"fars_make_code": int, "fars_model_code": int}).drop_duplicates()
+    # Several IIHS variants (cab/bed styles, 2WD/4WD) share one FARS code
+    # pair; joining all of them would count each crash once per variant.
+    # Keep the highest-exposure variant per (code pair, model year) so every
+    # crash row lands exactly once.
+    key = (key[["vehicle_key", "fars_make_code", "fars_model_code",
+                "model_year", "exposure_rvy"]]
+           .astype({"fars_make_code": int, "fars_model_code": int})
+           .sort_values("exposure_rvy", ascending=False)
+           .drop_duplicates(["fars_make_code", "fars_model_code", "model_year"])
+           .drop(columns=["exposure_rvy"]))
 
     id_col = "CASENUM" if crss else "ST_CASE"
     for vp in sorted(source_dir.glob("vehicle_*.parquet")):
@@ -129,6 +154,22 @@ def _crash_frames(source_dir: Path, dim: pd.DataFrame, crss: bool):
                        right_on=["fars_make_code", "fars_model_code", "model_year"])
                 .merge(drivers, on=[id_col, "VEH_NO"], how="left")
                 .merge(acc, on=id_col, how="left", suffixes=("", "_acc")))
+        # FARS 2015+ and CRSS both carry the speed limit on the vehicle record
+        # (VSPD_LIM); 0/98/99 are no-limit/not-reported codes.
+        if "SP_LIMIT" not in m.columns and "VSPD_LIM" in m.columns:
+            m["SP_LIMIT"] = m["VSPD_LIM"]
+        if "SP_LIMIT" in m.columns:
+            m.loc[~m["SP_LIMIT"].between(5, 90), "SP_LIMIT"] = pd.NA
+        # road_class harmonized to urban/rural — the only stratum both sources
+        # share (FARS RUR_URB: 1=rural 2=urban; CRSS URBANICITY: 1=urban 2=rural)
+        if "RUR_URB" in m.columns:
+            m["ROAD_CLASS"] = m["RUR_URB"].map({1: "rural", 2: "urban"})
+        elif "URBANICITY" in m.columns:
+            m["ROAD_CLASS"] = m["URBANICITY"].map({1: "urban", 2: "rural"})
+        if "AGE" in m.columns:
+            m.loc[m["AGE"] >= 120, "AGE"] = pd.NA  # 998/999 unknown codes
+        if "SEX" in m.columns:
+            m.loc[~m["SEX"].isin([1, 2]), "SEX"] = pd.NA
         m["direction"] = [impact_direction(i, r) for i, r in
                           zip(m.get("IMPACT1"), m.get("ROLLOVER"))]
         m["fatal_driver"] = m.get("INJ_SEV", pd.Series(dtype=float)).eq(4)
@@ -147,7 +188,7 @@ def _load_crashes(con, dim: pd.DataFrame) -> None:
             m["crash_id"] = m[id_col].astype(str) + "-" + m["year"].astype(str)
             cols = {"crash_id": "crash_id", "vehicle_key": "vehicle_key",
                     "year": "year", "IMPACT1": "impact_point",
-                    "FUNC_SYS": "road_class", "SP_LIMIT": "speed_limit",
+                    "ROAD_CLASS": "road_class", "SP_LIMIT": "speed_limit",
                     "VE_TOTAL": "n_vehicles", "AGE": "driver_age",
                     "SEX": "driver_sex", "REST_USE": "restraint",
                     "fatal_driver": "fatal_driver"}

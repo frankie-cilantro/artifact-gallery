@@ -1,20 +1,254 @@
-# Hand-maintained entity-resolution crosswalk. EVERY IIHS death-rate row must
-# resolve here or `make resolve` fails loudly (silent drops bias toward
-# mainstream models). FARS make/model codes per the FARS Analytical User's
-# Manual coding tables. Seed rows below — extend as ingest surfaces new rows.
+# Entity-resolution crosswalk: IIHS nameplate <-> FARS make/model codes.
+# Built semi-automatically by src/vsa/tools/build_crosswalk.py:
+# FARS VIN samples -> vPIC decode -> fuzzy match to IIHS nameplates.
+# Low-confidence rows are duplicated into crosswalk_review.csv — review
+# and correct HERE (this file is what resolve() reads). Every MY2017/
+# MY2020 death-rate row must resolve or `make resolve` fails loudly.
 iihs_name,fars_make_code,fars_model_code,vpic_body_class,drivetrain,class,luxury_flag
-Chevrolet Spark,20,17,Hatchback,2WD,minicars,0
-Mitsubishi Mirage,52,32,Hatchback,2WD,minicars,0
-Honda Civic,37,32,Sedan,2WD,small cars,0
-Toyota Corolla,49,32,Sedan,2WD,small cars,0
-Toyota Camry,49,31,Sedan,2WD,midsize cars,0
-Honda Accord,37,31,Sedan,2WD,midsize cars,0
-Toyota RAV4,49,404,Sport Utility Vehicle (SUV),4WD,small SUVs,0
-Honda CR-V,37,401,Sport Utility Vehicle (SUV),4WD,small SUVs,0
-Ford F-150,12,481,Pickup,4WD,large pickups,0
+Chevrolet Spark,20,29,Hatchback/Liftback/Notchback,NAN,mini cars,0
+Hyundai Accent,55,36,Hatchback/Liftback/Notchback,NAN,mini cars,0
+Mitsubishi Mirage G4,52,48,Hatchback/Liftback/Notchback,NAN,mini cars,0
+Kia Rio sedan,63,32,Sedan/Saloon,NAN,mini cars,0
+Mitsubishi Mirage hatchback,52,48,Hatchback/Liftback/Notchback,NAN,mini cars,0
+Honda Civic hatchback,37,31,Sedan/Saloon,NAN,small cars,0
+Subaru Impreza sedan,48,38,Sedan/Saloon,NAN,small cars,0
+Subaru WRX,48,47,Sedan/Saloon,NAN,small cars,0
+Toyota Prius,49,46,Hatchback/Liftback/Notchback,NAN,small cars,0
+Chevrolet Sonic,20,28,Sedan/Saloon,NAN,small cars,0
+Hyundai Elantra,55,35,Sedan/Saloon,NAN,small cars,0
+Chevrolet Bolt,20,40,Hatchback/Liftback/Notchback,NAN,small cars,0
+Toyota Corolla,49,32,Sedan/Saloon,NAN,small cars,0
+Toyota Prius Prime,49,46,Hatchback/Liftback/Notchback,NAN,small cars,0
+Kia Forte,63,38,Sedan/Saloon,NAN,small cars,0
+Honda Civic,37,31,Sedan/Saloon,NAN,small cars,0
+Honda Accord hybrid,37,32,Sedan/Saloon,NAN,midsize cars,0
+Toyota Camry,49,40,Sedan/Saloon,NAN,midsize cars,0
+Ford Fusion hybrid,12,23,Sedan/Saloon,NAN,midsize cars,0
+Kia Optima,63,34,Sedan/Saloon,NAN,midsize cars,0
+Chevrolet Malibu,20,37,Sedan/Saloon,NAN,midsize cars,0
+Toyota Camry hybrid,49,40,Sedan/Saloon,NAN,midsize cars,0
+Ford Fusion,12,23,Sedan/Saloon,NAN,midsize cars,0
+Nissan Altima,35,47,Sedan/Saloon,NAN,midsize cars,0
+Volkswagen Jetta,30,40,Sedan/Saloon,NAN,midsize cars,0
+Honda Accord,37,32,Sedan/Saloon,NAN,midsize cars,0
+Dodge Charger HEMI,7,24,Sedan/Saloon,2WD,large cars,0
+Chrysler 300,6,51,Sedan/Saloon,4WD,large cars,0
+Chevrolet Impala,20,2,Sedan/Saloon,NAN,large cars,0
+Dodge Charger,7,24,Sedan/Saloon,4WD,large cars,0
+Dodge Challenger,7,28,Coupe,2WD,large cars,0
+Dodge Charger,7,24,Sedan/Saloon,2WD,large cars,0
+Chrysler 300,6,51,Sedan/Saloon,2WD,large cars,0
+Audi A4,32,43,Sedan/Saloon,2WD,midsize luxury cars,1
+Acura TLX,54,44,Sedan/Saloon,2WD,midsize luxury cars,1
+Lexus ES 350,59,31,Sedan/Saloon,NAN,midsize luxury cars,1
+Audi A4,32,43,Sedan/Saloon,4WD,midsize luxury cars,1
+Tesla Model 3,29,5,Hatchback/Liftback/Notchback,4WD,midsize luxury cars,1
+Mercedes-Benz C-Class sedan,42,42,Sedan/Saloon,2WD,midsize luxury cars,1
+Mercedes-Benz C-Class sedan,42,42,Sedan/Saloon,4WD,midsize luxury cars,1
+Mercedes-Benz CLA-Class,42,54,Sedan/Saloon,2WD,midsize luxury cars,1
+Tesla Model 3,29,5,Hatchback/Liftback/Notchback,2WD,midsize luxury cars,1
+Genesis G80,55,43,Sedan/Saloon,NAN,large luxury cars,1
+Mercedes-Benz E-Class sedan,42,48,Coupe,4WD,large luxury cars,1
+Mercedes-Benz E-Class sedan,42,48,Coupe,2WD,large luxury cars,1
+Tesla Model S,29,5,Hatchback/Liftback/Notchback,4WD,large luxury cars,1
+Ford Mustang GT coupe,12,3,Coupe,NAN,midsize sports cars,0
+Ford Mustang coupe,12,3,Coupe,NAN,midsize sports cars,0
+Ford Mustang convertible,12,3,Coupe,NAN,midsize sports cars,0
+Chevrolet Camaro coupe,20,9,Coupe,NAN,large sports cars,0
+Chevrolet Camaro convertible,20,9,Coupe,NAN,large sports cars,0
+Honda Fit,37,39,Hatchback/Liftback/Notchback,NAN,mini station wagons/minivans,0
+Kia Niro hybrid,63,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],NAN,mini station wagons/minivans,0
+Kia Soul,63,37,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],NAN,small station wagons/minivans,0
+Subaru XV Crosstrek,48,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],NAN,small station wagons/minivans,0
+Subaru Impreza wagon,48,38,Sedan/Saloon,NAN,small station wagons/minivans,0
+Subaru Outback,48,45,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],NAN,midsize station wagons/minivans,0
+Chrysler Pacifica,6,443,Minivan,2WD,very large station wagons/minivans,0
+Kia Sedona,63,441,Minivan,NAN,very large station wagons/minivans,0
+Toyota Sienna,49,442,Minivan,2WD,very large station wagons/minivans,0
+Honda Odyssey,37,441,Minivan,NAN,very large station wagons/minivans,0
+Dodge Grand Caravan,7,442,Minivan,NAN,very large station wagons/minivans,0
+Chevrolet Colorado Crew Cab,20,473,Pickup,4WD,small pickups,0
+Toyota Tacoma Double Cab long bed,49,472,Pickup,4WD,small pickups,0
+Toyota Tacoma Double Cab short bed,49,472,Pickup,4WD,small pickups,0
+Chevrolet Colorado Crew Cab,20,473,Pickup,2WD,small pickups,0
+GMC Canyon Crew Cab,23,472,Pickup,4WD,small pickups,0
+Jeep Gladiator,2,483,Pickup,4WD,small pickups,0
+Chevrolet Colorado Extended Cab,20,473,Pickup,2WD,small pickups,0
+Nissan Frontier King Cab,35,472,Pickup,2WD,small pickups,0
+Ford Ranger Crew Cab,12,471,Pickup,4WD,small pickups,0
+Toyota Tacoma Double Cab short bed,49,472,Pickup,2WD,small pickups,0
+Nissan Frontier Crew Cab short bed,35,472,Pickup,4WD,small pickups,0
+Nissan Frontier Crew Cab short bed,35,472,Pickup,2WD,small pickups,0
+Ford F-150 SuperCab,12,481,Pickup,4WD,large pickups,0
+Ford F-150 SuperCrew,12,481,Pickup,2WD,large pickups,0
+Toyota Tundra Double Cab short bed,49,482,Pickup,4WD,large pickups,0
+Ram 1500 Classic Crew Cab short bed,7,482,Pickup,4WD,large pickups,0
+Chevrolet Silverado 1500 Extended Cab,20,481,Pickup,4WD,large pickups,0
+Ram 1500 Crew Cab short bed,7,482,Pickup,4WD,large pickups,0
+Chevrolet Silverado 1500 Crew Cab,20,481,Pickup,2WD,large pickups,0
+GMC Sierra 1500 Crew Cab,23,481,Pickup,4WD,large pickups,0
+Ford F-150 SuperCrew,12,481,Pickup,4WD,large pickups,0
+Ram 1500 Quad Cab,7,482,Pickup,4WD,large pickups,0
+Ram 1500 Classic Quad Cab,7,482,Pickup,4WD,large pickups,0
+Ram 1500 Crew Cab short bed,7,482,Pickup,2WD,large pickups,0
+Toyota Tundra Crew Max,49,482,Pickup,4WD,large pickups,0
+Chevrolet Silverado 1500 Crew Cab,20,481,Pickup,4WD,large pickups,0
+Ram 2500 Mega Cab,7,880,Pickup,4WD,very large pickups,0
+Ford F-250 SuperCab,12,880,Pickup,4WD,very large pickups,0
+Ford F-350 Crew Cab,12,880,Pickup,4WD,very large pickups,0
+Ram 3500 Crew Cab long bed,7,880,Pickup,4WD,very large pickups,0
+Ram 2500 Crew Cab long bed,7,880,Pickup,4WD,very large pickups,0
+Ford F-250 Crew Cab,12,880,Pickup,4WD,very large pickups,0
+Ram 2500 Crew Cab short bed,7,880,Pickup,4WD,very large pickups,0
+Jeep Renegade,2,408,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Honda CR-V,37,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Jeep Compass,2,1,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Nissan Rogue,35,51,Crossover Utility Vehicle [CUV],4WD,small SUVs,0
+Chevrolet Equinox,20,404,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Nissan Rogue,35,51,Crossover Utility Vehicle [CUV],2WD,small SUVs,0
+Chevrolet Trax,20,406,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Ford EcoSport,12,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Honda HR-V,37,404,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Jeep Compass,2,1,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Toyota RAV4,49,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Mitsubishi Outlander Sport,52,47,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Chevrolet Trax,20,406,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Subaru Forester,48,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],NAN,small SUVs,0
+Honda HR-V,37,404,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Toyota RAV4 hybrid,49,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Ford EcoSport,12,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Hyundai Santa Fe,55,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Chevrolet Equinox,20,404,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Ford Escape,12,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Toyota C-HR,49,405,Crossover Utility Vehicle [CUV],NAN,small SUVs,0
+Hyundai Santa Fe,55,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Hyundai Tucson,55,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Hyundai Tucson,55,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Mitsubishi Outlander Sport,52,47,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Mitsubishi Outlander,52,47,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Jeep Renegade,2,408,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Toyota RAV4,49,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Mitsubishi Outlander,52,47,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Jeep Grand Cherokee,2,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Honda Pilot,37,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Chevrolet Traverse,20,423,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+GMC Acadia,23,423,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Nissan Murano,35,49,Crossover Utility Vehicle [CUV],2WD,midsize SUVs,0
+Subaru Ascent,48,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],NAN,midsize SUVs,0
+Buick Enclave,18,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Nissan Murano,35,49,Crossover Utility Vehicle [CUV],4WD,midsize SUVs,0
+Jeep Grand Cherokee,2,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Honda Pilot,37,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Kia Sorento,63,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Nissan Pathfinder,35,401,Crossover Utility Vehicle [CUV],2WD,midsize SUVs,0
+GMC Acadia,23,423,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Dodge Journey,7,27,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Ford Explorer,12,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Chevrolet Traverse,20,423,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Buick Enclave,18,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Jeep Cherokee,2,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Volkswagen Atlas,30,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Nissan Pathfinder,35,401,Crossover Utility Vehicle [CUV],4WD,midsize SUVs,0
+Ford Edge,12,24,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Chevrolet Blazer,20,498,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Kia Sorento,63,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Jeep Cherokee,2,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Jeep Wrangler 4-door,2,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Ford Edge,12,24,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Jeep Wrangler 2-door,2,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+GMC Yukon,23,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,large SUVs,0
+GMC Yukon,23,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,large SUVs,0
+Dodge Durango,7,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,large SUVs,0
+Chevrolet Tahoe,20,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,large SUVs,0
+Dodge Durango,7,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,large SUVs,0
+Chevrolet Tahoe,20,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,large SUVs,0
+Chevrolet Suburban 1500,20,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,very large SUVs,0
+Chevrolet Suburban 1500,20,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,very large SUVs,0
+GMC Yukon XL 1500,23,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,very large SUVs,0
+Buick Encore,18,404,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small luxury SUVs,1
+Mercedes-Benz GLA Class,42,55,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small luxury SUVs,1
+Buick Encore,18,404,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small luxury SUVs,1
+Volvo XC60,51,50,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+BMW X3,34,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Lexus RX 350,59,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize luxury SUVs,1
+Lexus RX 350,59,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Acura MDX,54,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize luxury SUVs,1
+Lexus NX 300,59,405,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Volvo XC90,51,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Acura RDX,54,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Lexus RX 450h,59,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Audi Q5,32,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Buick Envision,18,405,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+BMW X5,34,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Buick Envision,18,405,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize luxury SUVs,1
+Porsche Macan,45,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],NAN,midsize luxury SUVs,1
+Acura MDX,54,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Lexus NX 300,59,405,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize luxury SUVs,1
+Cadillac Escalade,19,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,large luxury SUVs,1
+Cadillac Escalade ESV,19,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,very large luxury SUVs,1
+Lincoln MKZ,13,13,Sedan/Saloon,2WD,midsize luxury cars,1
+Lexus CT 200h,59,38,Hatchback/Liftback/Notchback,NAN,midsize luxury cars,1
+Infiniti Q50,58,41,Sedan/Saloon,4WD,midsize luxury cars,1
+BMW 320i,34,34,Sedan/Saloon,2WD,midsize luxury cars,1
+Infiniti Q50,58,41,Sedan/Saloon,2WD,midsize luxury cars,1
+Cadillac ATS,19,24,Sedan/Saloon,2WD,midsize luxury cars,1
+Audi A6,32,42,Sedan/Saloon,4WD,large luxury cars,1
+Cadillac XTS,19,23,Sedan/Saloon,2WD,very large luxury cars,1
+Chevrolet Corvette coupe,20,4,Coupe,NAN,midsize sports cars,0
+Ford Fiesta,12,32,Hatchback/Liftback/Notchback,NAN,mini station wagons/minivans,0
+Fiat 500L,36,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],NAN,small station wagons/minivans,0
+Nissan Versa Note,35,50,Sedan/Saloon,NAN,small station wagons/minivans,0
+Ford C-Max hybrid,12,27,Hatchback/Liftback/Notchback,NAN,small station wagons/minivans,0
+Ford Focus,12,37,Hatchback/Liftback/Notchback,NAN,small station wagons/minivans,0
+Toyota Prius v,49,46,Hatchback/Liftback/Notchback,NAN,small station wagons/minivans,0
+Chrysler Pacifica,6,443,Minivan,NAN,very large station wagons/minivans,0
+Toyota Sienna,49,442,Minivan,4WD,very large station wagons/minivans,0
+Ford F-150,12,481,Pickup,2WD,large pickups,0
+Chevrolet Silverado 1500 Extended Cab,20,481,Pickup,2WD,large pickups,0
+Toyota Tundra Double Cab short bed,49,482,Pickup,2WD,large pickups,0
+Ram 1500 short bed,7,482,Pickup,2WD,large pickups,0
+GMC Sierra 1500 Extended Cab,23,481,Pickup,2WD,large pickups,0
+GMC Sierra 1500 Extended Cab,23,481,Pickup,4WD,large pickups,0
+Toyota Tundra Crew Max,49,482,Pickup,2WD,large pickups,0
 Chevrolet Silverado 1500,20,481,Pickup,4WD,large pickups,0
-BMW 3 series,34,31,Sedan,2WD,midsize luxury cars,1
-Mercedes-Benz E-Class,42,32,Sedan,2WD,large luxury cars,1
-Audi A6,69,33,Sedan,AWD,large luxury cars,1
-Lexus RX 350,49,421,Sport Utility Vehicle (SUV),AWD,midsize luxury SUVs,1
-Volvo XC90,48,402,Sport Utility Vehicle (SUV),AWD,midsize luxury SUVs,1
+Ford F-150 Crew Cab,12,481,Pickup,4WD,large pickups,0
+GMC Sierra 1500 Crew Cab,23,481,Pickup,2WD,large pickups,0
+Ford F-150 Supercab,12,481,Pickup,2WD,large pickups,0
+Ram 1500 Crew Cab long bed,7,482,Pickup,4WD,large pickups,0
+Chevrolet Silverado 1500,20,481,Pickup,2WD,large pickups,0
+Ford F-150 Crew Cab,12,481,Pickup,2WD,large pickups,0
+Ram 1500 Quad Cab,7,482,Pickup,2WD,large pickups,0
+Ford F250 Crew Cab,12,880,Pickup,4WD,very large pickups,0
+Chevrolet Silverado 3500 Crew Cab,20,880,Pickup,4WD,very large pickups,0
+Chevrolet Silverado 2500 Extended Cab,20,880,Pickup,4WD,very large pickups,0
+GMC Sierra 2500 Crew Cab,23,880,Pickup,4WD,very large pickups,0
+Chevrolet Silverado 2500 Crew Cab,20,880,Pickup,4WD,very large pickups,0
+Subaru Forester,48,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Jeep Patriot,2,407,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Honda CR-V,37,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Ford Escape,12,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Volkswagen Tiguan,30,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,small SUVs,0
+Volkswagen Tiguan,30,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Jeep Patriot,2,407,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small SUVs,0
+Ford Explorer,12,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+GMC Terrain,23,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Ford Flex,12,25,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Hyundai Santa Fe Sport,55,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Hyundai Santa Fe Sport,55,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Dodge Journey,7,27,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Toyota 4Runner,49,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Toyota 4Runner,49,401,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize SUVs,0
+Toyota Highlander,49,403,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+GMC Terrain,23,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize SUVs,0
+Ford Expedition,12,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,large SUVs,0
+Ford Expedition,12,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,large SUVs,0
+Ford Expedition EL,12,422,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,very large SUVs,0
+Land Rover Range Rover Evoque,62,404,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,small luxury SUVs,1
+Infiniti QX60,58,403,Crossover Utility Vehicle [CUV],4WD,midsize luxury SUVs,1
+Lexus NX 200t,59,405,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,midsize luxury SUVs,1
+Lexus NX 200t,59,405,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize luxury SUVs,1
+Infiniti QX60,58,403,Crossover Utility Vehicle [CUV],2WD,midsize luxury SUVs,1
+Acura RDX,54,402,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],2WD,midsize luxury SUVs,1
+Land Rover Range Rover,62,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,large luxury SUVs,1
+Porsche Cayenne,45,421,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,large luxury SUVs,1
+Lexus GX 460,59,404,Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV],4WD,large luxury SUVs,1

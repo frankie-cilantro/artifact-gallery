@@ -1,66 +1,66 @@
 nameplate,drivetrain,class,study_cycle,rate_overall,ci_lo,ci_hi,rating_composite,class_z
-Chevrolet Spark,,mini cars,MY2020,151.0,90.0,212.0,4.0,-0.3619173015546592
-Hyundai Accent,,mini cars,MY2020,152.0,61.0,242.0,3.8333333333333335,-0.33071753417925753
-Mitsubishi Mirage G4,,mini cars,MY2020,205.0,107.0,303.0,4.0,1.322870136717031
-Kia Rio sedan,,mini cars,MY2020,122.0,48.0,197.0,3.8333333333333335,-1.2667105554413076
-Mitsubishi Mirage hatchback,,mini cars,MY2020,183.0,93.0,273.0,3.6,0.6364752544581942
-Honda Civic hatchback,,small cars,MY2020,78.0,26.0,130.0,4.0,0.50214143242028
-Subaru Impreza sedan,,small cars,MY2020,46.0,18.0,74.0,3.5714285714285716,-0.4184511936835667
-Subaru WRX,,small cars,MY2020,38.0,19.0,58.0,4.0,-0.6485993502095284
-Toyota Prius,,small cars,MY2020,45.0,23.0,67.0,3.8333333333333335,-0.4472197132493119
-Chevrolet Sonic,,small cars,MY2020,107.0,50.0,164.0,4.0,1.3364284998268912
-Hyundai Elantra,,small cars,MY2020,103.0,48.0,157.0,4.0,1.2213544215639103
-Chevrolet Bolt,,small cars,MY2020,8.0,0.0,19.0,3.8333333333333335,-1.5116549371818846
-Toyota Corolla,,small cars,MY2020,58.0,31.0,86.0,3.857142857142857,-0.0732289588946242
-Toyota Prius Prime,,small cars,MY2020,23.0,0.0,45.0,3.8333333333333335,-1.0801271436957065
-Kia Forte,,small cars,MY2020,111.0,62.0,160.0,3.5714285714285716,1.4515025780898718
-Honda Civic,,small cars,MY2020,49.0,29.0,69.0,4.0,-0.3321456349863311
-Honda Accord hybrid,,midsize cars,MY2020,45.0,1.0,90.0,3.7142857142857144,-0.44433309426207324
-Toyota Camry,,midsize cars,MY2020,48.0,38.0,59.0,3.5714285714285716,-0.3425774238203771
-Ford Fusion hybrid,,midsize cars,MY2020,25.0,0.0,56.0,4.0,-1.1227042305400476
-Kia Optima,,midsize cars,MY2020,80.0,45.0,115.0,4.0,0.7428163942243818
-Chevrolet Malibu,,midsize cars,MY2020,91.0,73.0,108.0,3.2857142857142856,1.1159205191772676
-Toyota Camry hybrid,,midsize cars,MY2020,19.0,0.0,38.0,3.5714285714285716,-1.3262155714234398
-Ford Fusion,,midsize cars,MY2020,67.0,30.0,104.0,4.0,0.30187515564369855
-Nissan Altima,,midsize cars,MY2020,113.0,75.0,151.0,4.0,1.8621287690830395
-Volkswagen Jetta,,midsize cars,MY2020,47.0,24.0,69.0,3.857142857142857,-0.3764959806342758
-Honda Accord,,midsize cars,MY2020,46.0,34.0,57.0,3.7142857142857144,-0.4104145374481745
+Chevrolet Spark,NAN,mini cars,MY2020,151.0,90.0,212.0,4.0,-0.3619173015546592
+Hyundai Accent,NAN,mini cars,MY2020,152.0,61.0,242.0,3.8333333333333335,-0.33071753417925753
+Mitsubishi Mirage G4,NAN,mini cars,MY2020,205.0,107.0,303.0,4.0,1.322870136717031
+Kia Rio sedan,NAN,mini cars,MY2020,122.0,48.0,197.0,3.8333333333333335,-1.2667105554413076
+Mitsubishi Mirage hatchback,NAN,mini cars,MY2020,183.0,93.0,273.0,3.6,0.6364752544581942
+Honda Civic hatchback,NAN,small cars,MY2020,78.0,26.0,130.0,4.0,0.50214143242028
+Subaru Impreza sedan,NAN,small cars,MY2020,46.0,18.0,74.0,3.5714285714285716,-0.4184511936835667
+Subaru WRX,NAN,small cars,MY2020,38.0,19.0,58.0,4.0,-0.6485993502095284
+Toyota Prius,NAN,small cars,MY2020,45.0,23.0,67.0,3.8333333333333335,-0.4472197132493119
+Chevrolet Sonic,NAN,small cars,MY2020,107.0,50.0,164.0,4.0,1.3364284998268912
+Hyundai Elantra,NAN,small cars,MY2020,103.0,48.0,157.0,4.0,1.2213544215639103
+Chevrolet Bolt,NAN,small cars,MY2020,8.0,0.0,19.0,3.8333333333333335,-1.5116549371818846
+Toyota Corolla,NAN,small cars,MY2020,58.0,31.0,86.0,3.857142857142857,-0.0732289588946242
+Toyota Prius Prime,NAN,small cars,MY2020,23.0,0.0,45.0,3.8333333333333335,-1.0801271436957065
+Kia Forte,NAN,small cars,MY2020,111.0,62.0,160.0,3.5714285714285716,1.4515025780898718
+Honda Civic,NAN,small cars,MY2020,49.0,29.0,69.0,4.0,-0.3321456349863311
+Honda Accord hybrid,NAN,midsize cars,MY2020,45.0,1.0,90.0,3.7142857142857144,-0.44433309426207324
+Toyota Camry,NAN,midsize cars,MY2020,48.0,38.0,59.0,3.5714285714285716,-0.3425774238203771
+Ford Fusion hybrid,NAN,midsize cars,MY2020,25.0,0.0,56.0,4.0,-1.1227042305400476
+Kia Optima,NAN,midsize cars,MY2020,80.0,45.0,115.0,4.0,0.7428163942243818
+Chevrolet Malibu,NAN,midsize cars,MY2020,91.0,73.0,108.0,3.2857142857142856,1.1159205191772676
+Toyota Camry hybrid,NAN,midsize cars,MY2020,19.0,0.0,38.0,3.5714285714285716,-1.3262155714234398
+Ford Fusion,NAN,midsize cars,MY2020,67.0,30.0,104.0,4.0,0.30187515564369855
+Nissan Altima,NAN,midsize cars,MY2020,113.0,75.0,151.0,4.0,1.8621287690830395
+Volkswagen Jetta,NAN,midsize cars,MY2020,47.0,24.0,69.0,3.857142857142857,-0.3764959806342758
+Honda Accord,NAN,midsize cars,MY2020,46.0,34.0,57.0,3.7142857142857144,-0.4104145374481745
 Dodge Charger HEMI,2WD,large cars,MY2020,118.0,72.0,164.0,3.6,0.6901399089822531
 Chrysler 300,4WD,large cars,MY2020,100.0,37.0,164.0,3.6,0.23246817986770624
-Chevrolet Impala,,large cars,MY2020,80.0,55.0,105.0,3.8,-0.2760559635929014
+Chevrolet Impala,NAN,large cars,MY2020,80.0,55.0,105.0,3.8,-0.2760559635929014
 Dodge Charger,4WD,large cars,MY2020,32.0,0.0,67.0,3.6,-1.4965139078983596
 Dodge Challenger,2WD,large cars,MY2020,154.0,116.0,192.0,3.2,1.6054833672113469
 Dodge Charger,2WD,large cars,MY2020,91.0,56.0,126.0,,0.0036323153104328085
 Chrysler 300,2WD,large cars,MY2020,61.0,30.0,92.0,,-0.7591538998804787
 Audi A4,2WD,midsize luxury cars,MY2020,7.0,0.0,21.0,4.0,-0.8307513885470407
 Acura TLX,2WD,midsize luxury cars,MY2020,31.0,0.0,64.0,3.8,0.29076298599146416
-Lexus ES 350,,midsize luxury cars,MY2020,0.0,0.0,29.0,4.0,-1.157859747787438
+Lexus ES 350,NAN,midsize luxury cars,MY2020,0.0,0.0,29.0,4.0,-1.157859747787438
 Audi A4,4WD,midsize luxury cars,MY2020,17.0,0.0,36.0,,-0.36345373248933033
 Tesla Model 3,4WD,midsize luxury cars,MY2020,52.0,9.0,96.0,4.0,1.272088063712656
 Mercedes-Benz C-Class sedan,2WD,midsize luxury cars,MY2020,28.0,5.0,51.0,4.0,0.1505736891741511
 Mercedes-Benz C-Class sedan,4WD,midsize luxury cars,MY2020,9.0,0.0,21.0,,-0.7372918573354986
 Mercedes-Benz CLA-Class,2WD,midsize luxury cars,MY2020,64.0,11.0,117.0,,1.8328452509819084
 Tesla Model 3,2WD,midsize luxury cars,MY2020,15.0,0.0,33.0,,-0.4569132637008724
-Genesis G80,,large luxury cars,MY2020,30.0,0.0,69.0,4.0,0.8501044615977588
+Genesis G80,NAN,large luxury cars,MY2020,30.0,0.0,69.0,4.0,0.8501044615977588
 Mercedes-Benz E-Class sedan,4WD,large luxury cars,MY2020,0.0,0.0,22.0,4.0,-1.3675593512659598
 Mercedes-Benz E-Class sedan,2WD,large luxury cars,MY2020,27.0,5.0,48.0,,0.6283380803113869
 Tesla Model S,4WD,large luxury cars,MY2020,17.0,0.0,33.0,4.0,-0.11088319064318593
-Ford Mustang GT coupe,,midsize sports cars,MY2020,77.0,45.0,109.0,3.8,-0.03507153119159497
-Ford Mustang coupe,,midsize sports cars,MY2020,59.0,31.0,86.0,3.8,-0.9820028733646524
-Ford Mustang convertible,,midsize sports cars,MY2020,97.0,41.0,153.0,,1.0170744045562468
-Chevrolet Camaro coupe,,large sports cars,MY2020,110.0,76.0,145.0,3.8,-0.7071067811865476
-Chevrolet Camaro convertible,,large sports cars,MY2020,113.0,34.0,191.0,3.8,0.7071067811865476
-Honda Fit,,mini station wagons/minivans,MY2020,53.0,25.0,81.0,4.0,0.7071067811865475
-Kia Niro hybrid,,mini station wagons/minivans,MY2020,43.0,15.0,71.0,4.0,-0.7071067811865475
-Kia Soul,,small station wagons/minivans,MY2020,63.0,6.0,120.0,3.9166666666666665,1.1544231106240652
-Subaru XV Crosstrek,,small station wagons/minivans,MY2020,24.0,11.0,37.0,,-0.5552921291609426
-Subaru Impreza wagon,,small station wagons/minivans,MY2020,23.0,8.0,39.0,3.5714285714285716,-0.5991309814631224
-Subaru Outback,,midsize station wagons/minivans,MY2020,5.0,0.0,15.0,4.0,
+Ford Mustang GT coupe,NAN,midsize sports cars,MY2020,77.0,45.0,109.0,3.8,-0.03507153119159497
+Ford Mustang coupe,NAN,midsize sports cars,MY2020,59.0,31.0,86.0,3.8,-0.9820028733646524
+Ford Mustang convertible,NAN,midsize sports cars,MY2020,97.0,41.0,153.0,,1.0170744045562468
+Chevrolet Camaro coupe,NAN,large sports cars,MY2020,110.0,76.0,145.0,3.8,-0.7071067811865476
+Chevrolet Camaro convertible,NAN,large sports cars,MY2020,113.0,34.0,191.0,3.8,0.7071067811865476
+Honda Fit,NAN,mini station wagons/minivans,MY2020,53.0,25.0,81.0,4.0,0.7071067811865475
+Kia Niro hybrid,NAN,mini station wagons/minivans,MY2020,43.0,15.0,71.0,4.0,-0.7071067811865475
+Kia Soul,NAN,small station wagons/minivans,MY2020,63.0,6.0,120.0,3.9166666666666665,1.1544231106240652
+Subaru XV Crosstrek,NAN,small station wagons/minivans,MY2020,24.0,11.0,37.0,,-0.5552921291609426
+Subaru Impreza wagon,NAN,small station wagons/minivans,MY2020,23.0,8.0,39.0,3.5714285714285716,-0.5991309814631224
+Subaru Outback,NAN,midsize station wagons/minivans,MY2020,5.0,0.0,15.0,4.0,
 Chrysler Pacifica,2WD,very large station wagons/minivans,MY2020,20.0,10.0,29.0,4.0,-0.28003993041500846
-Kia Sedona,,very large station wagons/minivans,MY2020,53.0,20.0,87.0,3.909090909090909,1.1639159607873792
+Kia Sedona,NAN,very large station wagons/minivans,MY2020,53.0,20.0,87.0,3.909090909090909,1.1639159607873792
 Toyota Sienna,2WD,very large station wagons/minivans,MY2020,5.0,0.0,13.0,3.5,-0.9363835173251847
-Honda Odyssey,,very large station wagons/minivans,MY2020,6.0,0.0,13.0,4.0,-0.8926272781978396
-Dodge Grand Caravan,,very large station wagons/minivans,MY2020,48.0,34.0,62.0,3.4,0.9451347651506538
+Honda Odyssey,NAN,very large station wagons/minivans,MY2020,6.0,0.0,13.0,4.0,-0.8926272781978396
+Dodge Grand Caravan,NAN,very large station wagons/minivans,MY2020,48.0,34.0,62.0,3.4,0.9451347651506538
 Chevrolet Colorado Crew Cab,4WD,small pickups,MY2020,21.0,10.0,32.0,3.7142857142857144,-0.3998071895918676
 Toyota Tacoma Double Cab long bed,4WD,small pickups,MY2020,6.0,0.0,18.0,3.5714285714285716,-1.256536881574441
 Toyota Tacoma Double Cab short bed,4WD,small pickups,MY2020,24.0,13.0,35.0,3.5714285714285716,-0.22846125119535293
@@ -107,14 +107,14 @@ Jeep Compass,2WD,small SUVs,MY2020,27.0,6.0,48.0,,-0.7778177882551343
 Toyota RAV4,4WD,small SUVs,MY2020,56.0,30.0,83.0,3.6923076923076925,0.6662103793443535
 Mitsubishi Outlander Sport,2WD,small SUVs,MY2020,39.0,13.0,64.0,3.6363636363636362,-0.18028889131741518
 Chevrolet Trax,4WD,small SUVs,MY2020,59.0,26.0,91.0,,0.8155926035787833
-Subaru Forester,,small SUVs,MY2020,30.0,13.0,48.0,3.769230769230769,-0.6284355640207044
+Subaru Forester,NAN,small SUVs,MY2020,30.0,13.0,48.0,3.769230769230769,-0.6284355640207044
 Honda HR-V,4WD,small SUVs,MY2020,31.0,14.0,48.0,,-0.5786414892758945
 Toyota RAV4 hybrid,4WD,small SUVs,MY2020,20.0,0.0,40.0,3.0,-1.1263763114688037
 Ford EcoSport,4WD,small SUVs,MY2020,67.0,29.0,104.0,,1.2139452015372627
 Hyundai Santa Fe,2WD,small SUVs,MY2020,17.0,0.0,39.0,3.9166666666666665,-1.2757585357032335
 Chevrolet Equinox,2WD,small SUVs,MY2020,49.0,17.0,80.0,,0.31765185613068403
 Ford Escape,4WD,small SUVs,MY2020,43.0,1.0,85.0,3.5384615384615383,0.018887407661824503
-Toyota C-HR,,small SUVs,MY2020,2.0,0.0,7.0,4.0,-2.022669656875382
+Toyota C-HR,NAN,small SUVs,MY2020,2.0,0.0,7.0,4.0,-2.022669656875382
 Hyundai Santa Fe,4WD,small SUVs,MY2020,19.0,0.0,37.0,,-1.1761703862136137
 Hyundai Tucson,4WD,small SUVs,MY2020,40.0,7.0,73.0,3.7142857142857144,-0.13049481657260525
 Hyundai Tucson,2WD,small SUVs,MY2020,60.0,16.0,105.0,,0.8653866783235932
@@ -128,7 +128,7 @@ Honda Pilot,4WD,midsize SUVs,MY2020,13.0,0.0,30.0,3.5714285714285716,-0.68903099
 Chevrolet Traverse,4WD,midsize SUVs,MY2020,6.0,0.0,13.0,3.909090909090909,-1.0947221436371088
 GMC Acadia,2WD,midsize SUVs,MY2020,10.0,2.0,19.0,3.5714285714285716,-0.8628986308668976
 Nissan Murano,2WD,midsize SUVs,MY2020,4.0,0.0,12.0,3.8333333333333335,-1.2106339000222144
-Subaru Ascent,,midsize SUVs,MY2020,6.0,0.0,16.0,4.0,-1.0947221436371088
+Subaru Ascent,NAN,midsize SUVs,MY2020,6.0,0.0,16.0,4.0,-1.0947221436371088
 Buick Enclave,2WD,midsize SUVs,MY2020,38.0,1.0,75.0,3.909090909090909,0.7598659585245814
 Nissan Murano,4WD,midsize SUVs,MY2020,22.0,0.0,43.0,,-0.1674280925562637
 Jeep Grand Cherokee,4WD,midsize SUVs,MY2020,12.0,6.0,17.0,,-0.7469868744817919
@@ -175,7 +175,7 @@ Audi Q5,4WD,midsize luxury SUVs,MY2020,2.0,0.0,6.0,4.0,-0.662270404115308
 Buick Envision,4WD,midsize luxury SUVs,MY2020,36.0,10.0,61.0,4.0,1.8748781862982662
 BMW X5,4WD,midsize luxury SUVs,MY2020,6.0,0.0,19.0,4.0,-0.36378233465488746
 Buick Envision,2WD,midsize luxury SUVs,MY2020,51.0,13.0,88.0,,2.994208446774843
-Porsche Macan,,midsize luxury SUVs,MY2020,6.0,0.0,14.0,,-0.36378233465488746
+Porsche Macan,NAN,midsize luxury SUVs,MY2020,6.0,0.0,14.0,,-0.36378233465488746
 Acura MDX,4WD,midsize luxury SUVs,MY2020,6.0,0.0,16.0,,-0.36378233465488746
 Lexus NX 300,2WD,midsize luxury SUVs,MY2020,6.0,0.0,17.0,,-0.36378233465488746
 Cadillac Escalade,4WD,large luxury SUVs,MY2020,26.0,3.0,48.0,,
@@ -183,7 +183,7 @@ Cadillac Escalade ESV,4WD,very large luxury SUVs,MY2020,27.0,0.0,67.0,,
 Lincoln MKZ,2WD,midsize luxury cars,MY2017,55.0,5.0,106.0,4.0,1.1659729791610802
 Acura TLX,2WD,midsize luxury cars,MY2017,21.0,0.0,42.0,,-0.5090867937182181
 Mercedes-Benz C-Class sedan,2WD,midsize luxury cars,MY2017,28.0,0.0,56.0,,-0.16422154636071548
-Lexus CT 200h,,midsize luxury cars,MY2017,6.0,0.0,19.0,4.0,-1.2480837523414379
+Lexus CT 200h,NAN,midsize luxury cars,MY2017,6.0,0.0,19.0,4.0,-1.2480837523414379
 Infiniti Q50,4WD,midsize luxury cars,MY2017,39.0,8.0,70.0,4.0,0.3777095566296458
 BMW 320i,2WD,midsize luxury cars,MY2017,42.0,4.0,80.0,,0.5255089483542897
 Infiniti Q50,2WD,midsize luxury cars,MY2017,60.0,31.0,90.0,,1.4123052987021536
@@ -191,27 +191,27 @@ Mercedes-Benz C-Class sedan,4WD,midsize luxury cars,MY2017,0.0,0.0,15.0,,-1.5436
 Cadillac ATS,2WD,midsize luxury cars,MY2017,31.0,6.0,56.0,,-0.016422154636071495
 Audi A6,4WD,large luxury cars,MY2017,16.0,0.0,33.0,4.0,
 Cadillac XTS,2WD,very large luxury cars,MY2017,21.0,0.0,41.0,4.0,
-Chevrolet Corvette coupe,,midsize sports cars,MY2017,54.0,20.0,87.0,,-0.3202563076101743
-Ford Mustang coupe,,midsize sports cars,MY2017,45.0,20.0,70.0,,-0.8006407690254357
-Ford Mustang GT coupe,,midsize sports cars,MY2017,81.0,43.0,119.0,,1.1208970766356101
-Chevrolet Camaro coupe,,large sports cars,MY2017,39.0,10.0,69.0,,
-Hyundai Accent,,mini station wagons/minivans,MY2017,81.0,41.0,121.0,,0.9897475249773012
-Ford Fiesta,,mini station wagons/minivans,MY2017,65.0,33.0,97.0,3.6,0.02019892908116913
-Honda Fit,,mini station wagons/minivans,MY2017,48.0,23.0,73.0,,-1.0099464540584713
-Chevrolet Sonic,,small station wagons/minivans,MY2017,74.0,36.0,111.0,,0.8268151344937491
-Fiat 500L,,small station wagons/minivans,MY2017,24.0,0.0,62.0,,-0.8779583386892387
-Kia Soul,,small station wagons/minivans,MY2017,70.0,52.0,87.0,,0.69043325663911
-Nissan Versa Note,,small station wagons/minivans,MY2017,96.0,65.0,127.0,,1.5769154626942636
-Ford C-Max hybrid,,small station wagons/minivans,MY2017,37.0,0.0,78.0,3.8,-0.43471723566166187
-Ford Focus,,small station wagons/minivans,MY2017,60.0,42.0,78.0,3.8,0.3494785620025125
-Toyota Prius v,,small station wagons/minivans,MY2017,19.0,3.0,34.0,4.0,-1.0484356860075374
-Subaru XV Crosstrek,,small station wagons/minivans,MY2017,18.0,7.0,28.0,,-1.0825311554711972
-Subaru Outback,,midsize station wagons/minivans,MY2017,3.0,0.0,6.0,,
-Chrysler Pacifica,,very large station wagons/minivans,MY2017,27.0,0.0,58.0,,0.5002772387238259
-Honda Odyssey,,very large station wagons/minivans,MY2017,8.0,2.0,14.0,,-1.000554477447652
+Chevrolet Corvette coupe,NAN,midsize sports cars,MY2017,54.0,20.0,87.0,,-0.3202563076101743
+Ford Mustang coupe,NAN,midsize sports cars,MY2017,45.0,20.0,70.0,,-0.8006407690254357
+Ford Mustang GT coupe,NAN,midsize sports cars,MY2017,81.0,43.0,119.0,,1.1208970766356101
+Chevrolet Camaro coupe,NAN,large sports cars,MY2017,39.0,10.0,69.0,,
+Hyundai Accent,NAN,mini cars,MY2017,81.0,41.0,121.0,,
+Ford Fiesta,NAN,mini station wagons/minivans,MY2017,65.0,33.0,97.0,3.6,0.7071067811865476
+Honda Fit,NAN,mini station wagons/minivans,MY2017,48.0,23.0,73.0,,-0.7071067811865476
+Chevrolet Sonic,NAN,small cars,MY2017,74.0,36.0,111.0,,
+Fiat 500L,NAN,small station wagons/minivans,MY2017,24.0,0.0,62.0,,-0.7463602251827778
+Kia Soul,NAN,small station wagons/minivans,MY2017,70.0,52.0,87.0,,0.7942038293611611
+Nissan Versa Note,NAN,small station wagons/minivans,MY2017,96.0,65.0,127.0,,1.6649574254077353
+Ford C-Max hybrid,NAN,small station wagons/minivans,MY2017,37.0,0.0,78.0,3.8,-0.31098342715949073
+Ford Focus,NAN,small station wagons/minivans,MY2017,60.0,42.0,78.0,3.8,0.4592986001124787
+Toyota Prius v,NAN,small station wagons/minivans,MY2017,19.0,3.0,34.0,4.0,-0.913812839807119
+Subaru XV Crosstrek,NAN,small station wagons/minivans,MY2017,18.0,7.0,28.0,,-0.9473033627319872
+Subaru Outback,NAN,midsize station wagons/minivans,MY2017,3.0,0.0,6.0,,
+Chrysler Pacifica,NAN,very large station wagons/minivans,MY2017,27.0,0.0,58.0,,0.5002772387238259
+Honda Odyssey,NAN,very large station wagons/minivans,MY2017,8.0,2.0,14.0,,-1.000554477447652
 Toyota Sienna,2WD,very large station wagons/minivans,MY2017,20.0,10.0,31.0,,-0.05266076197092914
-Dodge Grand Caravan,,very large station wagons/minivans,MY2017,41.0,28.0,54.0,,1.6061532401133358
-Kia Sedona,,very large station wagons/minivans,MY2017,21.0,4.0,38.0,,0.02633038098546443
+Dodge Grand Caravan,NAN,very large station wagons/minivans,MY2017,41.0,28.0,54.0,,1.6061532401133358
+Kia Sedona,NAN,very large station wagons/minivans,MY2017,21.0,4.0,38.0,,0.02633038098546443
 Toyota Sienna,4WD,very large station wagons/minivans,MY2017,7.0,0.0,18.0,,-1.0795456204040454
 Nissan Frontier King Cab,2WD,small pickups,MY2017,42.0,10.0,75.0,,0.9855803019806247
 Toyota Tacoma Double Cab short bed,2WD,small pickups,MY2017,29.0,0.0,61.0,,0.09168188855633712
@@ -256,77 +256,77 @@ Ram 3500 Crew Cab long bed,4WD,very large pickups,MY2017,32.0,12.0,52.0,,0.11757
 Ram 2500 Crew Cab long bed,4WD,very large pickups,MY2017,63.0,27.0,99.0,,2.0471320205921213
 GMC Sierra 2500 Crew Cab,4WD,very large pickups,MY2017,22.0,6.0,38.0,3.6,-0.5048670185919758
 Chevrolet Silverado 2500 Crew Cab,4WD,very large pickups,MY2017,17.0,7.0,27.0,3.6,-0.8160864136144267
-Hyundai Tucson,4WD,small SUVs,MY2017,18.0,0.0,47.0,,-0.8747452453528474
-Mitsubishi Outlander Sport,2WD,small SUVs,MY2017,43.0,9.0,77.0,,0.43363439513218066
-Toyota RAV4,2WD,small SUVs,MY2017,28.0,0.0,59.0,,-0.35139338915883617
-Toyota RAV4,4WD,small SUVs,MY2017,10.0,0.0,30.0,,-1.2934267303080564
-Subaru Forester,4WD,small SUVs,MY2017,17.0,10.0,24.0,,-0.9270804309722485
-Jeep Renegade,2WD,small SUVs,MY2017,13.0,0.0,27.0,,-1.136421173449853
-Jeep Patriot,2WD,small SUVs,MY2017,60.0,35.0,85.0,3.4,1.3233325506619997
-Mitsubishi Outlander,2WD,small SUVs,MY2017,55.0,5.0,104.0,,1.0616566225649942
-Nissan Rogue,4WD,small SUVs,MY2017,13.0,7.0,20.0,,-1.136421173449853
-Jeep Compass,2WD,small SUVs,MY2017,55.0,25.0,85.0,,1.0616566225649942
-Hyundai Tucson,2WD,small SUVs,MY2017,61.0,18.0,103.0,,1.375667736281401
-Jeep Renegade,4WD,small SUVs,MY2017,26.0,4.0,48.0,,-0.4560637603976384
-Jeep Wrangler 2-door,4WD,small SUVs,MY2017,46.0,25.0,68.0,,0.590639951990384
-Honda HR-V,4WD,small SUVs,MY2017,9.0,0.0,21.0,,-1.3457619159274574
-Honda CR-V,2WD,small SUVs,MY2017,18.0,0.0,54.0,,-0.8747452453528474
-Mitsubishi Outlander,4WD,small SUVs,MY2017,7.0,0.0,22.0,,-1.4504322871662596
-Ford Escape,2WD,small SUVs,MY2017,29.0,20.0,38.0,,-0.299058203539435
-Volkswagen Tiguan,2WD,small SUVs,MY2017,24.0,3.0,46.0,3.6,-0.5607341316364406
-Mitsubishi Outlander Sport,4WD,small SUVs,MY2017,67.0,12.0,122.0,,1.6896788499978075
-Chevrolet Trax,2WD,small SUVs,MY2017,73.0,32.0,114.0,,2.0036899637142143
-Nissan Rogue,2WD,small SUVs,MY2017,51.0,32.0,70.0,,0.8523158800873897
-Volkswagen Tiguan,4WD,small SUVs,MY2017,29.0,0.0,62.0,,-0.299058203539435
-Honda HR-V,2WD,small SUVs,MY2017,50.0,4.0,95.0,,0.7999806944679885
-Honda CR-V,4WD,small SUVs,MY2017,25.0,0.0,50.0,,-0.5083989460170395
-Ford Escape,4WD,small SUVs,MY2017,24.0,15.0,33.0,,-0.5607341316364406
-Jeep Compass,4WD,small SUVs,MY2017,40.0,15.0,64.0,,0.27662883827397733
-Chevrolet Trax,4WD,small SUVs,MY2017,45.0,2.0,88.0,,0.5383047663709829
-Jeep Patriot,4WD,small SUVs,MY2017,36.0,18.0,54.0,,0.06728809579637282
-Jeep Cherokee,2WD,midsize SUVs,MY2017,26.0,12.0,41.0,,0.12968503438215187
-Jeep Cherokee,4WD,midsize SUVs,MY2017,20.0,10.0,30.0,,-0.41852897459694516
-Kia Sorento,2WD,midsize SUVs,MY2017,32.0,5.0,58.0,,0.677899043361249
-Ford Explorer,2WD,midsize SUVs,MY2017,33.0,8.0,58.0,,0.7692680448577651
-GMC Terrain,2WD,midsize SUVs,MY2017,33.0,16.0,51.0,4.0,0.7692680448577651
-Ford Explorer,4WD,midsize SUVs,MY2017,13.0,2.0,24.0,,-1.0581119850725584
-Ford Edge,2WD,midsize SUVs,MY2017,21.0,2.0,41.0,,-0.327159973100429
-Ford Flex,2WD,midsize SUVs,MY2017,38.0,0.0,75.0,3.8,1.226113052340346
-Nissan Murano,4WD,midsize SUVs,MY2017,19.0,0.0,42.0,,-0.5098979760934613
-Hyundai Santa Fe,4WD,midsize SUVs,MY2017,13.0,0.0,31.0,,-1.0581119850725584
-Jeep Grand Cherokee,2WD,midsize SUVs,MY2017,17.0,3.0,31.0,,-0.6926359790864938
-Hyundai Santa Fe Sport,4WD,midsize SUVs,MY2017,39.0,8.0,69.0,3.8333333333333335,1.3174820538368621
-Honda Pilot,2WD,midsize SUVs,MY2017,17.0,0.0,43.0,,-0.6926359790864938
-Hyundai Santa Fe Sport,2WD,midsize SUVs,MY2017,51.0,24.0,78.0,,2.413910071795056
-Hyundai Santa Fe,2WD,midsize SUVs,MY2017,16.0,0.0,47.0,,-0.7840049805830099
-Jeep Grand Cherokee,4WD,midsize SUVs,MY2017,16.0,10.0,23.0,,-0.7840049805830099
-Dodge Journey,4WD,midsize SUVs,MY2017,23.0,2.0,44.0,,-0.14442197010739666
-Chevrolet Equinox,4WD,midsize SUVs,MY2017,29.0,15.0,43.0,,0.4037920388717004
-Dodge Journey,2WD,midsize SUVs,MY2017,45.0,25.0,65.0,,1.8656960628159593
-Toyota 4Runner,4WD,midsize SUVs,MY2017,13.0,1.0,25.0,3.6,-1.0581119850725584
-Nissan Pathfinder,4WD,midsize SUVs,MY2017,20.0,3.0,37.0,,-0.41852897459694516
-Toyota 4Runner,2WD,midsize SUVs,MY2017,34.0,0.0,67.0,,0.8606370463542813
-Nissan Pathfinder,2WD,midsize SUVs,MY2017,25.0,5.0,45.0,,0.038316032885635704
-Kia Sorento,4WD,midsize SUVs,MY2017,12.0,0.0,25.0,,-1.1494809865690745
-Honda Pilot,4WD,midsize SUVs,MY2017,11.0,0.0,27.0,,-1.2408499880655908
-Nissan Murano,2WD,midsize SUVs,MY2017,19.0,0.0,43.0,,-0.5098979760934613
-Toyota Highlander,4WD,midsize SUVs,MY2017,13.0,0.0,30.0,4.0,-1.0581119850725584
-GMC Terrain,4WD,midsize SUVs,MY2017,18.0,6.0,31.0,,-0.6012669775899775
-Ford Edge,4WD,midsize SUVs,MY2017,20.0,6.0,33.0,,-0.41852897459694516
-Chevrolet Equinox,2WD,midsize SUVs,MY2017,45.0,33.0,57.0,,1.8656960628159593
-Jeep Wrangler 4-door,4WD,midsize SUVs,MY2017,31.0,21.0,41.0,,0.5865300418647328
-GMC Yukon,4WD,large SUVs,MY2017,27.0,0.0,53.0,,0.08375742428256125
-Chevrolet Traverse,2WD,large SUVs,MY2017,27.0,11.0,44.0,,0.08375742428256125
-Buick Enclave,4WD,large SUVs,MY2017,24.0,0.0,49.0,,-0.1675148485651225
-Chevrolet Tahoe,4WD,large SUVs,MY2017,19.0,3.0,35.0,,-0.5863019699779287
-Dodge Durango,4WD,large SUVs,MY2017,15.0,0.0,30.0,,-0.9213316671081737
-GMC Yukon,2WD,large SUVs,MY2017,40.0,0.0,88.0,,1.1726039399558574
-Chevrolet Tahoe,2WD,large SUVs,MY2017,28.0,5.0,51.0,,0.1675148485651225
-Buick Enclave,2WD,large SUVs,MY2017,20.0,2.0,38.0,,-0.5025445456953676
-Chevrolet Traverse,4WD,large SUVs,MY2017,29.0,9.0,49.0,,0.2512722728476838
-Dodge Durango,2WD,large SUVs,MY2017,11.0,0.0,28.0,,-1.2563613642384188
-Ford Expedition,4WD,large SUVs,MY2017,17.0,0.0,36.0,3.0,-0.7538168185430513
-Ford Expedition,2WD,large SUVs,MY2017,55.0,5.0,104.0,,2.4289653041942763
+Hyundai Tucson,4WD,small SUVs,MY2017,18.0,0.0,47.0,,-0.8075721408511185
+Mitsubishi Outlander Sport,2WD,small SUVs,MY2017,43.0,9.0,77.0,,0.5212355219081528
+Toyota RAV4,2WD,small SUVs,MY2017,28.0,0.0,59.0,,-0.27604907574741
+Toyota RAV4,4WD,small SUVs,MY2017,10.0,0.0,30.0,,-1.2327905929340854
+Subaru Forester,4WD,small SUVs,MY2017,17.0,10.0,24.0,,-0.8607244473614895
+Jeep Renegade,2WD,small SUVs,MY2017,13.0,0.0,27.0,,-1.0733336734029728
+Jeep Patriot,2WD,small SUVs,MY2017,60.0,35.0,85.0,3.4,1.4248247325844574
+Mitsubishi Outlander,2WD,small SUVs,MY2017,55.0,5.0,104.0,,1.159063200032603
+Nissan Rogue,4WD,small SUVs,MY2017,13.0,7.0,20.0,,-1.0733336734029728
+Jeep Compass,2WD,small SUVs,MY2017,55.0,25.0,85.0,,1.159063200032603
+Hyundai Tucson,2WD,small SUVs,MY2017,61.0,18.0,103.0,,1.4779770390948281
+Jeep Renegade,4WD,small SUVs,MY2017,26.0,4.0,48.0,,-0.38235368876815173
+Jeep Wrangler 2-door,4WD,midsize SUVs,MY2017,46.0,25.0,68.0,,1.9774765367130058
+Honda HR-V,4WD,small SUVs,MY2017,9.0,0.0,21.0,,-1.2859428994444562
+Honda CR-V,2WD,small SUVs,MY2017,18.0,0.0,54.0,,-0.8075721408511185
+Mitsubishi Outlander,4WD,small SUVs,MY2017,7.0,0.0,22.0,,-1.392247512465198
+Ford Escape,2WD,small SUVs,MY2017,29.0,20.0,38.0,,-0.22289676923703916
+Volkswagen Tiguan,2WD,small SUVs,MY2017,24.0,3.0,46.0,3.6,-0.4886583017888934
+Mitsubishi Outlander Sport,4WD,small SUVs,MY2017,67.0,12.0,122.0,,1.7968908781570534
+Chevrolet Trax,2WD,small SUVs,MY2017,73.0,32.0,114.0,,2.1158047172192784
+Nissan Rogue,2WD,small SUVs,MY2017,51.0,32.0,70.0,,0.9464539739911196
+Volkswagen Tiguan,4WD,small SUVs,MY2017,29.0,0.0,62.0,,-0.22289676923703916
+Honda HR-V,2WD,small SUVs,MY2017,50.0,4.0,95.0,,0.8933016674807488
+Honda CR-V,4WD,small SUVs,MY2017,25.0,0.0,50.0,,-0.4355059952785226
+Ford Escape,4WD,small SUVs,MY2017,24.0,15.0,33.0,,-0.4886583017888934
+Jeep Compass,4WD,small SUVs,MY2017,40.0,15.0,64.0,,0.36177860237704024
+Chevrolet Trax,4WD,small SUVs,MY2017,45.0,2.0,88.0,,0.6275401349288945
+Jeep Patriot,4WD,small SUVs,MY2017,36.0,18.0,54.0,,0.14916937633555682
+Jeep Cherokee,2WD,midsize SUVs,MY2017,26.0,12.0,41.0,,0.08004777584895226
+Jeep Cherokee,4WD,midsize SUVs,MY2017,20.0,10.0,30.0,,-0.4891808524102638
+Kia Sorento,2WD,midsize SUVs,MY2017,32.0,5.0,58.0,,0.6492764041081683
+Ford Explorer,2WD,midsize SUVs,MY2017,33.0,8.0,58.0,,0.7441478421513711
+GMC Terrain,2WD,midsize SUVs,MY2017,33.0,16.0,51.0,4.0,0.7441478421513711
+Ford Explorer,4WD,midsize SUVs,MY2017,13.0,2.0,24.0,,-1.1532809187126827
+Ford Edge,2WD,midsize SUVs,MY2017,21.0,2.0,41.0,,-0.39430941436706113
+Ford Flex,2WD,midsize SUVs,MY2017,38.0,0.0,75.0,3.8,1.2185050323673845
+Nissan Murano,4WD,midsize SUVs,MY2017,19.0,0.0,42.0,,-0.5840522904534665
+Hyundai Santa Fe,4WD,small SUVs,MY2017,13.0,0.0,31.0,,-1.0733336734029728
+Jeep Grand Cherokee,2WD,midsize SUVs,MY2017,17.0,3.0,31.0,,-0.7737951665398719
+Hyundai Santa Fe Sport,4WD,midsize SUVs,MY2017,39.0,8.0,69.0,3.8333333333333335,1.313376470410587
+Honda Pilot,2WD,midsize SUVs,MY2017,17.0,0.0,43.0,,-0.7737951665398719
+Hyundai Santa Fe Sport,2WD,midsize SUVs,MY2017,51.0,24.0,78.0,,2.4518337269290194
+Hyundai Santa Fe,2WD,small SUVs,MY2017,16.0,0.0,47.0,,-0.9138767538718603
+Jeep Grand Cherokee,4WD,midsize SUVs,MY2017,16.0,10.0,23.0,,-0.8686666045830745
+Dodge Journey,4WD,midsize SUVs,MY2017,23.0,2.0,44.0,,-0.2045665382806558
+Chevrolet Equinox,4WD,small SUVs,MY2017,29.0,15.0,43.0,,-0.22289676923703916
+Dodge Journey,2WD,midsize SUVs,MY2017,45.0,25.0,65.0,,1.8826050986698033
+Toyota 4Runner,4WD,midsize SUVs,MY2017,13.0,1.0,25.0,3.6,-1.1532809187126827
+Nissan Pathfinder,4WD,midsize SUVs,MY2017,20.0,3.0,37.0,,-0.4891808524102638
+Toyota 4Runner,2WD,midsize SUVs,MY2017,34.0,0.0,67.0,,0.8390192801945737
+Nissan Pathfinder,2WD,midsize SUVs,MY2017,25.0,5.0,45.0,,-0.01482366219425042
+Kia Sorento,4WD,midsize SUVs,MY2017,12.0,0.0,25.0,,-1.2481523567558852
+Honda Pilot,4WD,midsize SUVs,MY2017,11.0,0.0,27.0,,-1.343023794799088
+Nissan Murano,2WD,midsize SUVs,MY2017,19.0,0.0,43.0,,-0.5840522904534665
+Toyota Highlander,4WD,midsize SUVs,MY2017,13.0,0.0,30.0,4.0,-1.1532809187126827
+GMC Terrain,4WD,midsize SUVs,MY2017,18.0,6.0,31.0,,-0.6789237284966692
+Ford Edge,4WD,midsize SUVs,MY2017,20.0,6.0,33.0,,-0.4891808524102638
+Chevrolet Equinox,2WD,small SUVs,MY2017,45.0,33.0,57.0,,0.6275401349288945
+Jeep Wrangler 4-door,4WD,midsize SUVs,MY2017,31.0,21.0,41.0,,0.5544049660649657
+GMC Yukon,4WD,large SUVs,MY2017,27.0,0.0,53.0,,0.03397577904927681
+Chevrolet Traverse,2WD,midsize SUVs,MY2017,27.0,11.0,44.0,,0.17491921389215495
+Buick Enclave,4WD,midsize SUVs,MY2017,24.0,0.0,49.0,,-0.1096951002374531
+Chevrolet Tahoe,4WD,large SUVs,MY2017,19.0,3.0,35.0,,-0.5096366857391521
+Dodge Durango,4WD,large SUVs,MY2017,15.0,0.0,30.0,,-0.7814429181333666
+GMC Yukon,2WD,large SUVs,MY2017,40.0,0.0,88.0,,0.9173460343304739
+Chevrolet Tahoe,2WD,large SUVs,MY2017,28.0,5.0,51.0,,0.10192733714783044
+Buick Enclave,2WD,midsize SUVs,MY2017,20.0,2.0,38.0,,-0.4891808524102638
+Chevrolet Traverse,4WD,midsize SUVs,MY2017,29.0,9.0,49.0,,0.3646620899785603
+Dodge Durango,2WD,large SUVs,MY2017,11.0,0.0,28.0,,-1.0532491505275812
+Ford Expedition,4WD,large SUVs,MY2017,17.0,0.0,36.0,3.0,-0.6455398019362594
+Ford Expedition,2WD,large SUVs,MY2017,55.0,5.0,104.0,,1.9366194058087782
 Ford Expedition EL,4WD,very large SUVs,MY2017,16.0,0.0,47.0,,0.3498160710127484
 GMC Yukon XL 1500,4WD,very large SUVs,MY2017,0.0,0.0,20.0,,-1.142732498641645
 Chevrolet Suburban 1500,2WD,very large SUVs,MY2017,25.0,0.0,57.0,,1.1893746414433446
@@ -348,45 +348,45 @@ Land Rover Range Rover,4WD,large luxury SUVs,MY2017,15.0,0.0,45.0,,1.38873014965
 Porsche Cayenne,4WD,large luxury SUVs,MY2017,0.0,0.0,26.0,,-0.9258200997725514
 Lexus GX 460,4WD,large luxury SUVs,MY2017,3.0,0.0,10.0,,-0.4629100498862757
 Cadillac Escalade,4WD,large luxury SUVs,MY2017,6.0,0.0,19.0,,0.0
-BMW 328i,,midsize luxury cars,MY2014,17.0,3.0,49.0,,0.0
+BMW 328i,NAN,midsize luxury cars,MY2014,17.0,3.0,49.0,,0.0
 Mercedes-Benz C-Class sedan,4WD,midsize luxury cars,MY2014,25.0,2.0,48.0,,0.859810402003104
 Mercedes-Benz C-Class sedan,2WD,midsize luxury cars,MY2014,11.0,1.0,20.0,,-0.644857801502328
-Lexus ES 350,,midsize luxury cars,MY2014,31.0,3.0,59.0,,1.504668203505432
+Lexus ES 350,NAN,midsize luxury cars,MY2014,31.0,3.0,59.0,,1.504668203505432
 Audi A4,4WD,midsize luxury cars,MY2014,15.0,3.0,43.0,,-0.214952600500776
-Lexus CT 200h,,midsize luxury cars,MY2014,0.0,0.0,25.0,,-1.827097104256596
+Lexus CT 200h,NAN,midsize luxury cars,MY2014,0.0,0.0,25.0,,-1.827097104256596
 Acura TL,2WD,midsize luxury cars,MY2014,21.0,0.0,45.0,,0.429905201001552
 Volvo S60,2WD,midsize luxury cars,MY2014,16.0,2.0,56.0,,-0.107476300250388
 Mercedes-Benz E-Class sedan,2WD,large luxury cars,MY2014,4.0,0.0,22.0,,-0.2837158914367821
-Hyundai Genesis sedan,,large luxury cars,MY2014,15.0,3.0,44.0,,1.081666836102732
+Hyundai Genesis sedan,NAN,large luxury cars,MY2014,15.0,3.0,44.0,,1.081666836102732
 Audi A6,4WD,large luxury cars,MY2014,0.0,0.0,36.0,,-0.7802187014511509
 BMW 535xi,4WD,large luxury cars,MY2014,0.0,0.0,30.0,,-0.7802187014511509
 BMW 535i/is,2WD,large luxury cars,MY2014,0.0,0.0,28.0,,-0.7802187014511509
 BMW 528i,2WD,large luxury cars,MY2014,20.0,4.0,60.0,,1.702295348620693
 Mercedes-Benz E-Class sedan,4WD,large luxury cars,MY2014,5.0,0.0,26.0,,-0.15959018893318994
-Ford Mustang convertible,,midsize sports cars,MY2014,60.0,5.0,115.0,,0.7395441611851471
-Ford Mustang coupe,,midsize sports cars,MY2014,58.0,28.0,87.0,,0.39821608679200243
-Ford Mustang GT coupe,,midsize sports cars,MY2014,49.0,22.0,76.0,,-1.1377602479771483
-Chevrolet Camaro coupe,,large sports cars,MY2014,55.0,36.0,74.0,,0.7071067811865475
-Chevrolet Camaro convertible,,large sports cars,MY2014,51.0,19.0,83.0,,-0.7071067811865475
-Ford Fiesta,,mini station wagons/minivans,MY2014,63.0,31.0,95.0,,
-Hyundai Accent,,mini station wagons/minivans,MY2014,63.0,18.0,108.0,,
-Ford Focus,,small station wagons/minivans,MY2014,45.0,26.0,64.0,,0.23459633306500932
-Chevrolet Sonic,,small station wagons/minivans,MY2014,54.0,20.0,88.0,,0.5704956281353636
-Subaru XV Crosstrek,4WD,small station wagons/minivans,MY2014,17.0,4.0,51.0,,-0.8104236960427597
-Kia Soul,,small station wagons/minivans,MY2014,82.0,24.0,140.0,,1.6155156572431326
-Scion xB,,small station wagons/minivans,MY2014,51.0,21.0,82.0,,0.45852919644524553
-Subaru Impreza,4WD,small station wagons/minivans,MY2014,12.0,3.0,36.0,,-0.9970344155262898
-Mini Countryman,2WD,small station wagons/minivans,MY2014,10.0,0.0,53.0,,-1.071678703319702
-Toyota Prius v,,midsize station wagons/minivans,MY2014,29.0,2.0,56.0,,1.131370849898476
-Mazda 5,,midsize station wagons/minivans,MY2014,23.0,5.0,66.0,,0.282842712474619
-Subaru Outback,4WD,midsize station wagons/minivans,MY2014,12.0,5.0,20.0,,-1.2727922061357855
-Volkswagen Jetta,,midsize station wagons/minivans,MY2014,20.0,0.0,41.0,,-0.1414213562373095
-Honda Odyssey,,very large station wagons/minivans,MY2014,8.0,1.0,15.0,,-0.820327019508069
-Dodge Grand Caravan,,very large station wagons/minivans,MY2014,35.0,21.0,48.0,,0.6728524991470679
-Chrysler Town & Country,,very large station wagons/minivans,MY2014,22.0,11.0,33.0,,-0.046085787612812804
+Ford Mustang convertible,NAN,midsize sports cars,MY2014,60.0,5.0,115.0,,0.7395441611851471
+Ford Mustang coupe,NAN,midsize sports cars,MY2014,58.0,28.0,87.0,,0.39821608679200243
+Ford Mustang GT coupe,NAN,midsize sports cars,MY2014,49.0,22.0,76.0,,-1.1377602479771483
+Chevrolet Camaro coupe,NAN,large sports cars,MY2014,55.0,36.0,74.0,,0.7071067811865475
+Chevrolet Camaro convertible,NAN,large sports cars,MY2014,51.0,19.0,83.0,,-0.7071067811865475
+Ford Fiesta,NAN,mini station wagons/minivans,MY2014,63.0,31.0,95.0,,
+Hyundai Accent,NAN,mini cars,MY2014,63.0,18.0,108.0,,
+Ford Focus,NAN,small station wagons/minivans,MY2014,45.0,26.0,64.0,,0.3780571259605257
+Chevrolet Sonic,NAN,small cars,MY2014,54.0,20.0,88.0,,
+Subaru XV Crosstrek,4WD,small station wagons/minivans,MY2014,17.0,4.0,51.0,,-0.6958442753186491
+Kia Soul,NAN,small station wagons/minivans,MY2014,82.0,24.0,140.0,,1.7971411205080068
+Scion xB,NAN,small station wagons/minivans,MY2014,51.0,21.0,82.0,,0.6081788548060632
+Subaru Impreza,4WD,small station wagons/minivans,MY2014,12.0,3.0,36.0,,-0.8876123826899303
+Mini Countryman,2WD,small station wagons/minivans,MY2014,10.0,0.0,53.0,,-0.9643196256384428
+Toyota Prius v,NAN,small station wagons/minivans,MY2014,29.0,2.0,56.0,,-0.23560081762757418
+Mazda 5,NAN,midsize station wagons/minivans,MY2014,23.0,5.0,66.0,,0.7071067811865476
+Subaru Outback,4WD,midsize station wagons/minivans,MY2014,12.0,5.0,20.0,,-0.7071067811865476
+Volkswagen Jetta,NAN,midsize cars,MY2014,20.0,0.0,41.0,,
+Honda Odyssey,NAN,very large station wagons/minivans,MY2014,8.0,1.0,15.0,,-0.820327019508069
+Dodge Grand Caravan,NAN,very large station wagons/minivans,MY2014,35.0,21.0,48.0,,0.6728524991470679
+Chrysler Town & Country,NAN,very large station wagons/minivans,MY2014,22.0,11.0,33.0,,-0.046085787612812804
 Toyota Sienna,2WD,very large station wagons/minivans,MY2014,9.0,2.0,16.0,,-0.7650240743726935
 Toyota Sienna,4WD,very large station wagons/minivans,MY2014,10.0,1.0,37.0,,-0.7097211292373181
-Nissan Quest,,very large station wagons/minivans,MY2014,53.0,4.0,101.0,,1.668305511583826
+Nissan Quest,NAN,very large station wagons/minivans,MY2014,53.0,4.0,101.0,,1.668305511583826
 Toyota Tacoma Double Cab long bed,4WD,small pickups,MY2014,0.0,0.0,30.0,,-1.5288740400663139
 Nissan Frontier Crew Cab short bed,4WD,small pickups,MY2014,16.0,0.0,31.0,,-0.3640176285872176
 Nissan Frontier Crew Cab short bed,2WD,small pickups,MY2014,42.0,9.0,76.0,,1.5288740400663139
@@ -417,69 +417,69 @@ Ford F350 Crew Cab,4WD,very large pickups,MY2014,13.0,3.0,23.0,,-1.9008900282836
 Chevrolet Silverado 2500 Crew Cab,4WD,very large pickups,MY2014,34.0,18.0,51.0,,0.31681500471394336
 Ram 2500 Crew Cab short bed,4WD,very large pickups,MY2014,44.0,8.0,81.0,,1.3728650204270878
 Ford F250 Crew Cab,4WD,very large pickups,MY2014,35.0,22.0,47.0,,0.4224200062852578
-Hyundai Tucson,2WD,small SUVs,MY2014,26.0,7.0,45.0,,0.0846216024182664
-Kia Sportage,2WD,small SUVs,MY2014,37.0,6.0,69.0,,1.1318139323443126
-Honda CR-V,4WD,small SUVs,MY2014,14.0,6.0,22.0,,-1.0577700302283295
-Jeep Compass,4WD,small SUVs,MY2014,22.0,0.0,43.0,,-0.2961756084639322
-Toyota RAV4,4WD,small SUVs,MY2014,25.0,7.0,43.0,,-0.010577700302283256
-Jeep Wrangler 2-door,4WD,small SUVs,MY2014,35.0,18.0,51.0,,0.9414153269032133
-Ford Escape,4WD,small SUVs,MY2014,19.0,3.0,34.0,,-0.5817735166255812
-Jeep Compass,2WD,small SUVs,MY2014,39.0,3.0,75.0,,1.322212537785412
-Toyota RAV4,2WD,small SUVs,MY2014,13.0,3.0,39.0,,-1.152969332948879
-Mitsubishi Outlander Sport,2WD,small SUVs,MY2014,29.0,6.0,86.0,,0.37021951057991537
-Kia Sportage,4WD,small SUVs,MY2014,13.0,2.0,46.0,,-1.152969332948879
-Ford Escape,2WD,small SUVs,MY2014,30.0,13.0,48.0,,0.46541881330046503
-Hyundai Tucson,4WD,small SUVs,MY2014,41.0,0.0,82.0,,1.5126111432265112
-Mazda CX-5,2WD,small SUVs,MY2014,29.0,6.0,84.0,,0.37021951057991537
-Subaru Forester,4WD,small SUVs,MY2014,28.0,3.0,53.0,,0.2750202078593657
-Volkswagen Tiguan,4WD,small SUVs,MY2014,30.0,3.0,56.0,,0.46541881330046503
-Honda CR-V,2WD,small SUVs,MY2014,22.0,8.0,36.0,,-0.2961756084639322
-Volkswagen Tiguan,2WD,small SUVs,MY2014,0.0,0.0,25.0,,-2.3905602683160248
-Toyota Venza,4WD,midsize SUVs,MY2014,7.0,0.0,36.0,,-1.011370634668019
-Hyundai Santa Fe Sport,2WD,midsize SUVs,MY2014,23.0,2.0,44.0,,0.2241954608869992
-Ford Explorer,2WD,midsize SUVs,MY2014,27.0,9.0,45.0,,0.5330869847757538
-Honda Pilot,4WD,midsize SUVs,MY2014,15.0,5.0,25.0,,-0.3935875868905099
-Nissan Murano,2WD,midsize SUVs,MY2014,43.0,17.0,69.0,,1.7686530803307718
-Mazda CX-9,2WD,midsize SUVs,MY2014,0.0,0.0,30.0,,-1.5519308014733395
-Jeep Grand Cherokee,4WD,midsize SUVs,MY2014,16.0,7.0,24.0,,-0.3163647059183212
-Dodge Journey,4WD,midsize SUVs,MY2014,13.0,2.0,48.0,,-0.5480333488348872
-Nissan Pathfinder,2WD,midsize SUVs,MY2014,18.0,2.0,66.0,,-0.16191894397394396
-Ford Flex,2WD,midsize SUVs,MY2014,45.0,3.0,86.0,,1.9230988422751492
-Toyota 4Runner,4WD,midsize SUVs,MY2014,9.0,2.0,26.0,,-0.8569248727236417
-Toyota Venza,2WD,midsize SUVs,MY2014,11.0,1.0,38.0,,-0.7024791107792644
-Nissan Pathfinder,4WD,midsize SUVs,MY2014,7.0,0.0,41.0,,-1.011370634668019
-Nissan Xterra,4WD,midsize SUVs,MY2014,14.0,2.0,50.0,,-0.47081046786269853
-Dodge Journey,2WD,midsize SUVs,MY2014,21.0,7.0,35.0,,0.06974969894262192
-Nissan Murano,4WD,midsize SUVs,MY2014,10.0,2.0,29.0,,-0.779701991751453
-Jeep Grand Cherokee,2WD,midsize SUVs,MY2014,10.0,2.0,31.0,,-0.779701991751453
-Toyota FJ Cruiser,4WD,midsize SUVs,MY2014,17.0,2.0,63.0,,-0.23914182494613262
-Honda Pilot,2WD,midsize SUVs,MY2014,17.0,3.0,32.0,,-0.23914182494613262
-GMC Terrain,2WD,midsize SUVs,MY2014,53.0,31.0,75.0,,2.5408818900526584
-Chevrolet Captiva Sport,2WD,midsize SUVs,MY2014,39.0,9.0,69.0,,1.4597615564420174
-GMC Terrain,4WD,midsize SUVs,MY2014,32.0,7.0,57.0,,0.919201389636697
-Ford Edge,2WD,midsize SUVs,MY2014,26.0,13.0,39.0,,0.4558641038035651
-Toyota 4Runner,2WD,midsize SUVs,MY2014,19.0,4.0,56.0,,-0.08469606300175533
-Jeep Cherokee,4WD,midsize SUVs,MY2014,0.0,0.0,36.0,,-1.5519308014733395
-Jeep Wrangler 4-door,4WD,midsize SUVs,MY2014,27.0,14.0,41.0,,0.5330869847757538
-Chevrolet Equinox,2WD,midsize SUVs,MY2014,33.0,22.0,44.0,,0.9964242706088855
-Chevrolet Equinox,4WD,midsize SUVs,MY2014,23.0,10.0,35.0,,0.2241954608869992
-Ford Explorer,4WD,midsize SUVs,MY2014,4.0,0.0,9.0,,-1.2430392775845849
-Ford Edge,4WD,midsize SUVs,MY2014,24.0,5.0,43.0,,0.3014183418591878
-Mazda CX-9,4WD,midsize SUVs,MY2014,20.0,4.0,59.0,,-0.007473182029566704
-GMC Yukon,4WD,large SUVs,MY2014,24.0,4.0,44.0,,0.48309065994849243
-Chevrolet Traverse,2WD,large SUVs,MY2014,25.0,9.0,41.0,,0.6157037822872943
-Chevrolet Tahoe,4WD,large SUVs,MY2014,32.0,10.0,54.0,,1.5439956386589073
-Buick Enclave,4WD,large SUVs,MY2014,12.0,2.0,35.0,,-1.10826680811713
-Dodge Durango,4WD,large SUVs,MY2014,16.0,3.0,28.0,,-0.5778143187619225
-GMC Acadia,2WD,large SUVs,MY2014,19.0,2.0,37.0,,-0.1799749517455169
-Dodge Durango,2WD,large SUVs,MY2014,16.0,3.0,46.0,,-0.5778143187619225
-Chevrolet Traverse,4WD,large SUVs,MY2014,20.0,3.0,38.0,,-0.04736182940671502
-Chevrolet Tahoe,2WD,large SUVs,MY2014,9.0,2.0,27.0,,-1.5061061751335356
-Buick Enclave,2WD,large SUVs,MY2014,30.0,7.0,54.0,,1.2787693939813036
-GMC Yukon,2WD,large SUVs,MY2014,29.0,0.0,58.0,,1.1461562716425018
-Ford Expedition,2WD,large SUVs,MY2014,8.0,0.0,47.0,,-1.6387192974723375
-GMC Acadia,4WD,large SUVs,MY2014,22.0,2.0,43.0,,0.2178644152708887
-Ford Expedition,4WD,large SUVs,MY2014,23.0,0.0,46.0,,0.3504775376096906
+Hyundai Tucson,2WD,small SUVs,MY2014,26.0,7.0,45.0,,0.10920594484808767
+Kia Sportage,2WD,small SUVs,MY2014,37.0,6.0,69.0,,1.1960651102409607
+Honda CR-V,4WD,small SUVs,MY2014,14.0,6.0,22.0,,-1.0764585992168647
+Jeep Compass,4WD,small SUVs,MY2014,22.0,0.0,43.0,,-0.2860155698402298
+Toyota RAV4,4WD,small SUVs,MY2014,25.0,7.0,43.0,,0.010400566176008298
+Jeep Wrangler 2-door,4WD,midsize SUVs,MY2014,35.0,18.0,51.0,,1.1998698306730355
+Ford Escape,4WD,small SUVs,MY2014,19.0,3.0,34.0,,-0.5824317058564679
+Jeep Compass,2WD,small SUVs,MY2014,39.0,3.0,75.0,,1.3936758675851193
+Toyota RAV4,2WD,small SUVs,MY2014,13.0,3.0,39.0,,-1.175263977888944
+Mitsubishi Outlander Sport,2WD,small SUVs,MY2014,29.0,6.0,86.0,,0.4056220808643258
+Kia Sportage,4WD,small SUVs,MY2014,13.0,2.0,46.0,,-1.175263977888944
+Ford Escape,2WD,small SUVs,MY2014,30.0,13.0,48.0,,0.5044274595364051
+Hyundai Tucson,4WD,small SUVs,MY2014,41.0,0.0,82.0,,1.591286624929278
+Mazda CX-5,2WD,small SUVs,MY2014,29.0,6.0,84.0,,0.4056220808643258
+Subaru Forester,4WD,small SUVs,MY2014,28.0,3.0,53.0,,0.3068167021922464
+Volkswagen Tiguan,4WD,small SUVs,MY2014,30.0,3.0,56.0,,0.5044274595364051
+Honda CR-V,2WD,small SUVs,MY2014,22.0,8.0,36.0,,-0.2860155698402298
+Volkswagen Tiguan,2WD,small SUVs,MY2014,0.0,0.0,25.0,,-2.459733900625976
+Toyota Venza,4WD,midsize SUVs,MY2014,7.0,0.0,36.0,,-1.0821467529466247
+Hyundai Santa Fe Sport,2WD,midsize SUVs,MY2014,23.0,2.0,44.0,,0.22186272340746688
+Ford Explorer,2WD,midsize SUVs,MY2014,27.0,9.0,45.0,,0.5478650924959898
+Honda Pilot,4WD,midsize SUVs,MY2014,15.0,5.0,25.0,,-0.43014201476957886
+Nissan Murano,2WD,midsize SUVs,MY2014,43.0,17.0,69.0,,1.8518745688500813
+Mazda CX-9,2WD,midsize SUVs,MY2014,0.0,0.0,30.0,,-1.6526508988515396
+Jeep Grand Cherokee,4WD,midsize SUVs,MY2014,16.0,7.0,24.0,,-0.3486414224974481
+Dodge Journey,4WD,midsize SUVs,MY2014,13.0,2.0,48.0,,-0.5931431993138403
+Nissan Pathfinder,2WD,midsize SUVs,MY2014,18.0,2.0,66.0,,-0.1856402379531867
+Ford Flex,2WD,midsize SUVs,MY2014,45.0,3.0,86.0,,2.014875753394343
+Toyota 4Runner,4WD,midsize SUVs,MY2014,9.0,2.0,26.0,,-0.9191455684023632
+Toyota Venza,2WD,midsize SUVs,MY2014,11.0,1.0,38.0,,-0.7561443838581017
+Nissan Pathfinder,4WD,midsize SUVs,MY2014,7.0,0.0,41.0,,-1.0821467529466247
+Nissan Xterra,4WD,midsize SUVs,MY2014,14.0,2.0,50.0,,-0.5116426070417096
+Dodge Journey,2WD,midsize SUVs,MY2014,21.0,7.0,35.0,,0.058861538863205456
+Nissan Murano,4WD,midsize SUVs,MY2014,10.0,2.0,29.0,,-0.8376449761302325
+Jeep Grand Cherokee,2WD,midsize SUVs,MY2014,10.0,2.0,31.0,,-0.8376449761302325
+Toyota FJ Cruiser,4WD,midsize SUVs,MY2014,17.0,2.0,63.0,,-0.2671408302253174
+Honda Pilot,2WD,midsize SUVs,MY2014,17.0,3.0,32.0,,-0.2671408302253174
+GMC Terrain,2WD,midsize SUVs,MY2014,53.0,31.0,75.0,,2.6668804915713884
+Chevrolet Captiva Sport,2WD,midsize SUVs,MY2014,39.0,9.0,69.0,,1.5258721997615583
+GMC Terrain,4WD,midsize SUVs,MY2014,32.0,7.0,57.0,,0.9553680538566434
+Ford Edge,2WD,midsize SUVs,MY2014,26.0,13.0,39.0,,0.46636450022385906
+Toyota 4Runner,2WD,midsize SUVs,MY2014,19.0,4.0,56.0,,-0.10413964568105598
+Jeep Cherokee,4WD,midsize SUVs,MY2014,0.0,0.0,36.0,,-1.6526508988515396
+Jeep Wrangler 4-door,4WD,midsize SUVs,MY2014,27.0,14.0,41.0,,0.5478650924959898
+Chevrolet Equinox,2WD,small SUVs,MY2014,33.0,22.0,44.0,,0.8008435955526432
+Chevrolet Equinox,4WD,small SUVs,MY2014,23.0,10.0,35.0,,-0.18721019116815044
+Ford Explorer,4WD,midsize SUVs,MY2014,4.0,0.0,9.0,,-1.3266485297630168
+Ford Edge,4WD,midsize SUVs,MY2014,24.0,5.0,43.0,,0.3033633156795976
+Mazda CX-9,4WD,midsize SUVs,MY2014,20.0,4.0,59.0,,-0.022639053408925264
+GMC Yukon,4WD,large SUVs,MY2014,24.0,4.0,44.0,,0.4954279167555154
+Chevrolet Traverse,2WD,midsize SUVs,MY2014,25.0,9.0,41.0,,0.3848639079517283
+Chevrolet Tahoe,4WD,large SUVs,MY2014,32.0,10.0,54.0,,1.4013532502513149
+Buick Enclave,4WD,midsize SUVs,MY2014,12.0,2.0,35.0,,-0.674643791585971
+Dodge Durango,4WD,large SUVs,MY2014,16.0,3.0,28.0,,-0.41049741674028417
+GMC Acadia,2WD,midsize SUVs,MY2014,19.0,2.0,37.0,,-0.10413964568105598
+Dodge Durango,2WD,large SUVs,MY2014,16.0,3.0,46.0,,-0.41049741674028417
+Chevrolet Traverse,4WD,midsize SUVs,MY2014,20.0,3.0,38.0,,-0.022639053408925264
+Chevrolet Tahoe,2WD,large SUVs,MY2014,9.0,2.0,27.0,,-1.2031820835491087
+Buick Enclave,2WD,midsize SUVs,MY2014,30.0,7.0,54.0,,0.7923668693123819
+GMC Yukon,2WD,large SUVs,MY2014,29.0,0.0,58.0,,1.0616312501903902
+Ford Expedition,2WD,large SUVs,MY2014,8.0,0.0,47.0,,-1.3164227502360837
+GMC Acadia,4WD,midsize SUVs,MY2014,22.0,2.0,43.0,,0.14036213113533616
+Ford Expedition,4WD,large SUVs,MY2014,23.0,0.0,46.0,,0.38218725006854043
 GMC Yukon XL 1500,4WD,very large SUVs,MY2014,11.0,1.0,41.0,,-0.4588314677411235
 Chevrolet Suburban 1500,4WD,very large SUVs,MY2014,39.0,11.0,67.0,,1.1470786693528088
 Chevrolet Suburban 1500,2WD,very large SUVs,MY2014,7.0,0.0,38.0,,-0.6882472016116852
@@ -501,31 +501,31 @@ Porsche Cayenne,4WD,large luxury SUVs,MY2014,9.0,0.0,48.0,,0.6757373783994859
 Lexus IS 250,4WD,midsize luxury cars,MY2011,30.0,0.0,68.0,,1.238988117404558
 Acura TL,2WD,midsize luxury cars,MY2011,5.0,0.0,16.0,,-0.721436118995059
 Mercedes-Benz C-Class,4WD,midsize luxury cars,MY2011,7.0,0.0,18.0,,-0.5646021800830897
-BMW 328i sedan,,midsize luxury cars,MY2011,7.0,0.0,15.0,,-0.5646021800830897
-BMW 328xi sedan,,midsize luxury cars,MY2011,16.0,0.0,42.0,,0.14115054502077248
+BMW 328i sedan,NAN,midsize luxury cars,MY2011,7.0,0.0,15.0,,-0.5646021800830897
+BMW 328xi sedan,NAN,midsize luxury cars,MY2011,16.0,0.0,42.0,,0.14115054502077248
 Audi A4,4WD,midsize luxury cars,MY2011,0.0,0.0,31.0,,-1.1135209662749825
 Lexus IS 250,2WD,midsize luxury cars,MY2011,16.0,0.0,37.0,,0.14115054502077248
 Infiniti G37 coupe,2WD,midsize luxury cars,MY2011,42.0,12.0,72.0,,2.179991750876374
 Mercedes-Benz C-Class,2WD,midsize luxury cars,MY2011,10.0,1.0,20.0,,-0.3293512717151356
-Lexus ES 350,,midsize luxury cars,MY2011,9.0,2.0,16.0,,-0.4077682411711203
-Cadillac DTS,,large luxury cars,MY2011,46.0,22.0,69.0,,0.7071067811865475
+Lexus ES 350,NAN,midsize luxury cars,MY2011,9.0,2.0,16.0,,-0.4077682411711203
+Cadillac DTS,NAN,large luxury cars,MY2011,46.0,22.0,69.0,,0.7071067811865475
 Cadillac CTS sedan,2WD,large luxury cars,MY2011,21.0,0.0,43.0,,-0.7071067811865475
 Lexus LS 460,2WD,very large luxury cars,MY2011,18.0,0.0,55.0,,
-Chevrolet Camaro coupe,,large sports cars,MY2011,80.0,48.0,113.0,,
-Chevrolet Aveo,,mini station wagons/minivans,MY2011,58.0,17.0,100.0,,
-Kia Soul,,small station wagons/minivans,MY2011,32.0,12.0,52.0,,-0.6056813524851214
-Scion xB,,small station wagons/minivans,MY2011,31.0,16.0,47.0,,-0.6642956769191655
+Chevrolet Camaro coupe,NAN,large sports cars,MY2011,80.0,48.0,113.0,,
+Chevrolet Aveo,NAN,mini station wagons/minivans,MY2011,58.0,17.0,100.0,,
+Kia Soul,NAN,small station wagons/minivans,MY2011,32.0,12.0,52.0,,-0.6056813524851214
+Scion xB,NAN,small station wagons/minivans,MY2011,31.0,16.0,47.0,,-0.6642956769191655
 Subaru Impreza,4WD,small station wagons/minivans,MY2011,25.0,0.0,64.0,,-1.0159816235234296
-Nissan Cube,,small station wagons/minivans,MY2011,66.0,14.0,118.0,,1.3872056782723745
-Chevrolet HHR,,small station wagons/minivans,MY2011,61.0,30.0,91.0,,1.0941340561021546
+Nissan Cube,NAN,small station wagons/minivans,MY2011,66.0,14.0,118.0,,1.3872056782723745
+Chevrolet HHR,NAN,small station wagons/minivans,MY2011,61.0,30.0,91.0,,1.0941340561021546
 Dodge Caliber,2WD,small station wagons/minivans,MY2011,39.0,19.0,58.0,,-0.19538108144681346
-Volkswagen Jetta,,midsize station wagons/minivans,MY2011,6.0,0.0,18.0,,
+Volkswagen Jetta,NAN,midsize cars,MY2011,6.0,0.0,18.0,,
 Subaru Outback,4WD,midsize station wagons/minivans,MY2011,6.0,0.0,14.0,,
 Toyota Sienna,2WD,very large station wagons/minivans,MY2011,27.0,0.0,66.0,,0.6923877158526647
-Dodge Grand Caravan,,very large station wagons/minivans,MY2011,27.0,15.0,39.0,,0.6923877158526647
-Kia Sedona,,very large station wagons/minivans,MY2011,16.0,0.0,37.0,,-0.25964539344474924
-Honda Odyssey,,very large station wagons/minivans,MY2011,0.0,0.0,37.0,,-1.6444208251500787
-Chrysler Town & Country,,very large station wagons/minivans,MY2011,25.0,15.0,35.0,,0.5192907868894985
+Dodge Grand Caravan,NAN,very large station wagons/minivans,MY2011,27.0,15.0,39.0,,0.6923877158526647
+Kia Sedona,NAN,very large station wagons/minivans,MY2011,16.0,0.0,37.0,,-0.25964539344474924
+Honda Odyssey,NAN,very large station wagons/minivans,MY2011,0.0,0.0,37.0,,-1.6444208251500787
+Chrysler Town & Country,NAN,very large station wagons/minivans,MY2011,25.0,15.0,35.0,,0.5192907868894985
 Toyota Tacoma Xtra,4WD,small pickups,MY2011,20.0,0.0,44.0,,-0.4173375325965112
 Toyota Tacoma Double short bed,2WD,small pickups,MY2011,19.0,0.0,49.0,,-0.6558161226516604
 Toyota Tacoma Xtra,2WD,small pickups,MY2011,28.0,0.0,71.0,,1.4904911878446827
@@ -547,62 +547,62 @@ Honda Ridgeline,4WD,large pickups,MY2011,13.0,0.0,25.0,,-0.8385146673815773
 Dodge Ram 1500 Crew short bed,2WD,large pickups,MY2011,18.0,0.0,39.0,,-0.5352221281159004
 Ford F-150 Crew,2WD,large pickups,MY2011,19.0,6.0,31.0,,-0.47456362026276505
 Chevrolet Silverado 1500 Ext,4WD,large pickups,MY2011,36.0,8.0,64.0,,0.5566310132405363
-Jeep Patriot,2WD,small SUVs,MY2011,57.0,20.0,95.0,,2.283213743588861
-Ford Escape,4WD,small SUVs,MY2011,35.0,16.0,54.0,,0.6776661796039998
-Nissan Rogue,4WD,small SUVs,MY2011,25.0,7.0,42.0,,-0.05212816766184622
-Jeep Compass,2WD,small SUVs,MY2011,7.0,0.0,20.0,,-1.3657579927403691
-Toyota RAV4,2WD,small SUVs,MY2011,35.0,14.0,55.0,,0.6776661796039998
-Subaru Forester,4WD,small SUVs,MY2011,20.0,7.0,33.0,,-0.4170253412947692
-Nissan Rogue,2WD,small SUVs,MY2011,42.0,16.0,67.0,,1.188522222690092
-Toyota RAV4,4WD,small SUVs,MY2011,19.0,8.0,29.0,,-0.49000477602135384
-Ford Escape,2WD,small SUVs,MY2011,27.0,9.0,46.0,,0.09383070179132298
-Honda CR-V,2WD,small SUVs,MY2011,19.0,8.0,31.0,,-0.49000477602135384
-Honda CR-V,4WD,small SUVs,MY2011,17.0,8.0,26.0,,-0.635963645474523
-Jeep Patriot,4WD,small SUVs,MY2011,11.0,0.0,25.0,,-1.0738402538340306
-Jeep Wrangler 2-door,4WD,small SUVs,MY2011,34.0,15.0,52.0,,0.6046867448774151
-Honda Element,4WD,small SUVs,MY2011,12.0,0.0,30.0,,-1.000860819107446
-Honda Pilot,2WD,midsize SUVs,MY2011,11.0,0.0,34.0,,-0.4278286873000064
-Honda Pilot,4WD,midsize SUVs,MY2011,2.0,0.0,7.0,,-1.1189365667846318
-Toyota Highlander hybrid,4WD,midsize SUVs,MY2011,0.0,0.0,26.0,,-1.2725160955589931
-Nissan Murano,4WD,midsize SUVs,MY2011,21.0,0.0,43.0,,0.34006895657179975
-Jeep Wrangler 4-door,4WD,midsize SUVs,MY2011,21.0,7.0,35.0,,0.34006895657179975
-Toyota Venza,4WD,midsize SUVs,MY2011,13.0,0.0,31.0,,-0.2742491585256452
-Dodge Journey,2WD,midsize SUVs,MY2011,34.0,8.0,61.0,,1.3383358936051477
-Dodge Nitro,4WD,midsize SUVs,MY2011,13.0,0.0,29.0,,-0.2742491585256452
-Nissan Murano,2WD,midsize SUVs,MY2011,25.0,0.0,54.0,,0.6472280141205222
-Jeep Liberty,2WD,midsize SUVs,MY2011,34.0,0.0,73.0,,1.3383358936051477
-Dodge Nitro,2WD,midsize SUVs,MY2011,51.0,0.0,107.0,,2.6437618881872185
-Hyundai Santa Fe,2WD,midsize SUVs,MY2011,16.0,1.0,32.0,,-0.04387986536410333
-Toyota Highlander,4WD,midsize SUVs,MY2011,14.0,0.0,28.0,,-0.19745939413846456
-Mazda CX-9,2WD,midsize SUVs,MY2011,12.0,0.0,29.0,,-0.3510389229128258
-Ford Flex,2WD,midsize SUVs,MY2011,5.0,0.0,15.0,,-0.8885672736230901
-Kia Sorento,2WD,midsize SUVs,MY2011,0.0,0.0,35.0,,-1.2725160955589931
-Toyota FJ Cruiser,4WD,midsize SUVs,MY2011,18.0,0.0,36.0,,0.1096996634102579
-Hyundai Santa Fe,4WD,midsize SUVs,MY2011,12.0,0.0,24.0,,-0.3510389229128258
-Toyota Highlander,2WD,midsize SUVs,MY2011,7.0,0.0,18.0,,-0.7349877448487289
-Ford Edge,4WD,midsize SUVs,MY2011,41.0,12.0,70.0,,1.875864244315412
-Chevrolet Equinox,2WD,midsize SUVs,MY2011,5.0,0.0,12.0,,-0.8885672736230901
-GMC Terrain,2WD,midsize SUVs,MY2011,38.0,0.0,80.0,,1.6454949511538701
-Jeep Grand Cherokee,4WD,midsize SUVs,MY2011,7.0,0.0,21.0,,-0.7349877448487289
-Toyota Venza,2WD,midsize SUVs,MY2011,21.0,0.0,47.0,,0.34006895657179975
-Jeep Liberty,4WD,midsize SUVs,MY2011,19.0,4.0,35.0,,0.18648942779743852
-Chevrolet Equinox,4WD,midsize SUVs,MY2011,5.0,0.0,15.0,,-0.8885672736230901
-Mazda CX-9,4WD,midsize SUVs,MY2011,5.0,0.0,16.0,,-0.8885672736230901
-Ford Edge,2WD,midsize SUVs,MY2011,14.0,3.0,25.0,,-0.19745939413846456
-GMC Acadia,4WD,large SUVs,MY2011,8.0,0.0,18.0,,-0.29191158842847587
-Toyota Sequoia,4WD,large SUVs,MY2011,0.0,0.0,33.0,,-1.2260286713995987
-Buick Enclave,2WD,large SUVs,MY2011,8.0,0.0,16.0,,-0.29191158842847587
-Ford Expedition,2WD,large SUVs,MY2011,36.0,3.0,68.0,,2.977498201970454
-Chevrolet Tahoe,2WD,large SUVs,MY2011,18.0,6.0,30.0,,0.8757347652854276
-Chevrolet Traverse,2WD,large SUVs,MY2011,8.0,0.0,17.0,,-0.29191158842847587
-Buick Enclave,4WD,large SUVs,MY2011,10.0,0.0,29.0,,-0.05838231768569518
-Chevrolet Tahoe,4WD,large SUVs,MY2011,10.0,1.0,18.0,,-0.05838231768569518
-GMC Acadia,2WD,large SUVs,MY2011,15.0,1.0,29.0,,0.5254408591712566
-Chevrolet Traverse,4WD,large SUVs,MY2011,11.0,0.0,24.0,,0.05838231768569518
-GMC Yukon,2WD,large SUVs,MY2011,7.0,0.0,20.0,,-0.40867622379986623
-Ford Expedition,4WD,large SUVs,MY2011,5.0,0.0,15.0,,-0.642205494542647
-GMC Yukon,4WD,large SUVs,MY2011,4.0,0.0,11.0,,-0.7589701299140372
-Nissan Armada,2WD,large SUVs,MY2011,7.0,0.0,21.0,,-0.40867622379986623
+Jeep Patriot,2WD,small SUVs,MY2011,57.0,20.0,95.0,,2.5172087151055886
+Ford Escape,4WD,small SUVs,MY2011,35.0,16.0,54.0,,0.9611160548584974
+Nissan Rogue,4WD,small SUVs,MY2011,25.0,7.0,42.0,,0.2538012092916379
+Jeep Compass,2WD,small SUVs,MY2011,7.0,0.0,20.0,,-1.0193655127287091
+Toyota RAV4,2WD,small SUVs,MY2011,35.0,14.0,55.0,,0.9611160548584974
+Subaru Forester,4WD,small SUVs,MY2011,20.0,7.0,33.0,,-0.09985621349179181
+Nissan Rogue,2WD,small SUVs,MY2011,42.0,16.0,67.0,,1.456236446755299
+Toyota RAV4,4WD,small SUVs,MY2011,19.0,8.0,29.0,,-0.17058769804847776
+Ford Escape,2WD,small SUVs,MY2011,27.0,9.0,46.0,,0.3952641784050098
+Honda CR-V,2WD,small SUVs,MY2011,19.0,8.0,31.0,,-0.17058769804847776
+Honda CR-V,4WD,small SUVs,MY2011,17.0,8.0,26.0,,-0.31205066716184965
+Jeep Patriot,4WD,small SUVs,MY2011,11.0,0.0,25.0,,-0.7364395745019653
+Jeep Wrangler 2-door,4WD,midsize SUVs,MY2011,34.0,15.0,52.0,,1.3493094030522892
+Honda Element,4WD,small SUVs,MY2011,12.0,0.0,30.0,,-0.6657080899452794
+Honda Pilot,2WD,midsize SUVs,MY2011,11.0,0.0,34.0,,-0.4522965976523591
+Honda Pilot,4WD,midsize SUVs,MY2011,2.0,0.0,7.0,,-1.1572728587976562
+Toyota Highlander hybrid,4WD,midsize SUVs,MY2011,0.0,0.0,26.0,,-1.3139342501632778
+Nissan Murano,4WD,midsize SUVs,MY2011,21.0,0.0,43.0,,0.3310103591757489
+Jeep Wrangler 4-door,4WD,midsize SUVs,MY2011,21.0,7.0,35.0,,0.3310103591757489
+Toyota Venza,4WD,midsize SUVs,MY2011,13.0,0.0,31.0,,-0.29563520628673745
+Dodge Journey,2WD,midsize SUVs,MY2011,34.0,8.0,61.0,,1.3493094030522892
+Dodge Nitro,4WD,midsize SUVs,MY2011,13.0,0.0,29.0,,-0.29563520628673745
+Nissan Murano,2WD,midsize SUVs,MY2011,25.0,0.0,54.0,,0.6443331419069921
+Jeep Liberty,2WD,midsize SUVs,MY2011,34.0,0.0,73.0,,1.3493094030522892
+Dodge Nitro,2WD,midsize SUVs,MY2011,51.0,0.0,107.0,,2.680931229660073
+Hyundai Santa Fe,2WD,small SUVs,MY2011,16.0,1.0,32.0,,-0.3827821517185356
+Toyota Highlander,4WD,midsize SUVs,MY2011,14.0,0.0,28.0,,-0.21730451060392666
+Mazda CX-9,2WD,midsize SUVs,MY2011,12.0,0.0,29.0,,-0.37396590196954826
+Ford Flex,2WD,midsize SUVs,MY2011,5.0,0.0,15.0,,-0.9222807717492238
+Kia Sorento,2WD,midsize SUVs,MY2011,0.0,0.0,35.0,,-1.3139342501632778
+Toyota FJ Cruiser,4WD,midsize SUVs,MY2011,18.0,0.0,36.0,,0.0960182721273165
+Hyundai Santa Fe,4WD,small SUVs,MY2011,12.0,0.0,24.0,,-0.6657080899452794
+Toyota Highlander,2WD,midsize SUVs,MY2011,7.0,0.0,18.0,,-0.7656193803836022
+Ford Edge,4WD,midsize SUVs,MY2011,41.0,12.0,70.0,,1.8976242728319648
+Chevrolet Equinox,2WD,small SUVs,MY2011,5.0,0.0,12.0,,-1.160828481842081
+GMC Terrain,2WD,midsize SUVs,MY2011,38.0,0.0,80.0,,1.6626321857835324
+Jeep Grand Cherokee,4WD,midsize SUVs,MY2011,7.0,0.0,21.0,,-0.7656193803836022
+Toyota Venza,2WD,midsize SUVs,MY2011,21.0,0.0,47.0,,0.3310103591757489
+Jeep Liberty,4WD,midsize SUVs,MY2011,19.0,4.0,35.0,,0.17434896781012732
+Chevrolet Equinox,4WD,small SUVs,MY2011,5.0,0.0,15.0,,-1.160828481842081
+Mazda CX-9,4WD,midsize SUVs,MY2011,5.0,0.0,16.0,,-0.9222807717492238
+Ford Edge,2WD,midsize SUVs,MY2011,14.0,3.0,25.0,,-0.21730451060392666
+GMC Acadia,4WD,midsize SUVs,MY2011,8.0,0.0,18.0,,-0.6872886847007914
+Toyota Sequoia,4WD,large SUVs,MY2011,0.0,0.0,33.0,,-0.9522974662324779
+Buick Enclave,2WD,midsize SUVs,MY2011,8.0,0.0,16.0,,-0.6872886847007914
+Ford Expedition,2WD,large SUVs,MY2011,36.0,3.0,68.0,,2.2001355254336556
+Chevrolet Tahoe,2WD,large SUVs,MY2011,18.0,6.0,30.0,,0.623919029600589
+Chevrolet Traverse,2WD,midsize SUVs,MY2011,8.0,0.0,17.0,,-0.6872886847007914
+Buick Enclave,4WD,midsize SUVs,MY2011,10.0,0.0,29.0,,-0.5306272933351699
+Chevrolet Tahoe,4WD,large SUVs,MY2011,10.0,1.0,18.0,,-0.07662163521410742
+GMC Acadia,2WD,midsize SUVs,MY2011,15.0,1.0,29.0,,-0.13897381492111588
+Chevrolet Traverse,4WD,midsize SUVs,MY2011,11.0,0.0,24.0,,-0.4522965976523591
+GMC Yukon,2WD,large SUVs,MY2011,7.0,0.0,20.0,,-0.33932438451961855
+Ford Expedition,4WD,large SUVs,MY2011,5.0,0.0,15.0,,-0.5144595507232926
+GMC Yukon,4WD,large SUVs,MY2011,4.0,0.0,11.0,,-0.6020271338251297
+Nissan Armada,2WD,large SUVs,MY2011,7.0,0.0,21.0,,-0.33932438451961855
 Chevrolet Avalanche 1500,4WD,very large SUVs,MY2011,29.0,5.0,53.0,,0.14744195615489714
 Chevrolet Suburban 1500,2WD,very large SUVs,MY2011,60.0,13.0,107.0,,1.6710088364221676
 Chevrolet Avalanche 1500,2WD,very large SUVs,MY2011,15.0,0.0,36.0,,-0.5406205059012895
@@ -620,45 +620,45 @@ Lincoln MKX,2WD,midsize luxury SUVs,MY2011,20.0,0.0,43.0,,1.629244192269285
 Cadillac Escalade,4WD,large luxury SUVs,MY2011,37.0,0.0,73.0,,1.1414474258498062
 Mercedes-Benz GL-Class,4WD,large luxury SUVs,MY2011,0.0,0.0,22.0,,-0.7217976369344364
 Land Rover Range Rover Sport,4WD,large luxury SUVs,MY2011,6.0,0.0,18.0,,-0.41964978891537
-Saab 9-3 4-door,,midsize luxury cars,MY2008,16.0,8.0,24.0,,-1.0749532939486643
-Acura 3.2 TL,,midsize luxury cars,MY2008,21.0,16.0,26.0,,-0.8220231071372139
-Lexus ES 350,,midsize luxury cars,MY2008,32.0,22.0,42.0,,-0.26557669615202295
-Lincoln Zephyr/MKZ,,midsize luxury cars,MY2008,72.0,53.0,90.0,,1.7578647983395808
-BMW 3 series 4-door,,midsize luxury cars,MY2008,63.0,44.0,81.0,,1.30259046207897
-Lexus IS 250 4-door,,midsize luxury cars,MY2008,33.0,21.0,45.0,,-0.2149906587897329
-Mercedes-Benz CLK-Class convertible,,midsize luxury cars,MY2008,33.0,16.0,50.0,,-0.2149906587897329
+Saab 9-3 4-door,NAN,midsize luxury cars,MY2008,16.0,8.0,24.0,,-1.0749532939486643
+Acura 3.2 TL,NAN,midsize luxury cars,MY2008,21.0,16.0,26.0,,-0.8220231071372139
+Lexus ES 350,NAN,midsize luxury cars,MY2008,32.0,22.0,42.0,,-0.26557669615202295
+Lincoln Zephyr/MKZ,NAN,midsize luxury cars,MY2008,72.0,53.0,90.0,,1.7578647983395808
+BMW 3 series 4-door,NAN,midsize luxury cars,MY2008,63.0,44.0,81.0,,1.30259046207897
+Lexus IS 250 4-door,NAN,midsize luxury cars,MY2008,33.0,21.0,45.0,,-0.2149906587897329
+Mercedes-Benz CLK-Class convertible,NAN,midsize luxury cars,MY2008,33.0,16.0,50.0,,-0.2149906587897329
 Audi A4 4-door,4WD,midsize luxury cars,MY2008,28.0,18.0,38.0,,-0.46792084560118336
-Acura RL,,large luxury cars,MY2008,21.0,10.0,31.0,,0.42566562296071425
+Acura RL,NAN,large luxury cars,MY2008,21.0,10.0,31.0,,0.42566562296071425
 Mercedes-Benz E-Class 4-door,4WD,large luxury cars,MY2008,0.0,0.0,43.0,,-0.8888899773591384
 Audi A6 4-door,4WD,large luxury cars,MY2008,0.0,0.0,28.0,,-0.8888899773591384
-Mercedes-Benz E-Class 4-door,,large luxury cars,MY2008,12.0,7.0,17.0,,-0.1377153486049369
-Cadillac STS V6,,large luxury cars,MY2008,38.0,26.0,49.0,,1.4898296803624997
-BMW 7 series,,very large luxury cars,MY2008,30.0,17.0,43.0,,-0.7071067811865476
-Lincoln Town Car,,very large luxury cars,MY2008,54.0,45.0,63.0,,0.7071067811865476
-Mazda Mx-5 Miata convertible,,mini sports cars,MY2008,83.0,61.0,104.0,,
-Mercedes-Benz SLK-Class convertible,,small sports cars,MY2008,47.0,27.0,67.0,,-0.7071067811865475
-Pontiac Soltice convertible,,small sports cars,MY2008,63.0,45.0,80.0,,0.7071067811865475
-Nissan 350Z 2-door,,midsize sports cars,MY2008,143.0,120.0,166.0,,0.7071067811865475
-Chevrolet Corvette 2-door,,midsize sports cars,MY2008,69.0,56.0,82.0,,-0.7071067811865475
-Honda Fit,,mini station wagons/minivans,MY2008,63.0,49.0,77.0,,0.7071067811865475
-Chevrolet Aveo,,mini station wagons/minivans,MY2008,58.0,44.0,72.0,,-0.7071067811865475
-Dodge Caliber,,small station wagons/minivans,MY2008,39.0,31.0,47.0,,-1.1317995475355502
-Kia Spectra5,,small station wagons/minivans,MY2008,102.0,79.0,125.0,,1.5287740157010046
-Chevrolet HHR,,small station wagons/minivans,MY2008,73.0,63.0,82.0,,0.3040655500841778
-Pontiac Vibe,,small station wagons/minivans,MY2008,61.0,52.0,70.0,,-0.202710366722785
-Toyota Matrix,,small station wagons/minivans,MY2008,54.0,45.0,62.0,,-0.4983296515268466
-Mazda 5,,midsize station wagons/minivans,MY2008,67.0,44.0,89.0,,0.7071067811865475
-Subaru Outback,,midsize station wagons/minivans,MY2008,40.0,34.0,47.0,,-0.7071067811865475
-Dodge Magnum Hemi,,large station wagons/minivans,MY2008,66.0,46.0,87.0,,0.7071067811865476
-Dodge Magnum,,large station wagons/minivans,MY2008,40.0,31.0,48.0,,-0.7071067811865476
-Nissan Quest,,very large station wagons/minivans,MY2008,58.0,46.0,70.0,,1.1296721147692708
-Pontiac Montana SV6,,very large station wagons/minivans,MY2008,28.0,14.0,42.0,,-0.20590082880031044
-Toyota Sienna,,very large station wagons/minivans,MY2008,0.0,0.0,36.0,,-1.4524355761319194
-Chrysler Town & Country,,very large station wagons/minivans,MY2008,28.0,15.0,41.0,,-0.20590082880031044
-Chevrolet Uplander,,very large station wagons/minivans,MY2008,51.0,33.0,68.0,,0.8180384279363685
-Honda Odyssey,,very large station wagons/minivans,MY2008,17.0,14.0,20.0,,-0.6956109081091568
-Kia Sedona,,very large station wagons/minivans,MY2008,16.0,9.0,22.0,,-0.7401300062281428
-Dodge Grand Caravan,,very large station wagons/minivans,MY2008,63.0,42.0,84.0,,1.3522676053642009
+Mercedes-Benz E-Class 4-door,NAN,large luxury cars,MY2008,12.0,7.0,17.0,,-0.1377153486049369
+Cadillac STS V6,NAN,large luxury cars,MY2008,38.0,26.0,49.0,,1.4898296803624997
+BMW 7 series,NAN,very large luxury cars,MY2008,30.0,17.0,43.0,,-0.7071067811865476
+Lincoln Town Car,NAN,very large luxury cars,MY2008,54.0,45.0,63.0,,0.7071067811865476
+Mazda Mx-5 Miata convertible,NAN,mini sports cars,MY2008,83.0,61.0,104.0,,
+Mercedes-Benz SLK-Class convertible,NAN,small sports cars,MY2008,47.0,27.0,67.0,,-0.7071067811865475
+Pontiac Soltice convertible,NAN,small sports cars,MY2008,63.0,45.0,80.0,,0.7071067811865475
+Nissan 350Z 2-door,NAN,midsize sports cars,MY2008,143.0,120.0,166.0,,0.7071067811865475
+Chevrolet Corvette 2-door,NAN,midsize sports cars,MY2008,69.0,56.0,82.0,,-0.7071067811865475
+Honda Fit,NAN,mini station wagons/minivans,MY2008,63.0,49.0,77.0,,0.7071067811865475
+Chevrolet Aveo,NAN,mini station wagons/minivans,MY2008,58.0,44.0,72.0,,-0.7071067811865475
+Dodge Caliber,NAN,small station wagons/minivans,MY2008,39.0,31.0,47.0,,-1.1317995475355502
+Kia Spectra5,NAN,small station wagons/minivans,MY2008,102.0,79.0,125.0,,1.5287740157010046
+Chevrolet HHR,NAN,small station wagons/minivans,MY2008,73.0,63.0,82.0,,0.3040655500841778
+Pontiac Vibe,NAN,small station wagons/minivans,MY2008,61.0,52.0,70.0,,-0.202710366722785
+Toyota Matrix,NAN,small station wagons/minivans,MY2008,54.0,45.0,62.0,,-0.4983296515268466
+Mazda 5,NAN,midsize station wagons/minivans,MY2008,67.0,44.0,89.0,,0.7071067811865475
+Subaru Outback,NAN,midsize station wagons/minivans,MY2008,40.0,34.0,47.0,,-0.7071067811865475
+Dodge Magnum Hemi,NAN,large station wagons/minivans,MY2008,66.0,46.0,87.0,,0.7071067811865476
+Dodge Magnum,NAN,large station wagons/minivans,MY2008,40.0,31.0,48.0,,-0.7071067811865476
+Nissan Quest,NAN,very large station wagons/minivans,MY2008,58.0,46.0,70.0,,1.1296721147692708
+Pontiac Montana SV6,NAN,very large station wagons/minivans,MY2008,28.0,14.0,42.0,,-0.20590082880031044
+Toyota Sienna,NAN,very large station wagons/minivans,MY2008,0.0,0.0,36.0,,-1.4524355761319194
+Chrysler Town & Country,NAN,very large station wagons/minivans,MY2008,28.0,15.0,41.0,,-0.20590082880031044
+Chevrolet Uplander,NAN,very large station wagons/minivans,MY2008,51.0,33.0,68.0,,0.8180384279363685
+Honda Odyssey,NAN,very large station wagons/minivans,MY2008,17.0,14.0,20.0,,-0.6956109081091568
+Kia Sedona,NAN,very large station wagons/minivans,MY2008,16.0,9.0,22.0,,-0.7401300062281428
+Dodge Grand Caravan,NAN,very large station wagons/minivans,MY2008,63.0,42.0,84.0,,1.3522676053642009
 Ford Ranger,2WD,small pickups,MY2008,81.0,71.0,91.0,,1.155605840071201
 Chevrolet Colorado crew cab,2WD,small pickups,MY2008,60.0,50.0,70.0,,0.23893242021352862
 Dodge Dakota extended cab,4WD,small pickups,MY2008,24.0,14.0,35.0,,-1.3325077281139097
@@ -694,96 +694,96 @@ Ford F-150 crew cab,4WD,large pickups,MY2008,40.0,36.0,44.0,,-0.6262307067551538
 Dodge Ram 1500 crew cab,2WD,large pickups,MY2008,49.0,41.0,57.0,,-0.3329033125129628
 Dodge Ram 3500 crew cab,4WD,very large pickups,MY2008,59.0,51.0,68.0,,0.7071067811865476
 Dodge Ram 2500 crew cab,4WD,very large pickups,MY2008,47.0,42.0,53.0,,-0.7071067811865476
-Jeep Wrangler 2-door,4WD,small SUVs,MY2008,20.0,12.0,27.0,,-1.0646016538744023
-Toyota RAV4,2WD,small SUVs,MY2008,34.0,22.0,45.0,,-0.08287318263692939
-Toyota RAV4,4WD,small SUVs,MY2008,33.0,23.0,43.0,,-0.15299664486817746
-Hyundai Tucson,4WD,small SUVs,MY2008,46.0,31.0,62.0,,0.7586083641380473
-Honda CR-V,2WD,small SUVs,MY2008,22.0,14.0,30.0,,-0.9243547294119061
-Honda CR-V,4WD,small SUVs,MY2008,7.0,3.0,11.0,,-1.976206662880627
-Ford Escape,2WD,small SUVs,MY2008,42.0,25.0,58.0,,0.4781145152130551
-Kia Sportage,2WD,small SUVs,MY2008,58.0,45.0,71.0,,1.600089910913024
-Subaru Forester,4WD,small SUVs,MY2008,45.0,37.0,54.0,,0.6884849019067993
-Kia Sportage,4WD,small SUVs,MY2008,41.0,24.0,59.0,,0.40799105298180705
-Hyundai Tucson,2WD,small SUVs,MY2008,39.0,31.0,48.0,,0.2677441285193109
-Dodge Nitro,4WD,midsize SUVs,MY2008,26.0,15.0,38.0,,-0.1869796859812384
-Lexus RX 350,4WD,midsize SUVs,MY2008,25.0,12.0,38.0,,-0.23904997827981114
-Acura MDX,4WD,midsize SUVs,MY2008,11.0,3.0,19.0,,-0.9680340704598295
-Lexus RX 400h,4WD,midsize SUVs,MY2008,12.0,3.0,21.0,,-0.9159637781612567
-Nissan Pathfinder,2WD,midsize SUVs,MY2008,60.0,48.0,72.0,,1.5834102521702347
-Mazda CX-7,4WD,midsize SUVs,MY2008,32.0,18.0,46.0,,0.125442067810198
-Nissan Xterra,2WD,midsize SUVs,MY2008,72.0,55.0,89.0,,2.208253759753107
-Nissan Xterra,4WD,midsize SUVs,MY2008,27.0,17.0,37.0,,-0.13490939368266566
-Volvo XC90,4WD,midsize SUVs,MY2008,28.0,18.0,38.0,,-0.08283910138409294
-Jeep Grand Cherokee,4WD,midsize SUVs,MY2008,11.0,5.0,16.0,,-0.9680340704598295
-Jeep Wrangler 4-door,4WD,midsize SUVs,MY2008,17.0,8.0,26.0,,-0.655612316668393
-Ford Edge,4WD,midsize SUVs,MY2008,0.0,0.0,27.0,,-1.5408072857441295
-BMW X3,4WD,midsize SUVs,MY2008,24.0,15.0,33.0,,-0.29112027057838386
-Nissan Pathfinder,4WD,midsize SUVs,MY2008,31.0,23.0,39.0,,0.07337177551162527
-Mercedes-Benz M Class 4d,4WD,midsize SUVs,MY2008,14.0,7.0,22.0,,-0.8118231935641113
-Ford Edge,2WD,midsize SUVs,MY2008,25.0,15.0,34.0,,-0.23904997827981114
-Honda Pilot,4WD,midsize SUVs,MY2008,20.0,14.0,26.0,,-0.4994014397726748
-Infiniti FX35,4WD,midsize SUVs,MY2008,46.0,22.0,70.0,,0.8544261599902163
-Honda Pilot,2WD,midsize SUVs,MY2008,20.0,13.0,28.0,,-0.4994014397726748
-Subaru B9 Tribeca,4WD,midsize SUVs,MY2008,62.0,39.0,84.0,,1.68755083676738
-Hyundai Santa Fe,2WD,midsize SUVs,MY2008,25.0,16.0,35.0,,-0.23904997827981114
-Cadillac SRX,4WD,midsize SUVs,MY2008,63.0,48.0,78.0,,1.7396211290659527
-Nissan Armada,4WD,large SUVs,MY2008,0.0,0.0,34.0,,-1.2095991875122294
-Cadillac Escalade,4WD,large SUVs,MY2008,33.0,19.0,47.0,,1.3749400836469947
-Nissan Armada,2WD,large SUVs,MY2008,21.0,12.0,29.0,,0.43510762140727677
-Porsche Cayenne,4WD,large SUVs,MY2008,28.0,13.0,43.0,,0.9833432243804455
-Jeep Commander,4WD,large SUVs,MY2008,22.0,15.0,29.0,,0.5134269932605866
-Land Rover Range Rover,4WD,large SUVs,MY2008,22.0,6.0,37.0,,0.5134269932605866
-Land Rover Range Rover Sport,4WD,large SUVs,MY2008,0.0,0.0,33.0,,-1.2095991875122294
-Land Rover LR3,4WD,large SUVs,MY2008,0.0,0.0,26.0,,-1.2095991875122294
-Lexus GX 470,4WD,large SUVs,MY2008,13.0,7.0,20.0,,-0.1914473534192018
-Jaguar X-type,,midsize luxury cars,MY2004,54.0,11.0,97.0,,1.4964079835914184
-BMW 3 series 4-door,,midsize luxury cars,MY2004,35.0,17.0,53.0,,0.1816448997423109
-Volvo S60,,midsize luxury cars,MY2004,34.0,7.0,61.0,,0.11244684269762104
-Mercedes-Benz C-Class,,midsize luxury cars,MY2004,24.0,8.0,40.0,,-0.5795337277492777
-Infiniti G35,,midsize luxury cars,MY2004,11.0,0.0,23.0,,-1.4791084693302459
-BMW 3 series 2-door,,midsize luxury cars,MY2004,35.0,3.0,66.0,,0.1816448997423109
-Lexus ES series,,midsize luxury cars,MY2004,18.0,4.0,33.0,,-0.9947220700174169
-BMW 3 series convertible,,midsize luxury cars,MY2004,48.0,5.0,92.0,,1.0812196413232793
-Lincoln LS,,large luxury cars,MY2004,53.0,26.0,81.0,,0.47444692861829485
-Mercedes-Benz E-Class,,large luxury cars,MY2004,14.0,0.0,31.0,,-1.2217008411921095
-Lexus LS 430,,large luxury cars,MY2004,30.0,12.0,47.0,,-0.525845345885277
-Cadillac CTS,,large luxury cars,MY2004,81.0,34.0,129.0,,1.6921940454052518
-Lexus GS series,,large luxury cars,MY2004,29.0,8.0,49.0,,-0.5693363143419541
+Jeep Wrangler 2-door,4WD,midsize SUVs,MY2008,20.0,12.0,27.0,,-0.5279453449580483
+Toyota RAV4,2WD,small SUVs,MY2008,34.0,22.0,45.0,,-0.11857254700948944
+Toyota RAV4,4WD,small SUVs,MY2008,33.0,23.0,43.0,,-0.19103354795973312
+Hyundai Tucson,4WD,small SUVs,MY2008,46.0,31.0,62.0,,0.7509594643934349
+Honda CR-V,2WD,small SUVs,MY2008,22.0,14.0,30.0,,-0.9881045584124137
+Honda CR-V,4WD,small SUVs,MY2008,7.0,3.0,11.0,,-2.075019572666069
+Ford Escape,2WD,small SUVs,MY2008,42.0,25.0,58.0,,0.4611154605924601
+Kia Sportage,2WD,small SUVs,MY2008,58.0,45.0,71.0,,1.620491475796359
+Subaru Forester,4WD,small SUVs,MY2008,45.0,37.0,54.0,,0.6784984634431912
+Kia Sportage,4WD,small SUVs,MY2008,41.0,24.0,59.0,,0.3886544596422164
+Hyundai Tucson,2WD,small SUVs,MY2008,39.0,31.0,48.0,,0.24373245774172903
+Dodge Nitro,4WD,midsize SUVs,MY2008,26.0,15.0,38.0,,-0.23997515679911288
+Lexus RX 350,4WD,midsize luxury SUVs,MY2008,25.0,12.0,38.0,,0.39852669849304284
+Acura MDX,4WD,midsize luxury SUVs,MY2008,11.0,3.0,19.0,,-1.4612645611411572
+Lexus RX 400h,4WD,midsize SUVs,MY2008,12.0,3.0,21.0,,-0.911905595836629
+Nissan Pathfinder,2WD,midsize SUVs,MY2008,60.0,48.0,72.0,,1.3918559094348548
+Mazda CX-7,4WD,midsize SUVs,MY2008,32.0,18.0,46.0,,0.047995031359822575
+Nissan Xterra,2WD,midsize SUVs,MY2008,72.0,55.0,89.0,,1.9677962857527256
+Nissan Xterra,4WD,midsize SUVs,MY2008,27.0,17.0,37.0,,-0.1919801254392903
+Volvo XC90,4WD,midsize luxury SUVs,MY2008,28.0,18.0,38.0,,0.7970533969860857
+Jeep Grand Cherokee,4WD,midsize SUVs,MY2008,11.0,5.0,16.0,,-0.9599006271964515
+Jeep Wrangler 4-door,4WD,midsize SUVs,MY2008,17.0,8.0,26.0,,-0.671930439037516
+Ford Edge,4WD,midsize SUVs,MY2008,0.0,0.0,27.0,,-1.4878459721544999
+BMW X3,4WD,midsize luxury SUVs,MY2008,24.0,15.0,33.0,,0.2656844656620286
+Nissan Pathfinder,4WD,midsize SUVs,MY2008,31.0,23.0,39.0,,0.0
+Mercedes-Benz M Class 4d,4WD,midsize SUVs,MY2008,14.0,7.0,22.0,,-0.8159155331169838
+Ford Edge,2WD,midsize SUVs,MY2008,25.0,15.0,34.0,,-0.2879701881589355
+Honda Pilot,4WD,midsize SUVs,MY2008,20.0,14.0,26.0,,-0.5279453449580483
+Infiniti FX35,4WD,midsize SUVs,MY2008,46.0,22.0,70.0,,0.7199254703973387
+Honda Pilot,2WD,midsize SUVs,MY2008,20.0,13.0,28.0,,-0.5279453449580483
+Subaru B9 Tribeca,4WD,midsize SUVs,MY2008,62.0,39.0,84.0,,1.4878459721544999
+Hyundai Santa Fe,2WD,small SUVs,MY2008,25.0,16.0,35.0,,-0.7707215555616826
+Cadillac SRX,4WD,midsize SUVs,MY2008,63.0,48.0,78.0,,1.5358410035143224
+Nissan Armada,4WD,large SUVs,MY2008,0.0,0.0,34.0,,-0.8731261537920098
+Cadillac Escalade,4WD,large luxury SUVs,MY2008,33.0,19.0,47.0,,0.9683640522700835
+Nissan Armada,2WD,large SUVs,MY2008,21.0,12.0,29.0,,1.091407692240012
+Porsche Cayenne,4WD,large luxury SUVs,MY2008,28.0,13.0,43.0,,0.06052275326688002
+Jeep Commander,4WD,large SUVs,MY2008,22.0,15.0,29.0,,1.1849569230034416
+Land Rover Range Rover,4WD,large luxury SUVs,MY2008,22.0,6.0,37.0,,-1.0288868055369642
+Land Rover Range Rover Sport,4WD,large SUVs,MY2008,0.0,0.0,33.0,,-0.8731261537920098
+Land Rover LR3,4WD,large SUVs,MY2008,0.0,0.0,26.0,,-0.8731261537920098
+Lexus GX 470,4WD,large SUVs,MY2008,13.0,7.0,20.0,,0.3430138461325752
+Jaguar X-type,NAN,midsize luxury cars,MY2004,54.0,11.0,97.0,,1.4964079835914184
+BMW 3 series 4-door,NAN,midsize luxury cars,MY2004,35.0,17.0,53.0,,0.1816448997423109
+Volvo S60,NAN,midsize luxury cars,MY2004,34.0,7.0,61.0,,0.11244684269762104
+Mercedes-Benz C-Class,NAN,midsize luxury cars,MY2004,24.0,8.0,40.0,,-0.5795337277492777
+Infiniti G35,NAN,midsize luxury cars,MY2004,11.0,0.0,23.0,,-1.4791084693302459
+BMW 3 series 2-door,NAN,midsize luxury cars,MY2004,35.0,3.0,66.0,,0.1816448997423109
+Lexus ES series,NAN,midsize luxury cars,MY2004,18.0,4.0,33.0,,-0.9947220700174169
+BMW 3 series convertible,NAN,midsize luxury cars,MY2004,48.0,5.0,92.0,,1.0812196413232793
+Lincoln LS,NAN,large luxury cars,MY2004,53.0,26.0,81.0,,0.47444692861829485
+Mercedes-Benz E-Class,NAN,large luxury cars,MY2004,14.0,0.0,31.0,,-1.2217008411921095
+Lexus LS 430,NAN,large luxury cars,MY2004,30.0,12.0,47.0,,-0.525845345885277
+Cadillac CTS,NAN,large luxury cars,MY2004,81.0,34.0,129.0,,1.6921940454052518
+Lexus GS series,NAN,large luxury cars,MY2004,29.0,8.0,49.0,,-0.5693363143419541
 Volvo V70 wagon,4WD,large luxury cars,MY2004,26.0,0.0,56.0,,-0.6998092197119852
-Buick Park Avenue,,large luxury cars,MY2004,85.0,49.0,121.0,,1.86615791923196
-Volvo S80,,large luxury cars,MY2004,29.0,0.0,59.0,,-0.5693363143419541
-Cadillac Seville,,large luxury cars,MY2004,30.0,5.0,56.0,,-0.525845345885277
-Volvo V70 wagon,,large luxury cars,MY2004,35.0,0.0,69.0,,-0.30839050360189185
-Cadillac Deville,,large luxury cars,MY2004,51.0,36.0,66.0,,0.38746499170494075
-Lincoln Town Car,,very large luxury cars,MY2004,91.0,44.0,139.0,,1.1470786693528088
-BMW 7 series,,very large luxury cars,MY2004,11.0,0.0,23.0,,-0.6882472016116853
-Mercedes Benz S-Class,,very large luxury cars,MY2004,21.0,5.0,38.0,,-0.4588314677411235
-Mazda MX-5 Miata convertible,,mini sports cars,MY2004,65.0,16.0,115.0,,
-Mitsubishi Eclipse convertible,,small sports cars,MY2004,146.0,78.0,214.0,,
-Chevrolet Corvette,,midsize sports cars,MY2004,81.0,42.0,119.0,,-0.9041148852501625
-Ford Mustang,,midsize sports cars,MY2004,150.0,122.0,177.0,,0.5672041497088282
-Nissan 350Z,,midsize sports cars,MY2004,193.0,110.0,276.0,,1.4841131135238512
-Chevrolet Corvette convertible,,midsize sports cars,MY2004,96.0,40.0,151.0,,-0.5842629211286428
-Ford Mustang convertible,,midsize sports cars,MY2004,97.0,65.0,129.0,,-0.5629394568538748
-Ford Thunderbird convertible,,large sports cars,MY2004,37.0,7.0,67.0,,
-Pontiac Vibe,,small station wagons/minivans,MY2004,62.0,20.0,105.0,,-0.5071664892015529
-Ford Focus wagon,,small station wagons/minivans,MY2004,101.0,54.0,147.0,,0.905654445002773
-Toyota Matrix,,small station wagons/minivans,MY2004,44.0,9.0,79.0,,-1.1592376896035494
-Chrysler PT Cruiser,,small station wagons/minivans,MY2004,97.0,77.0,117.0,,0.7607497338023294
-Volkswagen Passat,,midsize station wagons/minivans,MY2004,37.0,0.0,82.0,,-0.7071067811865476
-Subaru Legacy,,midsize station wagons/minivans,MY2004,50.0,30.0,70.0,,0.7071067811865476
-Chevrolet Venture,,large station wagons/minivans,MY2004,72.0,20.0,123.0,,0.060841163968309055
-Dodge Caravan,,large station wagons/minivans,MY2004,65.0,41.0,89.0,,-0.2585749468653146
-Chevrolet Venture LWB,,large station wagons/minivans,MY2004,63.0,37.0,89.0,,-0.3498366928177785
-Ford Taurus,,large station wagons/minivans,MY2004,91.0,29.0,153.0,,0.9278277505167162
-Mazda MPV,,large station wagons/minivans,MY2004,36.0,10.0,62.0,,-1.5818702631760413
-Oldsmobile Silhouette,,large station wagons/minivans,MY2004,97.0,44.0,149.0,,1.2016129883741078
-Toyota Sienna,,very large station wagons/minivans,MY2004,17.0,0.0,35.0,,-0.6692049433258027
-Kia Sedona,,very large station wagons/minivans,MY2004,35.0,9.0,62.0,,0.2817705024529695
-Chrysler Town & Country,,very large station wagons/minivans,MY2004,54.0,37.0,71.0,,1.2855779174416735
-Dodge Grand Caravan,,very large station wagons/minivans,MY2004,48.0,33.0,62.0,,0.9685861021820827
-Honda Odyssey,,very large station wagons/minivans,MY2004,17.0,6.0,28.0,,-0.6692049433258027
-Chevrolet Astro,,very large station wagons/minivans,MY2004,7.0,0.0,18.0,,-1.1975246354251206
+Buick Park Avenue,NAN,large luxury cars,MY2004,85.0,49.0,121.0,,1.86615791923196
+Volvo S80,NAN,large luxury cars,MY2004,29.0,0.0,59.0,,-0.5693363143419541
+Cadillac Seville,NAN,large luxury cars,MY2004,30.0,5.0,56.0,,-0.525845345885277
+Volvo V70 wagon,NAN,large luxury cars,MY2004,35.0,0.0,69.0,,-0.30839050360189185
+Cadillac Deville,NAN,large luxury cars,MY2004,51.0,36.0,66.0,,0.38746499170494075
+Lincoln Town Car,NAN,very large luxury cars,MY2004,91.0,44.0,139.0,,1.1470786693528088
+BMW 7 series,NAN,very large luxury cars,MY2004,11.0,0.0,23.0,,-0.6882472016116853
+Mercedes Benz S-Class,NAN,very large luxury cars,MY2004,21.0,5.0,38.0,,-0.4588314677411235
+Mazda MX-5 Miata convertible,NAN,mini sports cars,MY2004,65.0,16.0,115.0,,
+Mitsubishi Eclipse convertible,NAN,small sports cars,MY2004,146.0,78.0,214.0,,
+Chevrolet Corvette,NAN,midsize sports cars,MY2004,81.0,42.0,119.0,,-0.9041148852501625
+Ford Mustang,NAN,midsize sports cars,MY2004,150.0,122.0,177.0,,0.5672041497088282
+Nissan 350Z,NAN,midsize sports cars,MY2004,193.0,110.0,276.0,,1.4841131135238512
+Chevrolet Corvette convertible,NAN,midsize sports cars,MY2004,96.0,40.0,151.0,,-0.5842629211286428
+Ford Mustang convertible,NAN,midsize sports cars,MY2004,97.0,65.0,129.0,,-0.5629394568538748
+Ford Thunderbird convertible,NAN,large sports cars,MY2004,37.0,7.0,67.0,,
+Pontiac Vibe,NAN,small station wagons/minivans,MY2004,62.0,20.0,105.0,,-0.5071664892015529
+Ford Focus wagon,NAN,small station wagons/minivans,MY2004,101.0,54.0,147.0,,0.905654445002773
+Toyota Matrix,NAN,small station wagons/minivans,MY2004,44.0,9.0,79.0,,-1.1592376896035494
+Chrysler PT Cruiser,NAN,small station wagons/minivans,MY2004,97.0,77.0,117.0,,0.7607497338023294
+Volkswagen Passat,NAN,midsize station wagons/minivans,MY2004,37.0,0.0,82.0,,-0.7071067811865476
+Subaru Legacy,NAN,midsize station wagons/minivans,MY2004,50.0,30.0,70.0,,0.7071067811865476
+Chevrolet Venture,NAN,large station wagons/minivans,MY2004,72.0,20.0,123.0,,0.060841163968309055
+Dodge Caravan,NAN,large station wagons/minivans,MY2004,65.0,41.0,89.0,,-0.2585749468653146
+Chevrolet Venture LWB,NAN,large station wagons/minivans,MY2004,63.0,37.0,89.0,,-0.3498366928177785
+Ford Taurus,NAN,large station wagons/minivans,MY2004,91.0,29.0,153.0,,0.9278277505167162
+Mazda MPV,NAN,large station wagons/minivans,MY2004,36.0,10.0,62.0,,-1.5818702631760413
+Oldsmobile Silhouette,NAN,large station wagons/minivans,MY2004,97.0,44.0,149.0,,1.2016129883741078
+Toyota Sienna,NAN,very large station wagons/minivans,MY2004,17.0,0.0,35.0,,-0.6692049433258027
+Kia Sedona,NAN,very large station wagons/minivans,MY2004,35.0,9.0,62.0,,0.2817705024529695
+Chrysler Town & Country,NAN,very large station wagons/minivans,MY2004,54.0,37.0,71.0,,1.2855779174416735
+Dodge Grand Caravan,NAN,very large station wagons/minivans,MY2004,48.0,33.0,62.0,,0.9685861021820827
+Honda Odyssey,NAN,very large station wagons/minivans,MY2004,17.0,6.0,28.0,,-0.6692049433258027
+Chevrolet Astro,NAN,very large station wagons/minivans,MY2004,7.0,0.0,18.0,,-1.1975246354251206
 Nissan Frontier,2WD,small pickups,MY2004,67.0,46.0,87.0,,-0.9901688532936641
 Toyota Tacoma,2WD,small pickups,MY2004,96.0,73.0,118.0,,-0.13044140582311758
 Dodge Dakota,4WD,small pickups,MY2004,62.0,41.0,83.0,,-1.1383977235472067
@@ -827,90 +827,90 @@ Ford Escape,4WD,small SUVs,MY2004,65.0,42.0,88.0,,-0.18596464267324558
 Ford Escape,2WD,small SUVs,MY2004,84.0,54.0,115.0,,0.5925653020774614
 Hyundai Santa Fe,2WD,small SUVs,MY2004,47.0,9.0,86.0,,-0.9235193271739154
 Jeep Wrangler,4WD,small SUVs,MY2004,91.0,62.0,120.0,,0.8793921238277219
-Buick Rendezvous,4WD,midsize SUVs,MY2004,51.0,5.0,97.0,,-0.5225890879896534
-Nissan Pathfinder,2WD,midsize SUVs,MY2004,64.0,25.0,102.0,,-0.2552460591801316
-Jeep Grand Cherokee,2WD,midsize SUVs,MY2004,68.0,39.0,98.0,,-0.17298666570027874
-Toyota 4Runner,4WD,midsize SUVs,MY2004,13.0,0.0,28.0,,-1.3040533260482559
-Land Rover Discovery,4WD,midsize SUVs,MY2004,111.0,44.0,177.0,,0.7113018142081396
-Lexus RX 330,4WD,midsize SUVs,MY2004,28.0,7.0,49.0,,-0.9955806004988075
-Isuzu Rodeo,2WD,midsize SUVs,MY2004,131.0,66.0,195.0,,1.1225987816074041
-Nissan Pathfinder,4WD,midsize SUVs,MY2004,36.0,15.0,57.0,,-0.8310618135391017
-Ford Explorer,4WD,midsize SUVs,MY2004,47.0,33.0,62.0,,-0.6048484814695063
-Toyota Highlander,2WD,midsize SUVs,MY2004,30.0,10.0,50.0,,-0.9544509037588811
-Chevrolet Trailblazer,2WD,midsize SUVs,MY2004,102.0,49.0,155.0,,0.5262181788784707
-Chevrolet Blazer,2WD,midsize SUVs,MY2004,123.0,52.0,194.0,,0.9580799946476983
-GMC Envoy,4WD,midsize SUVs,MY2004,88.0,25.0,150.0,,0.23831030169898565
-Mercedes-Benz M-Class,4WD,midsize SUVs,MY2004,14.0,0.0,30.0,,-1.2834884776782924
-Ford Explorer,2WD,midsize SUVs,MY2004,57.0,35.0,79.0,,-0.39919999776987414
-Mitsubishi Montero Sport,4WD,midsize SUVs,MY2004,127.0,61.0,194.0,,1.0403393881275511
-Mitsubishi Montero Sport,2WD,midsize SUVs,MY2004,146.0,84.0,208.0,,1.4310715071568523
-Toyota Highlander,4WD,midsize SUVs,MY2004,14.0,4.0,25.0,,-1.2834884776782924
-Suzuki Grand Vitara XL-7,4WD,midsize SUVs,MY2004,78.0,25.0,131.0,,0.03266181799935345
-Jeep Grand Cherokee,4WD,midsize SUVs,MY2004,57.0,42.0,72.0,,-0.39919999776987414
-Buick Rendezvous,2WD,midsize SUVs,MY2004,76.0,12.0,140.0,,-0.008467878740572986
-Jeep Liberty,2WD,midsize SUVs,MY2004,115.0,57.0,173.0,,0.7935612076879925
-Nissan Xterra,2WD,midsize SUVs,MY2004,82.0,45.0,118.0,,0.11492121147920632
-Nissan Xterra,4WD,midsize SUVs,MY2004,59.0,30.0,89.0,,-0.3580703010299477
-Ford Explorer Sport Trac,4WD,midsize SUVs,MY2004,119.0,71.0,167.0,,0.8758206011678454
-Jeep Liberty,4WD,midsize SUVs,MY2004,46.0,27.0,65.0,,-0.6254133298394695
-Ford Explorer Sport Trac,2WD,midsize SUVs,MY2004,113.0,77.0,149.0,,0.7524315109480662
-Chevrolet Trailblazer,4WD,midsize SUVs,MY2004,108.0,66.0,150.0,,0.6496072690982501
-Chevrolet Blazer,4WD,midsize SUVs,MY2004,119.0,84.0,155.0,,0.8758206011678454
-BMW X5,4WD,midsize SUVs,MY2004,19.0,3.0,35.0,,-1.1806642358284765
-Lexus RX 330,2WD,midsize SUVs,MY2004,18.0,0.0,37.0,,-1.2012290841984397
-Honda Pilot,4WD,midsize SUVs,MY2004,19.0,0.0,38.0,,-1.1806642358284765
-Mercury Mountaineer,4WD,midsize SUVs,MY2004,88.0,42.0,133.0,,0.23831030169898565
-Chevrolet Suburban,4WD,large SUVs,MY2004,66.0,43.0,89.0,,0.7049753699638864
-Chevrolet Suburban,2WD,large SUVs,MY2004,90.0,56.0,124.0,,1.7215922124869156
-Chevrolet Avalanche 1500,4WD,large SUVs,MY2004,21.0,0.0,54.0,,-1.2011812097667933
-Chevrolet Trailblazer EXT,4WD,large SUVs,MY2004,39.0,0.0,79.0,,-0.4387185778745214
-Ford Expedition,2WD,large SUVs,MY2004,49.0,21.0,77.0,,-0.015128226823259235
-Cadillac Escalade,4WD,large SUVs,MY2004,58.0,23.0,93.0,,0.3661030891228767
-Toyota Sequoia,2WD,large SUVs,MY2004,18.0,0.0,40.0,,-1.328258315082172
-Infiniti QX56,4WD,large SUVs,MY2004,21.0,0.0,54.0,,-1.2011812097667933
-Chevrolet Tahoe,4WD,large SUVs,MY2004,51.0,21.0,81.0,,0.0695898433869932
-GMC Yukon,4WD,large SUVs,MY2004,92.0,39.0,145.0,,1.8063102826971682
-Chevrolet Tahoe,2WD,large SUVs,MY2004,60.0,22.0,97.0,,0.45082115933312916
-Ford Expedition,4WD,large SUVs,MY2004,31.0,8.0,54.0,,-0.7775908587155311
-GMC Yukon XL,4WD,large SUVs,MY2004,59.0,2.0,116.0,,0.40846212422800293
-Toyota Sequoia,4WD,large SUVs,MY2004,36.0,9.0,63.0,,-0.5657956831899
+Buick Rendezvous,4WD,midsize SUVs,MY2004,51.0,5.0,97.0,,-0.56221184911643
+Nissan Pathfinder,2WD,midsize SUVs,MY2004,64.0,25.0,102.0,,-0.2930278276086751
+Jeep Grand Cherokee,2WD,midsize SUVs,MY2004,68.0,39.0,98.0,,-0.21020197483705813
+Toyota 4Runner,4WD,midsize SUVs,MY2004,13.0,0.0,28.0,,-1.3490574504467905
+Land Rover Discovery,4WD,midsize SUVs,MY2004,111.0,44.0,177.0,,0.6801759424578235
+Lexus RX 330,4WD,midsize SUVs,MY2004,28.0,7.0,49.0,,-1.0384605025532272
+Isuzu Rodeo,2WD,midsize SUVs,MY2004,131.0,66.0,195.0,,1.0943052063159082
+Nissan Pathfinder,4WD,midsize SUVs,MY2004,36.0,15.0,57.0,,-0.8728087970099934
+Ford Explorer,4WD,midsize SUVs,MY2004,47.0,33.0,62.0,,-0.6450377018880469
+Toyota Highlander,2WD,midsize SUVs,MY2004,30.0,10.0,50.0,,-0.9970475761674188
+Chevrolet Trailblazer,2WD,midsize SUVs,MY2004,102.0,49.0,155.0,,0.49381777372168556
+Chevrolet Blazer,2WD,midsize SUVs,MY2004,123.0,52.0,194.0,,0.9286535007726743
+GMC Envoy,4WD,midsize SUVs,MY2004,88.0,25.0,150.0,,0.2039272890210264
+Mercedes-Benz M-Class,4WD,midsize SUVs,MY2004,14.0,0.0,30.0,,-1.3283509872538863
+Ford Explorer,2WD,midsize SUVs,MY2004,57.0,35.0,79.0,,-0.43797306995900465
+Mitsubishi Montero Sport,4WD,midsize SUVs,MY2004,127.0,61.0,194.0,,1.0114793535442912
+Mitsubishi Montero Sport,2WD,midsize SUVs,MY2004,146.0,84.0,208.0,,1.4049021542094715
+Toyota Highlander,4WD,midsize SUVs,MY2004,14.0,4.0,25.0,,-1.3283509872538863
+Suzuki Grand Vitara XL-7,4WD,midsize SUVs,MY2004,78.0,25.0,131.0,,-0.0031373429080158812
+Jeep Grand Cherokee,4WD,midsize SUVs,MY2004,57.0,42.0,72.0,,-0.43797306995900465
+Buick Rendezvous,2WD,midsize SUVs,MY2004,76.0,12.0,140.0,,-0.044550269293824336
+Jeep Liberty,2WD,midsize SUVs,MY2004,115.0,57.0,173.0,,0.7630017952294404
+Nissan Xterra,2WD,midsize SUVs,MY2004,82.0,45.0,118.0,,0.07968850986360103
+Nissan Xterra,4WD,midsize SUVs,MY2004,59.0,30.0,89.0,,-0.3965601435731962
+Ford Explorer Sport Trac,4WD,midsize SUVs,MY2004,119.0,71.0,167.0,,0.8458276480010574
+Jeep Liberty,4WD,midsize SUVs,MY2004,46.0,27.0,65.0,,-0.6657441650809511
+Ford Explorer Sport Trac,2WD,midsize SUVs,MY2004,113.0,77.0,149.0,,0.721588868843632
+Chevrolet Trailblazer,4WD,midsize SUVs,MY2004,108.0,66.0,150.0,,0.6180565528791109
+Chevrolet Blazer,4WD,midsize SUVs,MY2004,119.0,84.0,155.0,,0.8458276480010574
+BMW X5,4WD,midsize luxury SUVs,MY2004,19.0,3.0,35.0,,
+Lexus RX 330,2WD,midsize SUVs,MY2004,18.0,0.0,37.0,,-1.2455251344822695
+Honda Pilot,4WD,midsize SUVs,MY2004,19.0,0.0,38.0,,-1.2248186712893652
+Mercury Mountaineer,4WD,midsize SUVs,MY2004,88.0,42.0,133.0,,0.2039272890210264
+Chevrolet Suburban,4WD,large SUVs,MY2004,66.0,43.0,89.0,,0.7083186638883086
+Chevrolet Suburban,2WD,large SUVs,MY2004,90.0,56.0,124.0,,1.6905205444800966
+Chevrolet Avalanche 1500,4WD,large SUVs,MY2004,21.0,0.0,54.0,,-1.1333098622212938
+Chevrolet Trailblazer EXT,4WD,large SUVs,MY2004,39.0,0.0,79.0,,-0.39665845177745285
+Ford Expedition,2WD,large SUVs,MY2004,49.0,21.0,77.0,,0.012592331802458775
+Cadillac Escalade,4WD,large luxury SUVs,MY2004,58.0,23.0,93.0,,
+Toyota Sequoia,2WD,large SUVs,MY2004,18.0,0.0,40.0,,-1.2560850972952673
+Infiniti QX56,4WD,large SUVs,MY2004,21.0,0.0,54.0,,-1.1333098622212938
+Chevrolet Tahoe,4WD,large SUVs,MY2004,51.0,21.0,81.0,,0.0944424885184411
+GMC Yukon,4WD,large SUVs,MY2004,92.0,39.0,145.0,,1.7723707011960788
+Chevrolet Tahoe,2WD,large SUVs,MY2004,60.0,22.0,97.0,,0.4627681937403616
+Ford Expedition,4WD,large SUVs,MY2004,31.0,8.0,54.0,,-0.7240590786413822
+GMC Yukon XL,4WD,large SUVs,MY2004,59.0,2.0,116.0,,0.4218431153823704
+Toyota Sequoia,4WD,large SUVs,MY2004,36.0,9.0,63.0,,-0.5194336868514263
 Ford Excursion,4WD,very large SUVs,MY2004,115.0,50.0,180.0,,
-Saab 9-5,,midsize luxury cars,MY2002,46.0,3.0,88.0,,0.5068532453425003
-BMW 3 series,,midsize luxury cars,MY2002,34.0,16.0,52.0,,-1.151939193960229
-Acura TL,,midsize luxury cars,MY2002,47.0,24.0,69.0,,0.6450859486177277
-Lincoln Continental,,large luxury cars,MY2002,46.0,14.0,77.0,,0.27551843011411964
-Cadillac DeVille,,large luxury cars,MY2002,26.0,13.0,40.0,,-0.8516024203527341
-BMW 5 series,,large luxury cars,MY2002,38.0,12.0,64.0,,-0.1753299100726219
-Jaguar S-type,,large luxury cars,MY2002,68.0,14.0,123.0,,1.5153513656276587
-Mercedes E class,,large luxury cars,MY2002,10.0,0.0,22.0,,-1.753299100726217
-Volvo S80,,large luxury cars,MY2002,45.0,14.0,76.0,,0.21916238759077694
-Buick Park Avenue,,large luxury cars,MY2002,60.0,38.0,83.0,,1.0645030254409173
-Lincoln LS,,large luxury cars,MY2002,48.0,21.0,75.0,,0.38823051516080503
-Cadillac Eldorado,,large luxury cars,MY2002,29.0,3.0,54.0,,-0.682534292782706
-Mercedes S class,,very large luxury cars,MY2002,25.0,6.0,44.0,,-0.7071067811865475
-Lincoln Town Car,,very large luxury cars,MY2002,62.0,45.0,79.0,,0.7071067811865475
-Mazda Miata,,mini sports cars,MY2002,80.0,37.0,122.0,,
-BMW Z3 Roadster convertible,,small sports cars,MY2002,58.0,12.0,103.0,,
-Chevrolet Camaro,,midsize sports cars,MY2002,186.0,139.0,233.0,,0.598884066986913
-Ford Mustang,,midsize sports cars,MY2002,140.0,115.0,165.0,,-0.30435091928843117
-Pontiac Firebird,,midsize sports cars,MY2002,205.0,147.0,263.0,,0.9719593874049899
-Ford Mustang convertible,,midsize sports cars,MY2002,91.0,60.0,123.0,,-1.2664925351034717
-Ford Focus,,small station wagons/minivans,MY2002,62.0,25.0,99.0,,
-Subaru Legacy,,midsize station wagons/minivans,MY2002,54.0,28.0,79.0,,
-Ford Taurus,,large station wagons/minivans,MY2002,82.0,40.0,124.0,,
-Nissan Quest,,very large station wagons/minivans,MY2002,26.0,2.0,51.0,,-0.890210044190172
+Saab 9-5,NAN,midsize luxury cars,MY2002,46.0,3.0,88.0,,0.5068532453425003
+BMW 3 series,NAN,midsize luxury cars,MY2002,34.0,16.0,52.0,,-1.151939193960229
+Acura TL,NAN,midsize luxury cars,MY2002,47.0,24.0,69.0,,0.6450859486177277
+Lincoln Continental,NAN,large luxury cars,MY2002,46.0,14.0,77.0,,0.27551843011411964
+Cadillac DeVille,NAN,large luxury cars,MY2002,26.0,13.0,40.0,,-0.8516024203527341
+BMW 5 series,NAN,large luxury cars,MY2002,38.0,12.0,64.0,,-0.1753299100726219
+Jaguar S-type,NAN,large luxury cars,MY2002,68.0,14.0,123.0,,1.5153513656276587
+Mercedes E class,NAN,large luxury cars,MY2002,10.0,0.0,22.0,,-1.753299100726217
+Volvo S80,NAN,large luxury cars,MY2002,45.0,14.0,76.0,,0.21916238759077694
+Buick Park Avenue,NAN,large luxury cars,MY2002,60.0,38.0,83.0,,1.0645030254409173
+Lincoln LS,NAN,large luxury cars,MY2002,48.0,21.0,75.0,,0.38823051516080503
+Cadillac Eldorado,NAN,large luxury cars,MY2002,29.0,3.0,54.0,,-0.682534292782706
+Mercedes S class,NAN,very large luxury cars,MY2002,25.0,6.0,44.0,,-0.7071067811865475
+Lincoln Town Car,NAN,very large luxury cars,MY2002,62.0,45.0,79.0,,0.7071067811865475
+Mazda Miata,NAN,mini sports cars,MY2002,80.0,37.0,122.0,,
+BMW Z3 Roadster convertible,NAN,small sports cars,MY2002,58.0,12.0,103.0,,
+Chevrolet Camaro,NAN,midsize sports cars,MY2002,186.0,139.0,233.0,,0.598884066986913
+Ford Mustang,NAN,midsize sports cars,MY2002,140.0,115.0,165.0,,-0.30435091928843117
+Pontiac Firebird,NAN,midsize sports cars,MY2002,205.0,147.0,263.0,,0.9719593874049899
+Ford Mustang convertible,NAN,midsize sports cars,MY2002,91.0,60.0,123.0,,-1.2664925351034717
+Ford Focus,NAN,small station wagons/minivans,MY2002,62.0,25.0,99.0,,
+Subaru Legacy,NAN,midsize station wagons/minivans,MY2002,54.0,28.0,79.0,,
+Ford Taurus,NAN,large station wagons/minivans,MY2002,82.0,40.0,124.0,,
+Nissan Quest,NAN,very large station wagons/minivans,MY2002,26.0,2.0,51.0,,-0.890210044190172
 Chevrolet Astro,2WD,very large station wagons/minivans,MY2002,37.0,14.0,59.0,,-0.292557291517897
-Honda Odyssey,,very large station wagons/minivans,MY2002,19.0,8.0,31.0,,-1.270534523163438
-Mazda MPV,,very large station wagons/minivans,MY2002,53.0,18.0,87.0,,0.5767558032781395
-Ford Windstar,,very large station wagons/minivans,MY2002,41.0,30.0,53.0,,-0.07522901781888788
+Honda Odyssey,NAN,very large station wagons/minivans,MY2002,19.0,8.0,31.0,,-1.270534523163438
+Mazda MPV,NAN,very large station wagons/minivans,MY2002,53.0,18.0,87.0,,0.5767558032781395
+Ford Windstar,NAN,very large station wagons/minivans,MY2002,41.0,30.0,53.0,,-0.07522901781888788
 Chevrolet Venture,2WD,very large station wagons/minivans,MY2002,52.0,8.0,97.0,,0.5224237348533871
 Chevrolet Astro,4WD,very large station wagons/minivans,MY2002,66.0,9.0,122.0,,1.283072692799919
 Dodge Grand Caravan,2WD,very large station wagons/minivans,MY2002,52.0,24.0,81.0,,0.5224237348533871
-Toyota Sienna,,very large station wagons/minivans,MY2002,32.0,17.0,47.0,,-0.5642176336416583
-Dodge Caravan,,very large station wagons/minivans,MY2002,83.0,34.0,131.0,,2.206717856020708
+Toyota Sienna,NAN,very large station wagons/minivans,MY2002,32.0,17.0,47.0,,-0.5642176336416583
+Dodge Caravan,NAN,very large station wagons/minivans,MY2002,83.0,34.0,131.0,,2.206717856020708
 Chrysler Town & Country,2WD,very large station wagons/minivans,MY2002,38.0,13.0,62.0,,-0.23822522309314473
 GMC Safari,2WD,very large station wagons/minivans,MY2002,31.0,0.0,66.0,,-0.6185497020664107
-Mercury Villager,,very large station wagons/minivans,MY2002,21.0,3.0,39.0,,-1.1618703863139335
+Mercury Villager,NAN,very large station wagons/minivans,MY2002,21.0,3.0,39.0,,-1.1618703863139335
 Mazda B series,2WD,small pickups,MY2002,185.0,95.0,274.0,,1.7200831198112172
 Dodge Dakota crew cab,4WD,small pickups,MY2002,77.0,36.0,119.0,,-0.9218409534317603
 Chevrolet S10,2WD,small pickups,MY2002,182.0,148.0,216.0,,1.6466963399989123
@@ -968,42 +968,42 @@ Toyota RAV4,4WD,small SUVs,MY2002,18.0,0.0,39.0,,-1.7384229404506706
 Kia Sportage 4dr,2WD,small SUVs,MY2002,197.0,106.0,287.0,,1.3907383523605366
 Subaru Forester,4WD,small SUVs,MY2002,70.0,35.0,105.0,,-0.8293928442150126
 Suzuki Grand Vitara,4WD,small SUVs,MY2002,127.0,56.0,197.0,,0.1670439920433047
-Dodge Durango,4WD,midsize SUVs,MY2002,49.0,34.0,65.0,,-0.6042211300611547
-Mitsubishi Montero Sport,4WD,midsize SUVs,MY2002,89.0,36.0,143.0,,0.037625491615529666
-BMW X5,4WD,midsize SUVs,MY2002,33.0,0.0,74.0,,-0.8609597787318285
-Toyota 4Runner,4WD,midsize SUVs,MY2002,12.0,0.0,29.0,,-1.1979292551120877
-Chevrolet Blazer 4dr,2WD,midsize SUVs,MY2002,190.0,127.0,254.0,,1.6582882113491577
-Mitsubishi Montero Sport,2WD,midsize SUVs,MY2002,121.0,69.0,173.0,,0.5511027889568771
-Chevrolet Blazer 2dr,4WD,midsize SUVs,MY2002,98.0,53.0,142.0,,0.18204098149278364
-Ford Explorer 4dr,4WD,midsize SUVs,MY2002,56.0,19.0,93.0,,-0.49189797126773493
-Jeep Grand Cherokee,2WD,midsize SUVs,MY2002,89.0,57.0,121.0,,0.037625491615529666
-Isuzu Trooper,4WD,midsize SUVs,MY2002,47.0,16.0,78.0,,-0.6363134611449889
-Isuzu Rodeo,2WD,midsize SUVs,MY2002,132.0,84.0,180.0,,0.7276106099179653
-Acura MDX,4WD,midsize SUVs,MY2002,36.0,7.0,65.0,,-0.8128212821060771
-GMC Jimmy,4WD,midsize SUVs,MY2002,95.0,56.0,134.0,,0.13390248486703232
-Ford Explorer 2dr,2WD,midsize SUVs,MY2002,187.0,136.0,239.0,,1.6101497147234063
-Chevrolet Trailblazer,4WD,midsize SUVs,MY2002,86.0,20.0,152.0,,-0.010513005010221664
-Lexus RX 300,4WD,midsize SUVs,MY2002,17.0,0.0,36.0,,-1.1176984274025021
-Nissan Xterra,4WD,midsize SUVs,MY2002,48.0,16.0,79.0,,-0.6202672956030718
-Nissan Pathfinder,2WD,midsize SUVs,MY2002,40.0,8.0,72.0,,-0.7486366199384087
-Ford Exporer 4dr,2WD,midsize SUVs,MY2002,57.0,8.0,106.0,,-0.4758518057258178
-Chevrolet Blazer 4dr,4WD,midsize SUVs,MY2002,101.0,77.0,125.0,,0.23017947811853498
-Dodge Durango,2WD,midsize SUVs,MY2002,42.0,18.0,66.0,,-0.7165442888545744
-Isuzu Rodeo,4WD,midsize SUVs,MY2002,60.0,17.0,103.0,,-0.4277133091000665
-Jeep Grand Cherokee,4WD,midsize SUVs,MY2002,55.0,42.0,68.0,,-0.507944136809652
-Nissan Pathfinder,4WD,midsize SUVs,MY2002,25.0,11.0,39.0,,-0.9893291030671654
-Chevrolet Blazer 2dr,2WD,midsize SUVs,MY2002,308.0,190.0,426.0,,3.5517357452953764
-Nissan Xterra,2WD,midsize SUVs,MY2002,101.0,50.0,152.0,,0.23017947811853498
-Jeep Liberty,4WD,midsize SUVs,MY2002,86.0,27.0,145.0,,-0.010513005010221664
-Ford Explorer 2dr,4WD,midsize SUVs,MY2002,134.0,87.0,181.0,,0.7597029410017996
-Land Rover Discovery Series II,4WD,midsize SUVs,MY2002,119.0,53.0,184.0,,0.5190104578730429
-Chevrolet Suburban 1/2 ton,4WD,large SUVs,MY2002,47.0,22.0,73.0,,-1.0863205902456194
-GMC Yukon,4WD,large SUVs,MY2002,52.0,8.0,96.0,,-0.7301499049191869
-Chevrolet Suburban 1/2 ton,2WD,large SUVs,MY2002,73.0,26.0,120.0,,0.7657669734518301
-GMC Yukon XL,4WD,large SUVs,MY2002,51.0,10.0,91.0,,-0.8013840419844733
-Chevrolet Tahoe,4WD,large SUVs,MY2002,75.0,43.0,106.0,,0.9082352475824031
-Ford Expedition,4WD,large SUVs,MY2002,50.0,33.0,67.0,,-0.8726181790497599
-Ford Expedition,2WD,large SUVs,MY2002,66.0,46.0,86.0,,0.26712801399482444
-Chevrolet Tahoe,2WD,large SUVs,MY2002,84.0,45.0,123.0,,1.5493424811699819
+Dodge Durango,4WD,large SUVs,MY2002,49.0,34.0,65.0,,-0.6899703982931479
+Mitsubishi Montero Sport,4WD,midsize SUVs,MY2002,89.0,36.0,143.0,,-0.07992172960065103
+BMW X5,4WD,midsize luxury SUVs,MY2002,33.0,0.0,74.0,,-0.7071067811865476
+Toyota 4Runner,4WD,midsize SUVs,MY2002,12.0,0.0,29.0,,-1.2818696161729408
+Chevrolet Blazer 4dr,2WD,midsize SUVs,MY2002,190.0,127.0,254.0,,1.49665926447469
+Mitsubishi Montero Sport,2WD,midsize SUVs,MY2002,121.0,69.0,173.0,,0.4195890804034174
+Chevrolet Blazer 2dr,4WD,midsize SUVs,MY2002,98.0,53.0,142.0,,0.06056568571299323
+Ford Explorer 4dr,4WD,midsize SUVs,MY2002,56.0,19.0,93.0,,-0.5950422524173467
+Jeep Grand Cherokee,2WD,midsize SUVs,MY2002,89.0,57.0,121.0,,-0.07992172960065103
+Isuzu Trooper,4WD,midsize SUVs,MY2002,47.0,16.0,78.0,,-0.7355296677309908
+Isuzu Rodeo,2WD,midsize SUVs,MY2002,132.0,84.0,180.0,,0.5912959213423159
+Acura MDX,4WD,midsize luxury SUVs,MY2002,36.0,7.0,65.0,,0.7071067811865476
+GMC Jimmy,4WD,midsize SUVs,MY2002,95.0,56.0,134.0,,0.013736547275111812
+Ford Explorer 2dr,2WD,midsize SUVs,MY2002,187.0,136.0,239.0,,1.4498301260368085
+Chevrolet Trailblazer,4WD,midsize SUVs,MY2002,86.0,20.0,152.0,,-0.12675086803853244
+Lexus RX 300,4WD,midsize SUVs,MY2002,17.0,0.0,36.0,,-1.203821052109805
+Nissan Xterra,4WD,midsize SUVs,MY2002,48.0,16.0,79.0,,-0.7199199549183637
+Nissan Pathfinder,2WD,midsize SUVs,MY2002,40.0,8.0,72.0,,-0.8447976574193808
+Ford Exporer 4dr,2WD,midsize SUVs,MY2002,57.0,8.0,106.0,,-0.5794325396047195
+Chevrolet Blazer 4dr,4WD,midsize SUVs,MY2002,101.0,77.0,125.0,,0.10739482415087465
+Dodge Durango,2WD,large SUVs,MY2002,42.0,18.0,66.0,,-1.1778282556721416
+Isuzu Rodeo,4WD,midsize SUVs,MY2002,60.0,17.0,103.0,,-0.532603401166838
+Jeep Grand Cherokee,4WD,midsize SUVs,MY2002,55.0,42.0,68.0,,-0.6106519652299738
+Nissan Pathfinder,4WD,midsize SUVs,MY2002,25.0,11.0,39.0,,-1.078943349608788
+Chevrolet Blazer 2dr,2WD,midsize SUVs,MY2002,308.0,190.0,426.0,,3.3386053763646926
+Nissan Xterra,2WD,midsize SUVs,MY2002,101.0,50.0,152.0,,0.10739482415087465
+Jeep Liberty,4WD,midsize SUVs,MY2002,86.0,27.0,145.0,,-0.12675086803853244
+Ford Explorer 2dr,4WD,midsize SUVs,MY2002,134.0,87.0,181.0,,0.6225153469675703
+Land Rover Discovery Series II,4WD,midsize SUVs,MY2002,119.0,53.0,184.0,,0.38836965477816315
+Chevrolet Suburban 1/2 ton,4WD,large SUVs,MY2002,47.0,22.0,73.0,,-0.829358357544289
+GMC Yukon,4WD,large SUVs,MY2002,52.0,8.0,96.0,,-0.4808884594164364
+Chevrolet Suburban 1/2 ton,2WD,large SUVs,MY2002,73.0,26.0,120.0,,0.9826851127205443
+GMC Yukon XL,4WD,large SUVs,MY2002,51.0,10.0,91.0,,-0.5505824390420069
+Chevrolet Tahoe,4WD,large SUVs,MY2002,75.0,43.0,106.0,,1.1220730719716854
+Ford Expedition,4WD,large SUVs,MY2002,50.0,33.0,67.0,,-0.6202764186675774
+Ford Expedition,2WD,large SUVs,MY2002,66.0,46.0,86.0,,0.4948272553415507
+Chevrolet Tahoe,2WD,large SUVs,MY2002,84.0,45.0,123.0,,1.7493188886018198
 Ford Excursion,4WD,very large SUVs,MY2002,107.0,41.0,173.0,,
-Chevrolet Blazer,2WD,midsize SUVs,MY2004,232.0,146.0,318.0,,3.1996484669736893
+Chevrolet Blazer,2WD,midsize SUVs,MY2004,232.0,146.0,318.0,,3.185657988799235
