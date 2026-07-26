@@ -20,6 +20,9 @@ TEMPLATE = Template("""<!doctype html><html><head><meta charset="utf-8">
 </style></head><body>
 <h1>How much do IIHS ratings predict real-world driver fatality risk?</h1>
 
+<h2>Data status — what this report can and cannot say yet</h2>
+{{ status | safe }}
+
 <h2>Variance decomposition</h2>
 <p>Incremental R² of each block in <code>log(rate) ~ class + curb_weight +
 luxury + rating_composite</code>. This is the headline: how much the ratings
@@ -54,6 +57,53 @@ away. Nothing here is causal.</li>
 </body></html>""")
 
 
+def _data_status() -> str:
+    """Plain-language inventory of what's loaded and what each gap means."""
+    from .analysis.frames import con
+    c = con()
+    counts = {t: c.execute(f"SELECT count(*) FROM {t}").fetchone()[0]
+              for t in ["fact_death_rate", "fact_rating", "fact_fars_crash",
+                        "fact_crss_involve"]}
+    items = []
+    items.append(
+        f"<li><b>IIHS death rates: loaded</b> ({counts['fact_death_rate']} "
+        "model-cycle rows). Everything about death-rate levels, class effects, "
+        "and cross-cycle persistence is real and validated against IIHS's own "
+        "published totals.</li>")
+    if counts["fact_rating"]:
+        items.append(
+            f"<li><b>IIHS crashworthiness ratings: loaded</b> "
+            f"({counts['fact_rating']} test results). The rating-vs-death-rate "
+            "correlations below are real, but they are <i>aggregate-level</i>: "
+            "they mix how often people crash with how well the car protects "
+            "them when they do.</li>")
+    else:
+        items.append(
+            "<li><b>IIHS crashworthiness ratings: NOT loaded.</b> Every "
+            "analysis involving ratings (naive correlation, within-class "
+            "correlation, variance decomposition) is skipped. Nothing in this "
+            "report says anything about whether ratings predict deaths.</li>")
+    if counts["fact_fars_crash"] and counts["fact_crss_involve"]:
+        items.append("<li><b>FARS + CRSS crash data: loaded.</b> The "
+                     "conditional survival model separates crashing from "
+                     "surviving a crash.</li>")
+    else:
+        items.append(
+            "<li><b>FARS + CRSS crash-level data: NOT loaded.</b> This is the "
+            "big one. Without it we cannot separate <i>who crashes</i> from "
+            "<i>who survives a crash</i>. Any rating-vs-death-rate pattern "
+            "shown here could just mean careful drivers buy highly-rated cars. "
+            "The survival model and the placebo checks (validation gates 3-4) "
+            "wait on this data plus the full FARS crosswalk.</li>")
+    items.append(
+        "<li><b>Curb weights (vPIC): NOT loaded</b> unless noted in the "
+        "variance table. Class absorbs some of the vehicle-mass effect, but "
+        "weight differences <i>within</i> a class are invisible, so the "
+        "ratings block may soak up credit that belongs to mass.</li>"
+        if counts["fact_fars_crash"] == 0 else "")
+    return "<ul>" + "".join(i for i in items if i) + "</ul>"
+
+
 def _table(path, empty_msg: str) -> str:
     p = OUTPUTS / path
     if not p.exists():
@@ -83,6 +133,7 @@ def run() -> None:
         placebo = sdf[sdf["placebo"] == True].to_html(index=False, na_rep="")  # noqa: E712
 
     html = TEMPLATE.render(
+        status=_data_status(),
         vd=_table("variance_decomposition.csv", "variance decomposition not yet run"),
         placebo=placebo,
         gates=_table("validation_gates.csv", "gates not yet run"),
